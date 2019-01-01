@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 25/03/2024 09:50:10
+ Date: 01/01/2019 08:03:04
 */
 
 SET NAMES utf8mb4;
@@ -32,6 +32,7 @@ CREATE TABLE `game` (
 -- Records of game
 -- ----------------------------
 BEGIN;
+INSERT INTO `game` VALUES ('ABZU', 'PS4', '2024-05-06 00:00:00');
 INSERT INTO `game` VALUES ('armored warriors', 'PS4', '2021-05-16 00:00:00');
 INSERT INTO `game` VALUES ('battleheart', 'Android', '2011-10-23 00:00:00');
 INSERT INTO `game` VALUES ('battleheart2', 'iOS', '2020-10-09 00:00:00');
@@ -161,6 +162,7 @@ INSERT INTO `game` VALUES ('太鼓达人', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `game` VALUES ('太鼓达人：春天，我把曲子全变新了！', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `game` VALUES ('太鼓达人：热闹缤纷第三代', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `game` VALUES ('失落的记忆', 'iOS', '2021-04-28 00:00:00');
+INSERT INTO `game` VALUES ('奇妙逃亡', 'PS4', '2024-05-07 00:00:00');
 INSERT INTO `game` VALUES ('奥丁领域', 'PS4', '2020-02-26 00:00:00');
 INSERT INTO `game` VALUES ('女神异闻录4G', 'PSV', '2014-04-13 00:00:00');
 INSERT INTO `game` VALUES ('女神异闻录4通宵热舞', 'PSV', '2020-07-10 00:00:00');
@@ -201,6 +203,7 @@ INSERT INTO `game` VALUES ('恶魔城：暗黑诅咒', 'PS2', '2008-04-16 00:00:
 INSERT INTO `game` VALUES ('恶魔城：月之轮回', 'PS4', '2021-12-25 00:00:00');
 INSERT INTO `game` VALUES ('恶魔城：白夜协奏曲', 'PS4', '2022-04-11 00:00:00');
 INSERT INTO `game` VALUES ('悲恋湖杀人事件', 'PC', '2019-05-12 00:00:00');
+INSERT INTO `game` VALUES ('我的朋友佩德罗', 'PS4', '2024-05-07 00:00:00');
 INSERT INTO `game` VALUES ('战斗回路', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `game` VALUES ('战略娘2', 'PC', '2020-04-19 00:00:00');
 INSERT INTO `game` VALUES ('战神', 'PSV', '2014-08-16 00:00:00');
@@ -282,12 +285,14 @@ INSERT INTO `game` VALUES ('江湖群侠传', 'iOS', '2019-03-24 00:00:00');
 INSERT INTO `game` VALUES ('江湖群侠传2', 'iOS', '2019-03-30 00:00:00');
 INSERT INTO `game` VALUES ('泰坦之旅', 'PC', '2009-09-26 00:00:00');
 INSERT INTO `game` VALUES ('泰坦攻击', 'PSV', '2015-02-09 00:00:00');
+INSERT INTO `game` VALUES ('洛克人11', 'PS4', '2024-04-07 00:00:00');
 INSERT INTO `game` VALUES ('深夜迴', 'PS4', '2022-04-21 00:00:00');
 INSERT INTO `game` VALUES ('混沌军团', 'PC', '2011-12-05 00:00:00');
 INSERT INTO `game` VALUES ('漫威蜘蛛侠：迈尔斯莫拉莱斯', 'PS4', '2022-08-09 00:00:00');
 INSERT INTO `game` VALUES ('火影忍者：木叶的忍者英雄们', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `game` VALUES ('火影忍者：木叶的忍者英雄们2', 'PS2', '2008-05-28 00:00:00');
 INSERT INTO `game` VALUES ('火焰纹章 无双', 'NS', '2020-12-03 00:00:00');
+INSERT INTO `game` VALUES ('灵魂能力6', 'PS4', '2024-03-25 00:00:00');
 INSERT INTO `game` VALUES ('炎龙骑士团2：黄金城之谜', 'PC', '2008-06-06 00:00:00');
 INSERT INTO `game` VALUES ('炎龙骑士团外传：风之纹章', 'PC', '2009-04-22 00:00:00');
 INSERT INTO `game` VALUES ('炎龙骑士团：邪神之封印', 'PC', '2008-05-25 00:00:00');
