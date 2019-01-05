@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 11/06/2024 13:51:35
+ Date: 05/01/2019 08:05:37
 */
 
 SET NAMES utf8mb4;
@@ -85,6 +85,7 @@ INSERT INTO `game` VALUES ('人中之龙 极2', 'PS4', '2022-10-24 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙3', 'PS4', '2023-01-02 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙4：继承传说者', 'PS4', '2023-03-18 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙5：实现梦想者', 'PS4', '2023-09-05 11:12:18');
+INSERT INTO `game` VALUES ('仁王2', 'PS4', '2024-06-28 00:00:00');
 INSERT INTO `game` VALUES ('仙剑奇侠传', 'iOS', '2021-06-30 00:00:00');
 INSERT INTO `game` VALUES ('仙剑奇侠传2', 'PC', '2008-08-03 00:00:00');
 INSERT INTO `game` VALUES ('仙剑奇侠传3', 'PC', '2008-11-13 00:00:00');
@@ -141,6 +142,7 @@ INSERT INTO `game` VALUES ('噬神者2', 'PSV', '2015-02-27 00:00:00');
 INSERT INTO `game` VALUES ('四海兄弟2：最终版', 'PS4', '2024-01-06 00:00:00');
 INSERT INTO `game` VALUES ('回音战机', 'PS2', '2008-05-30 00:00:00');
 INSERT INTO `game` VALUES ('圆桌骑士', 'PS2', '2008-07-16 00:00:00');
+INSERT INTO `game` VALUES ('圣剑传说：玛娜试炼', 'PS5', '2024-08-02 00:00:00');
 INSERT INTO `game` VALUES ('圣少女战队', 'PC', '2020-03-28 00:00:00');
 INSERT INTO `game` VALUES ('圣少女战队3', 'PC', '2007-07-24 00:00:00');
 INSERT INTO `game` VALUES ('圣斗士星矢：冥王哈迪斯篇', 'PS2', '2008-04-26 00:00:00');
@@ -281,6 +283,7 @@ INSERT INTO `game` VALUES ('武林群侠传', 'PC', '2009-06-16 00:00:00');
 INSERT INTO `game` VALUES ('死亡终局 轮回试炼', 'PS4', '2022-11-06 00:00:00');
 INSERT INTO `game` VALUES ('死亡终局 轮回试炼2', 'PS4', '2022-11-23 00:00:00');
 INSERT INTO `game` VALUES ('毁灭战士', 'PS4', '2021-08-25 00:00:00');
+INSERT INTO `game` VALUES ('毁灭战士2', 'PS4', '2024-07-15 00:00:00');
 INSERT INTO `game` VALUES ('毁灭战士3', 'PS4', '2021-08-29 00:00:00');
 INSERT INTO `game` VALUES ('永恒格斗Zero', 'PC', '2009-09-19 00:00:00');
 INSERT INTO `game` VALUES ('汐', 'PS4', '2021-02-24 00:00:00');
@@ -290,6 +293,7 @@ INSERT INTO `game` VALUES ('泰坦之旅', 'PC', '2009-09-26 00:00:00');
 INSERT INTO `game` VALUES ('泰坦攻击', 'PSV', '2015-02-09 00:00:00');
 INSERT INTO `game` VALUES ('洛克人', 'PS4', '2024-06-11 00:00:00');
 INSERT INTO `game` VALUES ('洛克人11', 'PS4', '2024-04-07 00:00:00');
+INSERT INTO `game` VALUES ('洛克人2', 'PS4', '2024-07-07 00:00:00');
 INSERT INTO `game` VALUES ('深夜迴', 'PS4', '2022-04-21 00:00:00');
 INSERT INTO `game` VALUES ('混沌军团', 'PC', '2011-12-05 00:00:00');
 INSERT INTO `game` VALUES ('漫威蜘蛛侠：迈尔斯莫拉莱斯', 'PS4', '2022-08-09 00:00:00');
@@ -399,7 +403,9 @@ INSERT INTO `game` VALUES ('金庸快打', 'PC', '2007-09-04 00:00:00');
 INSERT INTO `game` VALUES ('金庸群侠传', 'PC', '2007-09-06 00:00:00');
 INSERT INTO `game` VALUES ('钢之炼金术士：无法飞翔的天使', 'PS2', '2008-10-24 00:00:00');
 INSERT INTO `game` VALUES ('钢铁之尾', 'PS4', '2023-05-03 00:00:00');
+INSERT INTO `game` VALUES ('铁拳2', 'PS5', '2024-08-02 00:00:00');
 INSERT INTO `game` VALUES ('铁拳5', 'PS2', '2009-04-12 00:00:00');
+INSERT INTO `game` VALUES ('铁拳6', 'PS4', '2024-07-05 00:00:00');
 INSERT INTO `game` VALUES ('铁拳7', 'PS4', '2022-02-27 00:00:00');
 INSERT INTO `game` VALUES ('银白钢铁X', 'PS4', '2022-11-25 00:00:00');
 INSERT INTO `game` VALUES ('陆小凤：金鹏王朝', 'PC', '2009-01-25 00:00:00');
