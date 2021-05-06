@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 13/04/2021 11:11:42
+ Date: 06/05/2021 15:12:26
 */
 
 SET NAMES utf8mb4;
@@ -43,6 +43,7 @@ INSERT INTO `Game` VALUES ('FEZ', 'PSV', '2015-01-31 00:00:00');
 INSERT INTO `Game` VALUES ('flower', 'PSV', '2015-02-14 00:00:00');
 INSERT INTO `Game` VALUES ('NBA2K15', 'PS4', '2015-12-20 00:00:00');
 INSERT INTO `Game` VALUES ('NOX', 'PC', '2009-03-17 00:00:00');
+INSERT INTO `Game` VALUES ('simulacra', 'iOS', '2021-05-01 00:00:00');
 INSERT INTO `Game` VALUES ('solitairica', 'iOS', '2020-05-09 00:00:00');
 INSERT INTO `Game` VALUES ('The Swapper', 'PS4', '2020-12-11 00:00:00');
 INSERT INTO `Game` VALUES ('Ultratron', 'PS4', '2020-11-01 00:00:00');
@@ -118,6 +119,7 @@ INSERT INTO `Game` VALUES ('天龙八部', 'PC', '2007-09-09 00:00:00');
 INSERT INTO `Game` VALUES ('太鼓达人', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `Game` VALUES ('太鼓达人：春天，我把曲子全变新了！', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `Game` VALUES ('太鼓达人：热闹缤纷第三代', 'PS2', '2008-05-25 00:00:00');
+INSERT INTO `Game` VALUES ('失落的记忆', 'iOS', '2021-04-28 00:00:00');
 INSERT INTO `Game` VALUES ('奥丁领域', 'PS4', '2020-02-26 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录4G', 'PSV', '2014-04-13 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录4通宵热舞', 'PSV', '2020-07-10 00:00:00');
@@ -243,6 +245,7 @@ INSERT INTO `Game` VALUES ('英雄传说：空之轨迹SC', 'PC', '2009-03-09 00
 INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹', 'PSV', '2019-06-06 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹2', 'PS4', '2021-02-17 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹3', 'PS4', '2021-03-28 00:00:00');
+INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹4', 'PS4', '2021-04-15 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：零之轨迹', 'PC', '2015-03-07 00:00:00');
 INSERT INTO `Game` VALUES ('英雄纹章', 'iOS', '2018-12-07 00:00:00');
 INSERT INTO `Game` VALUES ('血污：夜之仪式', 'PS4', '2021-03-01 00:00:00');
