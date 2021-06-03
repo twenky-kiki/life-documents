@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 13/04/2021 11:11:42
+ Date: 03/06/2021 16:04:01
 */
 
 SET NAMES utf8mb4;
@@ -32,10 +32,12 @@ CREATE TABLE `Game` (
 -- Records of Game
 -- ----------------------------
 BEGIN;
+INSERT INTO `Game` VALUES ('armored warriors', 'PS4', '2021-05-16 00:00:00');
 INSERT INTO `Game` VALUES ('battleheart', 'Android', '2011-10-23 00:00:00');
 INSERT INTO `Game` VALUES ('battleheart2', 'iOS', '2020-10-09 00:00:00');
 INSERT INTO `Game` VALUES ('battleheart：legacy', 'iOS', '2015-06-03 00:00:00');
 INSERT INTO `Game` VALUES ('CAPCOM VS SNK2', 'PS2', '2008-03-16 00:00:00');
+INSERT INTO `Game` VALUES ('coffee talk', 'PS4', '2021-05-13 00:00:00');
 INSERT INTO `Game` VALUES ('DJMAX TECHNIKA TUNE', 'PSV', '2014-08-13 00:00:00');
 INSERT INTO `Game` VALUES ('DOA2：Hard Core', 'PS2', '2010-03-14 00:00:00');
 INSERT INTO `Game` VALUES ('DOA5+', 'PSV', '2014-09-14 00:00:00');
@@ -43,6 +45,7 @@ INSERT INTO `Game` VALUES ('FEZ', 'PSV', '2015-01-31 00:00:00');
 INSERT INTO `Game` VALUES ('flower', 'PSV', '2015-02-14 00:00:00');
 INSERT INTO `Game` VALUES ('NBA2K15', 'PS4', '2015-12-20 00:00:00');
 INSERT INTO `Game` VALUES ('NOX', 'PC', '2009-03-17 00:00:00');
+INSERT INTO `Game` VALUES ('simulacra', 'iOS', '2021-05-01 00:00:00');
 INSERT INTO `Game` VALUES ('solitairica', 'iOS', '2020-05-09 00:00:00');
 INSERT INTO `Game` VALUES ('The Swapper', 'PS4', '2020-12-11 00:00:00');
 INSERT INTO `Game` VALUES ('Ultratron', 'PS4', '2020-11-01 00:00:00');
@@ -93,6 +96,7 @@ INSERT INTO `Game` VALUES ('吉他英雄3：摇滚传奇', 'WII', '2009-01-30 00
 INSERT INTO `Game` VALUES ('吉他英雄返场：摇滚80年代', 'PS2', '2008-05-05 00:00:00');
 INSERT INTO `Game` VALUES ('同级生2', 'PC', '2011-01-16 00:00:00');
 INSERT INTO `Game` VALUES ('名将', 'PS2', '2008-05-30 00:00:00');
+INSERT INTO `Game` VALUES ('吞食天地2：赤壁之战', 'PS4', '2021-05-17 00:00:00');
 INSERT INTO `Game` VALUES ('吸血鬼', 'PS4', '2020-11-23 00:00:00');
 INSERT INTO `Game` VALUES ('命运石之门', 'PC', '2014-09-13 00:00:00');
 INSERT INTO `Game` VALUES ('嘿咻魔法娘', 'PC', '2008-12-30 00:00:00');
@@ -118,6 +122,7 @@ INSERT INTO `Game` VALUES ('天龙八部', 'PC', '2007-09-09 00:00:00');
 INSERT INTO `Game` VALUES ('太鼓达人', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `Game` VALUES ('太鼓达人：春天，我把曲子全变新了！', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `Game` VALUES ('太鼓达人：热闹缤纷第三代', 'PS2', '2008-05-25 00:00:00');
+INSERT INTO `Game` VALUES ('失落的记忆', 'iOS', '2021-04-28 00:00:00');
 INSERT INTO `Game` VALUES ('奥丁领域', 'PS4', '2020-02-26 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录4G', 'PSV', '2014-04-13 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录4通宵热舞', 'PSV', '2020-07-10 00:00:00');
@@ -135,9 +140,11 @@ INSERT INTO `Game` VALUES ('式神之城3', 'PC', '2007-07-07 00:00:00');
 INSERT INTO `Game` VALUES ('忍者龙剑传Σ+', 'PSV', '2015-07-04 00:00:00');
 INSERT INTO `Game` VALUES ('忍者龙剑传Σ2+', 'PSV', '2014-05-04 00:00:00');
 INSERT INTO `Game` VALUES ('忘却之声', 'iOS', '2017-05-14 00:00:00');
+INSERT INTO `Game` VALUES ('快打旋风', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城：无罪的叹息', 'PS2', '2009-04-13 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城：暗黑诅咒', 'PS2', '2008-04-16 00:00:00');
 INSERT INTO `Game` VALUES ('悲恋湖杀人事件', 'PC', '2019-05-12 00:00:00');
+INSERT INTO `Game` VALUES ('战斗回路', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `Game` VALUES ('战略娘2', 'PC', '2020-04-19 00:00:00');
 INSERT INTO `Game` VALUES ('战神', 'PSV', '2014-08-16 00:00:00');
 INSERT INTO `Game` VALUES ('战神2', 'PSV', '2019-06-13 00:00:00');
@@ -176,6 +183,7 @@ INSERT INTO `Game` VALUES ('暗魂献祭', 'PSV', '2014-09-08 00:00:00');
 INSERT INTO `Game` VALUES ('暗魂献祭Delta', 'PSV', '2015-08-22 00:00:00');
 INSERT INTO `Game` VALUES ('暗黑破坏神2：原版/毁灭王座', 'PC', '2012-01-20 00:00:00');
 INSERT INTO `Game` VALUES ('暗黑破坏神3', 'PC', '2013-05-12 00:00:00');
+INSERT INTO `Game` VALUES ('暴力街区', 'iOS', '2021-05-16 00:00:00');
 INSERT INTO `Game` VALUES ('暴力街区2', 'iOS', '2018-11-18 00:00:00');
 INSERT INTO `Game` VALUES ('暴雨', 'PS4', '2020-12-29 00:00:00');
 INSERT INTO `Game` VALUES ('最终幻想7重制版', 'PS4', '2021-03-13 00:00:00');
@@ -208,6 +216,8 @@ INSERT INTO `Game` VALUES ('炎龙骑士团2：黄金城之谜', 'PC', '2008-06-
 INSERT INTO `Game` VALUES ('炎龙骑士团外传：风之纹章', 'PC', '2009-04-22 00:00:00');
 INSERT INTO `Game` VALUES ('炎龙骑士团：邪神之封印', 'PC', '2008-05-25 00:00:00');
 INSERT INTO `Game` VALUES ('狂龙传', 'PC', '2020-05-04 00:00:00');
+INSERT INTO `Game` VALUES ('猫娘乐园1', 'PS4', '2021-05-18 00:00:00');
+INSERT INTO `Game` VALUES ('王国保卫战：复仇', 'iOS', '2021-05-12 00:00:00');
 INSERT INTO `Game` VALUES ('生化危机：启示录2', 'PS4', '2015-09-20 00:00:00');
 INSERT INTO `Game` VALUES ('百花物语：镜花缘', 'PC', '2008-10-24 00:00:00');
 INSERT INTO `Game` VALUES ('盗贼遗产', 'PSV', '2016-10-07 00:00:00');
@@ -243,9 +253,11 @@ INSERT INTO `Game` VALUES ('英雄传说：空之轨迹SC', 'PC', '2009-03-09 00
 INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹', 'PSV', '2019-06-06 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹2', 'PS4', '2021-02-17 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹3', 'PS4', '2021-03-28 00:00:00');
+INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹4', 'PS4', '2021-04-15 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：零之轨迹', 'PC', '2015-03-07 00:00:00');
 INSERT INTO `Game` VALUES ('英雄纹章', 'iOS', '2018-12-07 00:00:00');
 INSERT INTO `Game` VALUES ('血污：夜之仪式', 'PS4', '2021-03-01 00:00:00');
+INSERT INTO `Game` VALUES ('血源诅咒：老猎人版', 'PS4', '2021-05-10 00:00:00');
 INSERT INTO `Game` VALUES ('街头霸王', 'PS2', '2008-05-29 00:00:00');
 INSERT INTO `Game` VALUES ('街头霸王3：第三次冲击', 'PS2', '2008-05-04 00:00:00');
 INSERT INTO `Game` VALUES ('街头霸王4', 'PC', '2009-07-23 00:00:00');
