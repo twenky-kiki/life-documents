@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 03/06/2021 16:04:01
+ Date: 07/06/2021 09:38:51
 */
 
 SET NAMES utf8mb4;
@@ -50,6 +50,7 @@ INSERT INTO `Game` VALUES ('solitairica', 'iOS', '2020-05-09 00:00:00');
 INSERT INTO `Game` VALUES ('The Swapper', 'PS4', '2020-12-11 00:00:00');
 INSERT INTO `Game` VALUES ('Ultratron', 'PS4', '2020-11-01 00:00:00');
 INSERT INTO `Game` VALUES ('Velocity 2X', 'PSV', '2014-10-10 00:00:00');
+INSERT INTO `Game` VALUES ('VR战士5', 'PS4', '2021-06-06 00:00:00');
 INSERT INTO `Game` VALUES ('VR特警2', 'PC', '2007-11-28 00:00:00');
 INSERT INTO `Game` VALUES ('一骑当千：闪耀之龙', 'PS2', '2008-04-25 00:00:00');
 INSERT INTO `Game` VALUES ('万智牌：旅法师的对决', 'PC', '2011-08-21 00:00:00');
@@ -148,6 +149,7 @@ INSERT INTO `Game` VALUES ('战斗回路', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `Game` VALUES ('战略娘2', 'PC', '2020-04-19 00:00:00');
 INSERT INTO `Game` VALUES ('战神', 'PSV', '2014-08-16 00:00:00');
 INSERT INTO `Game` VALUES ('战神2', 'PSV', '2019-06-13 00:00:00');
+INSERT INTO `Game` VALUES ('战神3', 'PS4', '2021-05-26 00:00:00');
 INSERT INTO `Game` VALUES ('拳皇2000', 'PS2', '2008-03-12 00:00:00');
 INSERT INTO `Game` VALUES ('拳皇2001', 'PS2', '2008-03-12 00:00:00');
 INSERT INTO `Game` VALUES ('拳皇2002', 'PS2', '2008-03-12 00:00:00');
@@ -186,6 +188,7 @@ INSERT INTO `Game` VALUES ('暗黑破坏神3', 'PC', '2013-05-12 00:00:00');
 INSERT INTO `Game` VALUES ('暴力街区', 'iOS', '2021-05-16 00:00:00');
 INSERT INTO `Game` VALUES ('暴力街区2', 'iOS', '2018-11-18 00:00:00');
 INSERT INTO `Game` VALUES ('暴雨', 'PS4', '2020-12-29 00:00:00');
+INSERT INTO `Game` VALUES ('最后生还者', 'PS4', '2021-06-06 00:00:00');
 INSERT INTO `Game` VALUES ('最终幻想7重制版', 'PS4', '2021-03-13 00:00:00');
 INSERT INTO `Game` VALUES ('最终幻想X', 'PS2', '2009-05-23 00:00:00');
 INSERT INTO `Game` VALUES ('月圆之夜', 'iOS', '2018-12-11 00:00:00');
