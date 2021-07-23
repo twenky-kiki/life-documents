@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 07/06/2021 09:38:51
+ Date: 23/07/2021 10:18:53
 */
 
 SET NAMES utf8mb4;
@@ -64,6 +64,7 @@ INSERT INTO `Game` VALUES ('不义联盟', 'PS4', '2020-06-23 00:00:00');
 INSERT INTO `Game` VALUES ('中土世界：战争之影', 'PS4', '2020-12-26 00:00:00');
 INSERT INTO `Game` VALUES ('丽兽', 'PC', '2020-04-11 00:00:00');
 INSERT INTO `Game` VALUES ('人中之龙极', 'PS4', '2020-03-15 00:00:00');
+INSERT INTO `Game` VALUES ('仙剑奇侠传', 'iOS', '2021-06-30 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传2', 'PC', '2008-08-03 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传3', 'PC', '2008-11-13 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传4', 'PC', '2008-12-03 00:00:00');
@@ -75,6 +76,7 @@ INSERT INTO `Game` VALUES ('侠客风云传', 'iOS', '2019-04-05 00:00:00');
 INSERT INTO `Game` VALUES ('侠盗猎车手5', 'PS4', '2019-10-17 00:00:00');
 INSERT INTO `Game` VALUES ('俺尸2：跨过俺的尸体前进吧', 'PSV', '2014-12-14 00:00:00');
 INSERT INTO `Game` VALUES ('光之子', 'PSV', '2015-01-28 00:00:00');
+INSERT INTO `Game` VALUES ('克鲁苏的召唤', 'PS4', '2021-06-09 00:00:00');
 INSERT INTO `Game` VALUES ('写真天蚕变', 'PC', '2007-09-04 00:00:00');
 INSERT INTO `Game` VALUES ('决战俄罗斯', 'PC', '2020-04-04 00:00:00');
 INSERT INTO `Game` VALUES ('刀剑封魔录', 'PC', '2008-12-13 00:00:00');
@@ -169,6 +171,7 @@ INSERT INTO `Game` VALUES ('教父', 'PS2', '2009-03-15 00:00:00');
 INSERT INTO `Game` VALUES ('新剑侠情缘', 'PC', '2009-03-25 00:00:00');
 INSERT INTO `Game` VALUES ('新圣魔大战', 'PC', '2009-06-26 00:00:00');
 INSERT INTO `Game` VALUES ('新枪弹辩驳V3：大家互相残杀的新学期', 'PS4', '2017-10-07 00:00:00');
+INSERT INTO `Game` VALUES ('新樱花大战', 'PS4', '2021-06-20 00:00:00');
 INSERT INTO `Game` VALUES ('新神雕侠侣', 'PC', '2008-12-29 00:00:00');
 INSERT INTO `Game` VALUES ('新纪幻想：圣魔之魂2', 'PS2', '2009-04-11 00:00:00');
 INSERT INTO `Game` VALUES ('新豪血寺一族：烦恼解放', 'PS2', '2008-03-27 00:00:00');
