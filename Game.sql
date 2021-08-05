@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 23/07/2021 10:18:53
+ Date: 05/08/2021 09:18:02
 */
 
 SET NAMES utf8mb4;
@@ -52,6 +52,7 @@ INSERT INTO `Game` VALUES ('Ultratron', 'PS4', '2020-11-01 00:00:00');
 INSERT INTO `Game` VALUES ('Velocity 2X', 'PSV', '2014-10-10 00:00:00');
 INSERT INTO `Game` VALUES ('VR战士5', 'PS4', '2021-06-06 00:00:00');
 INSERT INTO `Game` VALUES ('VR特警2', 'PC', '2007-11-28 00:00:00');
+INSERT INTO `Game` VALUES ('一夜情', 'PS4', '2021-08-02 00:00:00');
 INSERT INTO `Game` VALUES ('一骑当千：闪耀之龙', 'PS2', '2008-04-25 00:00:00');
 INSERT INTO `Game` VALUES ('万智牌：旅法师的对决', 'PC', '2011-08-21 00:00:00');
 INSERT INTO `Game` VALUES ('万里长城之麒麟传说', 'PC', '2020-04-05 00:00:00');
@@ -229,6 +230,7 @@ INSERT INTO `Game` VALUES ('百花物语：镜花缘', 'PC', '2008-10-24 00:00:0
 INSERT INTO `Game` VALUES ('盗贼遗产', 'PSV', '2016-10-07 00:00:00');
 INSERT INTO `Game` VALUES ('真三国无双4', 'PS2', '2008-05-21 00:00:00');
 INSERT INTO `Game` VALUES ('真三国无双NEXT', 'PSV', '2014-04-27 00:00:00');
+INSERT INTO `Game` VALUES ('真人快打11', 'PS4', '2021-07-25 00:00:00');
 INSERT INTO `Game` VALUES ('真人快打X', 'PS4', '2017-10-17 00:00:00');
 INSERT INTO `Game` VALUES ('真人快打：少林武僧', 'PS2', '2008-05-20 00:00:00');
 INSERT INTO `Game` VALUES ('真人快打：末日战场', 'PS2', '2008-04-27 00:00:00');
@@ -251,6 +253,7 @@ INSERT INTO `Game` VALUES ('聚爆', 'iOS', '2015-06-13 00:00:00');
 INSERT INTO `Game` VALUES ('胧村正', 'PSV', '2014-10-01 00:00:00');
 INSERT INTO `Game` VALUES ('脱衣黑杰克', 'PC', '2020-05-04 00:00:00');
 INSERT INTO `Game` VALUES ('苍翼默示录：神观之梦', 'PS4', '2019-04-05 00:00:00');
+INSERT INTO `Game` VALUES ('苏菲的炼金工房～不可思议书的炼金术士～', 'PS4', '2021-07-30 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说4：朱红的泪', 'PC', '2011-11-16 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：碧之轨迹', 'PS4', '2021-02-04 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：空之轨迹', 'PC', '2009-02-24 00:00:00');
