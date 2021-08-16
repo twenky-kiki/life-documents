@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 05/08/2021 09:18:02
+ Date: 16/08/2021 09:16:50
 */
 
 SET NAMES utf8mb4;
@@ -203,6 +203,7 @@ INSERT INTO `Game` VALUES ('松鼠大作战2', 'FC', '2019-06-01 00:00:00');
 INSERT INTO `Game` VALUES ('极品飞车：复仇', 'PS4', '2020-11-14 00:00:00');
 INSERT INTO `Game` VALUES ('枪弹辩驳：希望学院与绝望高中生', 'PSV', '2014-04-20 00:00:00');
 INSERT INTO `Game` VALUES ('植物大战僵尸', 'PC', '2011-01-16 00:00:00');
+INSERT INTO `Game` VALUES ('植物大战僵尸：和睦小镇保卫战', 'PS4', '2021-08-06 00:00:00');
 INSERT INTO `Game` VALUES ('樱花大战', 'PC', '2007-07-18 00:00:00');
 INSERT INTO `Game` VALUES ('樱花大战3：巴黎在燃烧吗', 'PC', '2007-08-02 00:00:00');
 INSERT INTO `Game` VALUES ('樱花大战4：恋爱吧少女', 'PC', '2007-08-04 00:00:00');
@@ -287,6 +288,8 @@ INSERT INTO `Game` VALUES ('轩辕剑3外传：天之痕', 'iOS', '2020-08-03 00
 INSERT INTO `Game` VALUES ('轩辕剑4：黑龙舞兮云飞扬', 'PC', '2011-12-28 00:00:00');
 INSERT INTO `Game` VALUES ('轩辕剑外传：汉之云', 'PC', '2011-06-28 00:00:00');
 INSERT INTO `Game` VALUES ('轩辕剑外传：苍之涛', 'PC', '2007-07-24 00:00:00');
+INSERT INTO `Game` VALUES ('逃生', 'PS4', '2021-08-08 00:00:00');
+INSERT INTO `Game` VALUES ('逃生：告密者', 'PS4', '2021-08-14 00:00:00');
 INSERT INTO `Game` VALUES ('金庸快打', 'PC', '2007-09-04 00:00:00');
 INSERT INTO `Game` VALUES ('金庸群侠传', 'PC', '2007-09-06 00:00:00');
 INSERT INTO `Game` VALUES ('钢之炼金术士：无法飞翔的天使', 'PS2', '2008-10-24 00:00:00');
