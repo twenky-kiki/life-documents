@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 16/08/2021 09:16:50
+ Date: 01/09/2021 10:10:07
 */
 
 SET NAMES utf8mb4;
@@ -62,6 +62,7 @@ INSERT INTO `Game` VALUES ('三国群英传3', 'PC', '2011-11-28 00:00:00');
 INSERT INTO `Game` VALUES ('三国群英传II', 'PC', '2008-10-19 00:00:00');
 INSERT INTO `Game` VALUES ('三国群英传VII', 'PC', '2008-05-28 00:00:00');
 INSERT INTO `Game` VALUES ('不义联盟', 'PS4', '2020-06-23 00:00:00');
+INSERT INTO `Game` VALUES ('东方计划：幻想圆舞曲', 'PS4', '2021-08-29 00:00:00');
 INSERT INTO `Game` VALUES ('中土世界：战争之影', 'PS4', '2020-12-26 00:00:00');
 INSERT INTO `Game` VALUES ('丽兽', 'PC', '2020-04-11 00:00:00');
 INSERT INTO `Game` VALUES ('人中之龙极', 'PS4', '2020-03-15 00:00:00');
@@ -69,6 +70,7 @@ INSERT INTO `Game` VALUES ('仙剑奇侠传', 'iOS', '2021-06-30 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传2', 'PC', '2008-08-03 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传3', 'PC', '2008-11-13 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传4', 'PC', '2008-12-03 00:00:00');
+INSERT INTO `Game` VALUES ('仙剑奇侠传6', 'PS4', '2021-08-25 00:00:00');
 INSERT INTO `Game` VALUES ('以撒的结合：重生', 'PSV', '2020-11-03 00:00:00');
 INSERT INTO `Game` VALUES ('伊苏：塞尔塞塔的树海', 'PSV', '2020-06-27 00:00:00');
 INSERT INTO `Game` VALUES ('伊苏：起源', 'PC', '2007-08-03 00:00:00');
@@ -210,6 +212,8 @@ INSERT INTO `Game` VALUES ('樱花大战4：恋爱吧少女', 'PC', '2007-08-04 
 INSERT INTO `Game` VALUES ('樱花大战5前编：荒野的少女武士', 'PS2', '2008-04-22 00:00:00');
 INSERT INTO `Game` VALUES ('欲望格斗', 'PC', '2008-04-10 00:00:00');
 INSERT INTO `Game` VALUES ('武林群侠传', 'PC', '2009-06-16 00:00:00');
+INSERT INTO `Game` VALUES ('毁灭战士', 'PS4', '2021-08-25 00:00:00');
+INSERT INTO `Game` VALUES ('毁灭战士3', 'PS4', '2021-08-29 00:00:00');
 INSERT INTO `Game` VALUES ('永恒格斗Zero', 'PC', '2009-09-19 00:00:00');
 INSERT INTO `Game` VALUES ('汐', 'PS4', '2021-02-24 00:00:00');
 INSERT INTO `Game` VALUES ('江湖群侠传', 'iOS', '2019-03-24 00:00:00');
