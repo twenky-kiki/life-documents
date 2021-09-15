@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 01/09/2021 10:10:07
+ Date: 15/09/2021 10:38:18
 */
 
 SET NAMES utf8mb4;
@@ -142,6 +142,7 @@ INSERT INTO `Game` VALUES ('少年街霸3', 'PSV', '2014-01-28 00:00:00');
 INSERT INTO `Game` VALUES ('巫师3：狂猎', 'PS4', '2019-05-01 00:00:00');
 INSERT INTO `Game` VALUES ('幽游白书：暗黑武斗会', 'PS2', '2008-04-29 00:00:00');
 INSERT INTO `Game` VALUES ('幽灵小队', 'WII', '2009-01-23 00:00:00');
+INSERT INTO `Game` VALUES ('底特律：变人', 'PS4', '2021-09-06 00:00:00');
 INSERT INTO `Game` VALUES ('式神之城3', 'PC', '2007-07-07 00:00:00');
 INSERT INTO `Game` VALUES ('忍者龙剑传Σ+', 'PSV', '2015-07-04 00:00:00');
 INSERT INTO `Game` VALUES ('忍者龙剑传Σ2+', 'PSV', '2014-05-04 00:00:00');
@@ -244,6 +245,7 @@ INSERT INTO `Game` VALUES ('真人快打：死亡联盟', 'PS2', '2009-04-12 00:
 INSERT INTO `Game` VALUES ('碧雪情天', 'PC', '2008-04-12 00:00:00');
 INSERT INTO `Game` VALUES ('碰龙美战士', 'PC', '2007-07-31 00:00:00');
 INSERT INTO `Game` VALUES ('神偷', 'PS4', '2020-12-14 00:00:00');
+INSERT INTO `Game` VALUES ('神秘海域4：盗贼末路', 'PS4', '2021-09-05 00:00:00');
 INSERT INTO `Game` VALUES ('空洞骑士', 'PS4', '2021-01-09 00:00:00');
 INSERT INTO `Game` VALUES ('索尼全明星大乱斗', 'PSV', '2014-08-14 00:00:00');
 INSERT INTO `Game` VALUES ('红楼梦之十二金钗', 'PC', '2008-12-20 00:00:00');
@@ -270,6 +272,7 @@ INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹3', 'PS4', '2021-03-28 00
 INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹4', 'PS4', '2021-04-15 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：零之轨迹', 'PC', '2015-03-07 00:00:00');
 INSERT INTO `Game` VALUES ('英雄纹章', 'iOS', '2018-12-07 00:00:00');
+INSERT INTO `Game` VALUES ('血污2：月之诅咒', 'PS4', '2021-09-02 00:00:00');
 INSERT INTO `Game` VALUES ('血污：夜之仪式', 'PS4', '2021-03-01 00:00:00');
 INSERT INTO `Game` VALUES ('血源诅咒：老猎人版', 'PS4', '2021-05-10 00:00:00');
 INSERT INTO `Game` VALUES ('街头霸王', 'PS2', '2008-05-29 00:00:00');
