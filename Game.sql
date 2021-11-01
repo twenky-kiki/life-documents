@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 30/09/2021 11:22:18
+ Date: 01/11/2021 09:33:35
 */
 
 SET NAMES utf8mb4;
@@ -77,6 +77,7 @@ INSERT INTO `Game` VALUES ('伊苏：起源', 'PC', '2007-08-03 00:00:00');
 INSERT INTO `Game` VALUES ('众神之怒', 'iOS', '2012-09-10 00:00:00');
 INSERT INTO `Game` VALUES ('侠客风云传', 'iOS', '2019-04-05 00:00:00');
 INSERT INTO `Game` VALUES ('侠盗猎车手5', 'PS4', '2019-10-17 00:00:00');
+INSERT INTO `Game` VALUES ('修道院：破碎瓷器', 'PS4', '2021-10-07 00:00:00');
 INSERT INTO `Game` VALUES ('俺尸2：跨过俺的尸体前进吧', 'PSV', '2014-12-14 00:00:00');
 INSERT INTO `Game` VALUES ('光之子', 'PSV', '2015-01-28 00:00:00');
 INSERT INTO `Game` VALUES ('克鲁苏的召唤', 'PS4', '2021-06-09 00:00:00');
@@ -149,12 +150,15 @@ INSERT INTO `Game` VALUES ('忍者龙剑传Σ2+', 'PSV', '2014-05-04 00:00:00');
 INSERT INTO `Game` VALUES ('忘却之声', 'iOS', '2017-05-14 00:00:00');
 INSERT INTO `Game` VALUES ('快打旋风', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `Game` VALUES ('恶名昭彰：次子', 'PS4', '2021-09-30 00:00:00');
+INSERT INTO `Game` VALUES ('恶魔城X：月下夜想曲', 'PS4', '2021-10-10 00:00:00');
+INSERT INTO `Game` VALUES ('恶魔城X：血之轮回', 'PS4', '2021-10-08 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城：无罪的叹息', 'PS2', '2009-04-13 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城：暗黑诅咒', 'PS2', '2008-04-16 00:00:00');
 INSERT INTO `Game` VALUES ('悲恋湖杀人事件', 'PC', '2019-05-12 00:00:00');
 INSERT INTO `Game` VALUES ('战斗回路', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `Game` VALUES ('战略娘2', 'PC', '2020-04-19 00:00:00');
 INSERT INTO `Game` VALUES ('战神', 'PSV', '2014-08-16 00:00:00');
+INSERT INTO `Game` VALUES ('战神(新)', 'PS4', '2021-10-31 00:00:00');
 INSERT INTO `Game` VALUES ('战神2', 'PSV', '2019-06-13 00:00:00');
 INSERT INTO `Game` VALUES ('战神3', 'PS4', '2021-05-26 00:00:00');
 INSERT INTO `Game` VALUES ('拳皇2000', 'PS2', '2008-03-12 00:00:00');
