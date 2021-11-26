@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 01/11/2021 09:33:35
+ Date: 26/11/2021 10:11:29
 */
 
 SET NAMES utf8mb4;
@@ -56,6 +56,7 @@ INSERT INTO `Game` VALUES ('一夜情', 'PS4', '2021-08-02 00:00:00');
 INSERT INTO `Game` VALUES ('一骑当千：闪耀之龙', 'PS2', '2008-04-25 00:00:00');
 INSERT INTO `Game` VALUES ('万智牌：旅法师的对决', 'PC', '2011-08-21 00:00:00');
 INSERT INTO `Game` VALUES ('万里长城之麒麟传说', 'PC', '2020-04-05 00:00:00');
+INSERT INTO `Game` VALUES ('三国志14', 'PS4', '2021-11-20 00:00:00');
 INSERT INTO `Game` VALUES ('三国群侠传：豪侠篇', 'PC', '2011-09-30 00:00:00');
 INSERT INTO `Game` VALUES ('三国群英传', 'PC', '2008-12-11 00:00:00');
 INSERT INTO `Game` VALUES ('三国群英传3', 'PC', '2011-11-28 00:00:00');
@@ -145,11 +146,13 @@ INSERT INTO `Game` VALUES ('幽游白书：暗黑武斗会', 'PS2', '2008-04-29 
 INSERT INTO `Game` VALUES ('幽灵小队', 'WII', '2009-01-23 00:00:00');
 INSERT INTO `Game` VALUES ('底特律：变人', 'PS4', '2021-09-06 00:00:00');
 INSERT INTO `Game` VALUES ('式神之城3', 'PC', '2007-07-07 00:00:00');
+INSERT INTO `Game` VALUES ('心灵诡宅', 'PS4', '2021-11-14 00:00:00');
 INSERT INTO `Game` VALUES ('忍者龙剑传Σ+', 'PSV', '2015-07-04 00:00:00');
 INSERT INTO `Game` VALUES ('忍者龙剑传Σ2+', 'PSV', '2014-05-04 00:00:00');
 INSERT INTO `Game` VALUES ('忘却之声', 'iOS', '2017-05-14 00:00:00');
 INSERT INTO `Game` VALUES ('快打旋风', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `Game` VALUES ('恶名昭彰：次子', 'PS4', '2021-09-30 00:00:00');
+INSERT INTO `Game` VALUES ('恶魔城XX', 'PS4', '2021-11-17 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城X：月下夜想曲', 'PS4', '2021-10-10 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城X：血之轮回', 'PS4', '2021-10-08 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城：无罪的叹息', 'PS2', '2009-04-13 00:00:00');
@@ -302,8 +305,10 @@ INSERT INTO `Game` VALUES ('轩辕剑3外传：天之痕', 'iOS', '2020-08-03 00
 INSERT INTO `Game` VALUES ('轩辕剑4：黑龙舞兮云飞扬', 'PC', '2011-12-28 00:00:00');
 INSERT INTO `Game` VALUES ('轩辕剑外传：汉之云', 'PC', '2011-06-28 00:00:00');
 INSERT INTO `Game` VALUES ('轩辕剑外传：苍之涛', 'PC', '2007-07-24 00:00:00');
+INSERT INTO `Game` VALUES ('迷人的残酷', 'PS4', '2021-11-09 00:00:00');
 INSERT INTO `Game` VALUES ('逃生', 'PS4', '2021-08-08 00:00:00');
 INSERT INTO `Game` VALUES ('逃生：告密者', 'PS4', '2021-08-14 00:00:00');
+INSERT INTO `Game` VALUES ('逆转裁判：复苏的逆转', 'PS4', '2021-11-21 00:00:00');
 INSERT INTO `Game` VALUES ('重力异想世界2：完结篇', 'PS4', '2021-09-18 00:00:00');
 INSERT INTO `Game` VALUES ('金庸快打', 'PC', '2007-09-04 00:00:00');
 INSERT INTO `Game` VALUES ('金庸群侠传', 'PC', '2007-09-06 00:00:00');
