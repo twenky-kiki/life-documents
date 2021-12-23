@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 26/11/2021 10:11:29
+ Date: 23/12/2021 09:34:16
 */
 
 SET NAMES utf8mb4;
@@ -38,6 +38,7 @@ INSERT INTO `Game` VALUES ('battleheart2', 'iOS', '2020-10-09 00:00:00');
 INSERT INTO `Game` VALUES ('battleheart：legacy', 'iOS', '2015-06-03 00:00:00');
 INSERT INTO `Game` VALUES ('CAPCOM VS SNK2', 'PS2', '2008-03-16 00:00:00');
 INSERT INTO `Game` VALUES ('coffee talk', 'PS4', '2021-05-13 00:00:00');
+INSERT INTO `Game` VALUES ('DJMAX RESPECT', 'PS4', '2021-12-07 00:00:00');
 INSERT INTO `Game` VALUES ('DJMAX TECHNIKA TUNE', 'PSV', '2014-08-13 00:00:00');
 INSERT INTO `Game` VALUES ('DOA2：Hard Core', 'PS2', '2010-03-14 00:00:00');
 INSERT INTO `Game` VALUES ('DOA5+', 'PSV', '2014-09-14 00:00:00');
@@ -308,6 +309,7 @@ INSERT INTO `Game` VALUES ('轩辕剑外传：苍之涛', 'PC', '2007-07-24 00:0
 INSERT INTO `Game` VALUES ('迷人的残酷', 'PS4', '2021-11-09 00:00:00');
 INSERT INTO `Game` VALUES ('逃生', 'PS4', '2021-08-08 00:00:00');
 INSERT INTO `Game` VALUES ('逃生：告密者', 'PS4', '2021-08-14 00:00:00');
+INSERT INTO `Game` VALUES ('逆转裁判2', 'PS4', '2021-12-16 00:00:00');
 INSERT INTO `Game` VALUES ('逆转裁判：复苏的逆转', 'PS4', '2021-11-21 00:00:00');
 INSERT INTO `Game` VALUES ('重力异想世界2：完结篇', 'PS4', '2021-09-18 00:00:00');
 INSERT INTO `Game` VALUES ('金庸快打', 'PC', '2007-09-04 00:00:00');
@@ -324,6 +326,7 @@ INSERT INTO `Game` VALUES ('霹雳奇侠传：清香白莲素还真', 'PC', '200
 INSERT INTO `Game` VALUES ('非洲探险', 'PC', '2019-05-12 00:00:00');
 INSERT INTO `Game` VALUES ('鬼武者', 'PS2', '2009-07-22 00:00:00');
 INSERT INTO `Game` VALUES ('魂斗罗', 'FC', '2019-05-30 00:00:00');
+INSERT INTO `Game` VALUES ('魂斗罗：流氓军团', 'PS4', '2021-12-02 00:00:00');
 INSERT INTO `Game` VALUES ('魔兽争霸3：冰封王座', 'PC', '2012-01-07 00:00:00');
 INSERT INTO `Game` VALUES ('魔兽争霸3：混乱之治', 'PC', '2009-06-03 00:00:00');
 INSERT INTO `Game` VALUES ('魔法门之英雄无敌5', 'PC', '2009-08-03 00:00:00');
