@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 23/12/2021 09:34:16
+ Date: 31/12/2021 14:57:02
 */
 
 SET NAMES utf8mb4;
@@ -67,6 +67,7 @@ INSERT INTO `Game` VALUES ('不义联盟', 'PS4', '2020-06-23 00:00:00');
 INSERT INTO `Game` VALUES ('东方计划：幻想圆舞曲', 'PS4', '2021-08-29 00:00:00');
 INSERT INTO `Game` VALUES ('中土世界：战争之影', 'PS4', '2020-12-26 00:00:00');
 INSERT INTO `Game` VALUES ('丽兽', 'PC', '2020-04-11 00:00:00');
+INSERT INTO `Game` VALUES ('乐高DC超级反派', 'PS4', '2021-12-25 00:00:00');
 INSERT INTO `Game` VALUES ('人中之龙极', 'PS4', '2020-03-15 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传', 'iOS', '2021-06-30 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传2', 'PC', '2008-08-03 00:00:00');
@@ -158,6 +159,7 @@ INSERT INTO `Game` VALUES ('恶魔城X：月下夜想曲', 'PS4', '2021-10-10 00
 INSERT INTO `Game` VALUES ('恶魔城X：血之轮回', 'PS4', '2021-10-08 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城：无罪的叹息', 'PS2', '2009-04-13 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城：暗黑诅咒', 'PS2', '2008-04-16 00:00:00');
+INSERT INTO `Game` VALUES ('恶魔城：月之轮回', 'PS4', '2021-12-25 00:00:00');
 INSERT INTO `Game` VALUES ('悲恋湖杀人事件', 'PC', '2019-05-12 00:00:00');
 INSERT INTO `Game` VALUES ('战斗回路', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `Game` VALUES ('战略娘2', 'PC', '2020-04-19 00:00:00');
@@ -269,6 +271,7 @@ INSERT INTO `Game` VALUES ('美女终结者', 'PC', '2007-09-05 00:00:00');
 INSERT INTO `Game` VALUES ('聚爆', 'iOS', '2015-06-13 00:00:00');
 INSERT INTO `Game` VALUES ('胧村正', 'PSV', '2014-10-01 00:00:00');
 INSERT INTO `Game` VALUES ('脱衣黑杰克', 'PC', '2020-05-04 00:00:00');
+INSERT INTO `Game` VALUES ('致命躯壳', 'PS4', '2021-12-30 00:00:00');
 INSERT INTO `Game` VALUES ('苍翼默示录：神观之梦', 'PS4', '2019-04-05 00:00:00');
 INSERT INTO `Game` VALUES ('苏菲的炼金工房～不可思议书的炼金术士～', 'PS4', '2021-07-30 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说4：朱红的泪', 'PC', '2011-11-16 00:00:00');
@@ -310,6 +313,7 @@ INSERT INTO `Game` VALUES ('迷人的残酷', 'PS4', '2021-11-09 00:00:00');
 INSERT INTO `Game` VALUES ('逃生', 'PS4', '2021-08-08 00:00:00');
 INSERT INTO `Game` VALUES ('逃生：告密者', 'PS4', '2021-08-14 00:00:00');
 INSERT INTO `Game` VALUES ('逆转裁判2', 'PS4', '2021-12-16 00:00:00');
+INSERT INTO `Game` VALUES ('逆转裁判3', 'PS4', '2021-12-26 00:00:00');
 INSERT INTO `Game` VALUES ('逆转裁判：复苏的逆转', 'PS4', '2021-11-21 00:00:00');
 INSERT INTO `Game` VALUES ('重力异想世界2：完结篇', 'PS4', '2021-09-18 00:00:00');
 INSERT INTO `Game` VALUES ('金庸快打', 'PC', '2007-09-04 00:00:00');
