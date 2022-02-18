@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 31/12/2021 14:57:02
+ Date: 18/02/2022 10:43:58
 */
 
 SET NAMES utf8mb4;
@@ -57,6 +57,7 @@ INSERT INTO `Game` VALUES ('一夜情', 'PS4', '2021-08-02 00:00:00');
 INSERT INTO `Game` VALUES ('一骑当千：闪耀之龙', 'PS2', '2008-04-25 00:00:00');
 INSERT INTO `Game` VALUES ('万智牌：旅法师的对决', 'PC', '2011-08-21 00:00:00');
 INSERT INTO `Game` VALUES ('万里长城之麒麟传说', 'PC', '2020-04-05 00:00:00');
+INSERT INTO `Game` VALUES ('三位一体', 'PS4', '2022-02-01 00:00:00');
 INSERT INTO `Game` VALUES ('三国志14', 'PS4', '2021-11-20 00:00:00');
 INSERT INTO `Game` VALUES ('三国群侠传：豪侠篇', 'PC', '2011-09-30 00:00:00');
 INSERT INTO `Game` VALUES ('三国群英传', 'PC', '2008-12-11 00:00:00');
@@ -78,6 +79,7 @@ INSERT INTO `Game` VALUES ('以撒的结合：重生', 'PSV', '2020-11-03 00:00:
 INSERT INTO `Game` VALUES ('伊苏：塞尔塞塔的树海', 'PSV', '2020-06-27 00:00:00');
 INSERT INTO `Game` VALUES ('伊苏：起源', 'PC', '2007-08-03 00:00:00');
 INSERT INTO `Game` VALUES ('众神之怒', 'iOS', '2012-09-10 00:00:00');
+INSERT INTO `Game` VALUES ('传颂之物：给逝者的摇篮曲', 'PS4', '2022-02-17 00:00:00');
 INSERT INTO `Game` VALUES ('侠客风云传', 'iOS', '2019-04-05 00:00:00');
 INSERT INTO `Game` VALUES ('侠盗猎车手5', 'PS4', '2019-10-17 00:00:00');
 INSERT INTO `Game` VALUES ('修道院：破碎瓷器', 'PS4', '2021-10-07 00:00:00');
@@ -311,6 +313,7 @@ INSERT INTO `Game` VALUES ('轩辕剑外传：汉之云', 'PC', '2011-06-28 00:0
 INSERT INTO `Game` VALUES ('轩辕剑外传：苍之涛', 'PC', '2007-07-24 00:00:00');
 INSERT INTO `Game` VALUES ('迷人的残酷', 'PS4', '2021-11-09 00:00:00');
 INSERT INTO `Game` VALUES ('逃生', 'PS4', '2021-08-08 00:00:00');
+INSERT INTO `Game` VALUES ('逃生2', 'PS4', '2022-02-01 00:00:00');
 INSERT INTO `Game` VALUES ('逃生：告密者', 'PS4', '2021-08-14 00:00:00');
 INSERT INTO `Game` VALUES ('逆转裁判2', 'PS4', '2021-12-16 00:00:00');
 INSERT INTO `Game` VALUES ('逆转裁判3', 'PS4', '2021-12-26 00:00:00');
