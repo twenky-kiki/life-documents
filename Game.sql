@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 18/02/2022 10:43:58
+ Date: 28/02/2022 10:21:53
 */
 
 SET NAMES utf8mb4;
@@ -144,8 +144,10 @@ INSERT INTO `Game` VALUES ('富甲天下', 'PC', '2007-11-30 00:00:00');
 INSERT INTO `Game` VALUES ('富甲天下2', 'PC', '2013-08-10 00:00:00');
 INSERT INTO `Game` VALUES ('封闭的噩梦', 'PS4', '2019-10-24 00:00:00');
 INSERT INTO `Game` VALUES ('小小大星球', 'PSV', '2014-10-05 00:00:00');
+INSERT INTO `Game` VALUES ('小缇娜强袭龙堡：奇幻之地大冒险', 'PS4', '2022-02-20 00:00:00');
 INSERT INTO `Game` VALUES ('少年街霸3', 'PSV', '2014-01-28 00:00:00');
 INSERT INTO `Game` VALUES ('巫师3：狂猎', 'PS4', '2019-05-01 00:00:00');
+INSERT INTO `Game` VALUES ('幸运枪手', 'PS4', '2022-02-27 00:00:00');
 INSERT INTO `Game` VALUES ('幽游白书：暗黑武斗会', 'PS2', '2008-04-29 00:00:00');
 INSERT INTO `Game` VALUES ('幽灵小队', 'WII', '2009-01-23 00:00:00');
 INSERT INTO `Game` VALUES ('底特律：变人', 'PS4', '2021-09-06 00:00:00');
@@ -169,6 +171,7 @@ INSERT INTO `Game` VALUES ('战神', 'PSV', '2014-08-16 00:00:00');
 INSERT INTO `Game` VALUES ('战神(新)', 'PS4', '2021-10-31 00:00:00');
 INSERT INTO `Game` VALUES ('战神2', 'PSV', '2019-06-13 00:00:00');
 INSERT INTO `Game` VALUES ('战神3', 'PS4', '2021-05-26 00:00:00');
+INSERT INTO `Game` VALUES ('拳皇15', 'PS4', '2022-02-23 00:00:00');
 INSERT INTO `Game` VALUES ('拳皇2000', 'PS2', '2008-03-12 00:00:00');
 INSERT INTO `Game` VALUES ('拳皇2001', 'PS2', '2008-03-12 00:00:00');
 INSERT INTO `Game` VALUES ('拳皇2002', 'PS2', '2008-03-12 00:00:00');
@@ -323,7 +326,9 @@ INSERT INTO `Game` VALUES ('金庸快打', 'PC', '2007-09-04 00:00:00');
 INSERT INTO `Game` VALUES ('金庸群侠传', 'PC', '2007-09-06 00:00:00');
 INSERT INTO `Game` VALUES ('钢之炼金术士：无法飞翔的天使', 'PS2', '2008-10-24 00:00:00');
 INSERT INTO `Game` VALUES ('铁拳5', 'PS2', '2009-04-12 00:00:00');
+INSERT INTO `Game` VALUES ('铁拳7', 'PS4', '2022-02-27 00:00:00');
 INSERT INTO `Game` VALUES ('陆小凤：金鹏王朝', 'PC', '2009-01-25 00:00:00');
+INSERT INTO `Game` VALUES ('隐龙传：影踪', 'PS4', '2022-02-23 00:00:00');
 INSERT INTO `Game` VALUES ('雀王蝶姬', 'PC', '2008-11-11 00:00:00');
 INSERT INTO `Game` VALUES ('雀美眉写真馆', 'PC', '2008-04-19 00:00:00');
 INSERT INTO `Game` VALUES ('雨血1：死镇', 'PC', '2012-02-26 00:00:00');
