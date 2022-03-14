@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 28/02/2022 10:21:53
+ Date: 14/03/2022 17:06:39
 */
 
 SET NAMES utf8mb4;
@@ -44,6 +44,8 @@ INSERT INTO `Game` VALUES ('DOA2：Hard Core', 'PS2', '2010-03-14 00:00:00');
 INSERT INTO `Game` VALUES ('DOA5+', 'PSV', '2014-09-14 00:00:00');
 INSERT INTO `Game` VALUES ('FEZ', 'PSV', '2015-01-31 00:00:00');
 INSERT INTO `Game` VALUES ('flower', 'PSV', '2015-02-14 00:00:00');
+INSERT INTO `Game` VALUES ('Heroes Trials', 'PS4', '2022-03-13 00:00:00');
+INSERT INTO `Game` VALUES ('InkSplosion', 'PSV', '2022-03-01 00:00:00');
 INSERT INTO `Game` VALUES ('NBA2K15', 'PS4', '2015-12-20 00:00:00');
 INSERT INTO `Game` VALUES ('NOX', 'PC', '2009-03-17 00:00:00');
 INSERT INTO `Game` VALUES ('simulacra', 'iOS', '2021-05-01 00:00:00');
