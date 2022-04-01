@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 14/03/2022 17:06:39
+ Date: 01/04/2022 10:07:09
 */
 
 SET NAMES utf8mb4;
@@ -86,6 +86,7 @@ INSERT INTO `Game` VALUES ('侠客风云传', 'iOS', '2019-04-05 00:00:00');
 INSERT INTO `Game` VALUES ('侠盗猎车手5', 'PS4', '2019-10-17 00:00:00');
 INSERT INTO `Game` VALUES ('修道院：破碎瓷器', 'PS4', '2021-10-07 00:00:00');
 INSERT INTO `Game` VALUES ('俺尸2：跨过俺的尸体前进吧', 'PSV', '2014-12-14 00:00:00');
+INSERT INTO `Game` VALUES ('兄弟：双子传说', 'PS4', '2022-03-27 00:00:00');
 INSERT INTO `Game` VALUES ('光之子', 'PSV', '2015-01-28 00:00:00');
 INSERT INTO `Game` VALUES ('克鲁苏的召唤', 'PS4', '2021-06-09 00:00:00');
 INSERT INTO `Game` VALUES ('写真天蚕变', 'PC', '2007-09-04 00:00:00');
@@ -266,6 +267,7 @@ INSERT INTO `Game` VALUES ('碰龙美战士', 'PC', '2007-07-31 00:00:00');
 INSERT INTO `Game` VALUES ('神偷', 'PS4', '2020-12-14 00:00:00');
 INSERT INTO `Game` VALUES ('神秘海域4：盗贼末路', 'PS4', '2021-09-05 00:00:00');
 INSERT INTO `Game` VALUES ('空洞骑士', 'PS4', '2021-01-09 00:00:00');
+INSERT INTO `Game` VALUES ('索尼克团队赛车', 'PS4', '2022-03-29 00:00:00');
 INSERT INTO `Game` VALUES ('索尼全明星大乱斗', 'PSV', '2014-08-14 00:00:00');
 INSERT INTO `Game` VALUES ('红楼梦之十二金钗', 'PC', '2008-12-20 00:00:00');
 INSERT INTO `Game` VALUES ('纪念碑谷', 'iOS', '2015-12-18 00:00:00');
