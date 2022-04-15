@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 01/04/2022 10:07:09
+ Date: 15/04/2022 09:57:14
 */
 
 SET NAMES utf8mb4;
@@ -143,6 +143,7 @@ INSERT INTO `Game` VALUES ('女神异闻录4G', 'PSV', '2014-04-13 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录4通宵热舞', 'PSV', '2020-07-10 00:00:00');
 INSERT INTO `Game` VALUES ('宏伟王国', 'PS4', '2020-12-20 00:00:00');
 INSERT INTO `Game` VALUES ('实况足球2008', 'PS2', '2008-05-22 00:00:00');
+INSERT INTO `Game` VALUES ('审判之眼：死神的遗言', 'PS4', '2022-04-05 00:00:00');
 INSERT INTO `Game` VALUES ('富甲天下', 'PC', '2007-11-30 00:00:00');
 INSERT INTO `Game` VALUES ('富甲天下2', 'PC', '2013-08-10 00:00:00');
 INSERT INTO `Game` VALUES ('封闭的噩梦', 'PS4', '2019-10-24 00:00:00');
@@ -165,8 +166,10 @@ INSERT INTO `Game` VALUES ('恶魔城XX', 'PS4', '2021-11-17 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城X：月下夜想曲', 'PS4', '2021-10-10 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城X：血之轮回', 'PS4', '2021-10-08 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城：无罪的叹息', 'PS2', '2009-04-13 00:00:00');
+INSERT INTO `Game` VALUES ('恶魔城：晓月圆舞曲', 'PS4', '2022-04-14 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城：暗黑诅咒', 'PS2', '2008-04-16 00:00:00');
 INSERT INTO `Game` VALUES ('恶魔城：月之轮回', 'PS4', '2021-12-25 00:00:00');
+INSERT INTO `Game` VALUES ('恶魔城：白夜协奏曲', 'PS4', '2022-04-11 00:00:00');
 INSERT INTO `Game` VALUES ('悲恋湖杀人事件', 'PC', '2019-05-12 00:00:00');
 INSERT INTO `Game` VALUES ('战斗回路', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `Game` VALUES ('战略娘2', 'PC', '2020-04-19 00:00:00');
@@ -338,6 +341,7 @@ INSERT INTO `Game` VALUES ('雀美眉写真馆', 'PC', '2008-04-19 00:00:00');
 INSERT INTO `Game` VALUES ('雨血1：死镇', 'PC', '2012-02-26 00:00:00');
 INSERT INTO `Game` VALUES ('雨血2：烨城', 'PC', '2012-07-11 00:00:00');
 INSERT INTO `Game` VALUES ('雨血前传：蜃楼', 'PC', '2013-05-26 00:00:00');
+INSERT INTO `Game` VALUES ('零：濡鸦之巫女', 'PS4', '2022-04-10 00:00:00');
 INSERT INTO `Game` VALUES ('霹雳奇侠传：清香白莲素还真', 'PC', '2008-05-09 00:00:00');
 INSERT INTO `Game` VALUES ('非洲探险', 'PC', '2019-05-12 00:00:00');
 INSERT INTO `Game` VALUES ('鬼武者', 'PS2', '2009-07-22 00:00:00');
