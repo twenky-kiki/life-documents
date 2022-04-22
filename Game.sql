@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 15/04/2022 09:57:14
+ Date: 22/04/2022 09:05:17
 */
 
 SET NAMES utf8mb4;
@@ -244,6 +244,7 @@ INSERT INTO `Game` VALUES ('江湖群侠传', 'iOS', '2019-03-24 00:00:00');
 INSERT INTO `Game` VALUES ('江湖群侠传2', 'iOS', '2019-03-30 00:00:00');
 INSERT INTO `Game` VALUES ('泰坦之旅', 'PC', '2009-09-26 00:00:00');
 INSERT INTO `Game` VALUES ('泰坦攻击', 'PSV', '2015-02-09 00:00:00');
+INSERT INTO `Game` VALUES ('深夜迴', 'PS4', '2022-04-21 00:00:00');
 INSERT INTO `Game` VALUES ('混沌军团', 'PC', '2011-12-05 00:00:00');
 INSERT INTO `Game` VALUES ('火影忍者：木叶的忍者英雄们', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `Game` VALUES ('火影忍者：木叶的忍者英雄们2', 'PS2', '2008-05-28 00:00:00');
