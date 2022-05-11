@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 22/04/2022 09:05:17
+ Date: 11/05/2022 19:18:15
 */
 
 SET NAMES utf8mb4;
@@ -43,6 +43,7 @@ INSERT INTO `Game` VALUES ('DJMAX TECHNIKA TUNE', 'PSV', '2014-08-13 00:00:00');
 INSERT INTO `Game` VALUES ('DOA2：Hard Core', 'PS2', '2010-03-14 00:00:00');
 INSERT INTO `Game` VALUES ('DOA5+', 'PSV', '2014-09-14 00:00:00');
 INSERT INTO `Game` VALUES ('FEZ', 'PSV', '2015-01-31 00:00:00');
+INSERT INTO `Game` VALUES ('FIFA22', 'PS4', '2022-05-11 00:00:00');
 INSERT INTO `Game` VALUES ('flower', 'PSV', '2015-02-14 00:00:00');
 INSERT INTO `Game` VALUES ('Heroes Trials', 'PS4', '2022-03-13 00:00:00');
 INSERT INTO `Game` VALUES ('InkSplosion', 'PSV', '2022-03-01 00:00:00');
@@ -282,12 +283,14 @@ INSERT INTO `Game` VALUES ('罪恶装备XX # RELOAD', 'PC', '2007-09-01 00:00:00
 INSERT INTO `Game` VALUES ('美女快打', 'PC', '2011-08-22 00:00:00');
 INSERT INTO `Game` VALUES ('美女终结者', 'PC', '2007-09-05 00:00:00');
 INSERT INTO `Game` VALUES ('聚爆', 'iOS', '2015-06-13 00:00:00');
+INSERT INTO `Game` VALUES ('肥肥公主大作战', 'PS4', '2022-05-11 00:00:00');
 INSERT INTO `Game` VALUES ('胧村正', 'PSV', '2014-10-01 00:00:00');
 INSERT INTO `Game` VALUES ('脱衣黑杰克', 'PC', '2020-05-04 00:00:00');
 INSERT INTO `Game` VALUES ('致命躯壳', 'PS4', '2021-12-30 00:00:00');
 INSERT INTO `Game` VALUES ('苍翼默示录：神观之梦', 'PS4', '2019-04-05 00:00:00');
 INSERT INTO `Game` VALUES ('苏菲的炼金工房～不可思议书的炼金术士～', 'PS4', '2021-07-30 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说4：朱红的泪', 'PC', '2011-11-16 00:00:00');
+INSERT INTO `Game` VALUES ('英雄传说：创之轨迹', 'PS4', '2022-05-04 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：碧之轨迹', 'PS4', '2021-02-04 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：空之轨迹', 'PC', '2009-02-24 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：空之轨迹3rd', 'PC', '2010-02-24 00:00:00');
