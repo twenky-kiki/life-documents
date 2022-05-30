@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 11/05/2022 19:18:15
+ Date: 30/05/2022 08:51:21
 */
 
 SET NAMES utf8mb4;
@@ -61,6 +61,7 @@ INSERT INTO `Game` VALUES ('一骑当千：闪耀之龙', 'PS2', '2008-04-25 00:
 INSERT INTO `Game` VALUES ('万智牌：旅法师的对决', 'PC', '2011-08-21 00:00:00');
 INSERT INTO `Game` VALUES ('万里长城之麒麟传说', 'PC', '2020-04-05 00:00:00');
 INSERT INTO `Game` VALUES ('三位一体', 'PS4', '2022-02-01 00:00:00');
+INSERT INTO `Game` VALUES ('三位一体2', 'PS4', '2022-05-14 00:00:00');
 INSERT INTO `Game` VALUES ('三国志14', 'PS4', '2021-11-20 00:00:00');
 INSERT INTO `Game` VALUES ('三国群侠传：豪侠篇', 'PC', '2011-09-30 00:00:00');
 INSERT INTO `Game` VALUES ('三国群英传', 'PC', '2008-12-11 00:00:00');
@@ -142,6 +143,7 @@ INSERT INTO `Game` VALUES ('失落的记忆', 'iOS', '2021-04-28 00:00:00');
 INSERT INTO `Game` VALUES ('奥丁领域', 'PS4', '2020-02-26 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录4G', 'PSV', '2014-04-13 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录4通宵热舞', 'PSV', '2020-07-10 00:00:00');
+INSERT INTO `Game` VALUES ('女神异闻录5R', 'PS4', '2022-05-29 00:00:00');
 INSERT INTO `Game` VALUES ('宏伟王国', 'PS4', '2020-12-20 00:00:00');
 INSERT INTO `Game` VALUES ('实况足球2008', 'PS2', '2008-05-22 00:00:00');
 INSERT INTO `Game` VALUES ('审判之眼：死神的遗言', 'PS4', '2022-04-05 00:00:00');
@@ -202,9 +204,11 @@ INSERT INTO `Game` VALUES ('新樱花大战', 'PS4', '2021-06-20 00:00:00');
 INSERT INTO `Game` VALUES ('新神雕侠侣', 'PC', '2008-12-29 00:00:00');
 INSERT INTO `Game` VALUES ('新纪幻想：圣魔之魂2', 'PS2', '2009-04-11 00:00:00');
 INSERT INTO `Game` VALUES ('新豪血寺一族：烦恼解放', 'PS2', '2008-03-27 00:00:00');
+INSERT INTO `Game` VALUES ('方根书简', 'PS4', '2022-05-15 00:00:00');
 INSERT INTO `Game` VALUES ('无双大蛇：魔王再临', 'PS2', '2008-05-15 00:00:00');
 INSERT INTO `Game` VALUES ('无名指的教科书', 'PC', '2007-09-30 00:00:00');
 INSERT INTO `Game` VALUES ('无敌9号', 'PS4', '2020-12-27 00:00:00');
+INSERT INTO `Game` VALUES ('无间冥寺', 'PS4', '2022-05-14 00:00:00');
 INSERT INTO `Game` VALUES ('星际争霸', 'PC', '2008-12-08 00:00:00');
 INSERT INTO `Game` VALUES ('星际争霸2：自由之翼', 'PC', '2011-06-19 00:00:00');
 INSERT INTO `Game` VALUES ('星际争霸2：虚空之遗', 'PC', '2020-02-18 00:00:00');
