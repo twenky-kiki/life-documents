@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 30/05/2022 08:51:21
+ Date: 14/07/2022 09:38:55
 */
 
 SET NAMES utf8mb4;
@@ -144,6 +144,7 @@ INSERT INTO `Game` VALUES ('奥丁领域', 'PS4', '2020-02-26 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录4G', 'PSV', '2014-04-13 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录4通宵热舞', 'PSV', '2020-07-10 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录5R', 'PS4', '2022-05-29 00:00:00');
+INSERT INTO `Game` VALUES ('女神异闻录5乱战：魅影攻手', 'PS4', '2022-06-22 00:00:00');
 INSERT INTO `Game` VALUES ('宏伟王国', 'PS4', '2020-12-20 00:00:00');
 INSERT INTO `Game` VALUES ('实况足球2008', 'PS2', '2008-05-22 00:00:00');
 INSERT INTO `Game` VALUES ('审判之眼：死神的遗言', 'PS4', '2022-04-05 00:00:00');
@@ -305,6 +306,7 @@ INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹3', 'PS4', '2021-03-28 00
 INSERT INTO `Game` VALUES ('英雄传说：闪之轨迹4', 'PS4', '2021-04-15 00:00:00');
 INSERT INTO `Game` VALUES ('英雄传说：零之轨迹', 'PC', '2015-03-07 00:00:00');
 INSERT INTO `Game` VALUES ('英雄纹章', 'iOS', '2018-12-07 00:00:00');
+INSERT INTO `Game` VALUES ('荒野大镖客：救赎2', 'PS4', '2022-07-11 00:00:00');
 INSERT INTO `Game` VALUES ('血污2：月之诅咒', 'PS4', '2021-09-02 00:00:00');
 INSERT INTO `Game` VALUES ('血污：夜之仪式', 'PS4', '2021-03-01 00:00:00');
 INSERT INTO `Game` VALUES ('血源诅咒：老猎人版', 'PS4', '2021-05-10 00:00:00');
