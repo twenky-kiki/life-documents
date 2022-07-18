@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 14/07/2022 09:38:55
+ Date: 18/07/2022 09:43:42
 */
 
 SET NAMES utf8mb4;
@@ -126,6 +126,7 @@ INSERT INTO `Game` VALUES ('圣斗士星矢：冥王哈迪斯篇', 'PS2', '2008-
 INSERT INTO `Game` VALUES ('圣斗士星矢：圣域十二宫篇', 'PS2', '2008-04-07 00:00:00');
 INSERT INTO `Game` VALUES ('地平线：零之曙光', 'PS4', '2020-11-30 00:00:00');
 INSERT INTO `Game` VALUES ('地狱军团', 'PSV', '2014-10-12 00:00:00');
+INSERT INTO `Game` VALUES ('塔倒：升天', 'PS4', '2022-07-17 00:00:00');
 INSERT INTO `Game` VALUES ('壁中精灵', 'PS4', '2021-02-28 00:00:00');
 INSERT INTO `Game` VALUES ('大富翁2', 'PC', '2020-05-05 00:00:00');
 INSERT INTO `Game` VALUES ('大富翁4', 'iOS', '2019-03-01 00:00:00');
@@ -370,6 +371,7 @@ INSERT INTO `Game` VALUES ('麻雀幻想曲3', 'PC', '2007-07-25 00:00:00');
 INSERT INTO `Game` VALUES ('黑暗史诗', 'PC', '2008-11-29 00:00:00');
 INSERT INTO `Game` VALUES ('黑暗史诗：未探索的国度', 'PC', '2008-12-04 00:00:00');
 INSERT INTO `Game` VALUES ('黑相集：棉兰号', 'PS4', '2019-10-20 00:00:00');
+INSERT INTO `Game` VALUES ('黑相集：稀望镇', 'PS4', '2022-07-16 00:00:00');
 INSERT INTO `Game` VALUES ('龙与地下城：暗黑秘影', 'Arcade', '2016-08-04 00:00:00');
 INSERT INTO `Game` VALUES ('龙之子 VS CAPCOM：乱世英雄', 'WII', '2009-01-18 00:00:00');
 INSERT INTO `Game` VALUES ('龙之王冠', 'PSV', '2014-07-16 00:00:00');
