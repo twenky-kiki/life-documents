@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 18/07/2022 09:43:42
+ Date: 22/08/2022 10:30:24
 */
 
 SET NAMES utf8mb4;
@@ -69,6 +69,7 @@ INSERT INTO `Game` VALUES ('三国群英传3', 'PC', '2011-11-28 00:00:00');
 INSERT INTO `Game` VALUES ('三国群英传II', 'PC', '2008-10-19 00:00:00');
 INSERT INTO `Game` VALUES ('三国群英传VII', 'PC', '2008-05-28 00:00:00');
 INSERT INTO `Game` VALUES ('不义联盟', 'PS4', '2020-06-23 00:00:00');
+INSERT INTO `Game` VALUES ('不义联盟2', 'PS4', '2022-07-19 00:00:00');
 INSERT INTO `Game` VALUES ('东方计划：幻想圆舞曲', 'PS4', '2021-08-29 00:00:00');
 INSERT INTO `Game` VALUES ('中土世界：战争之影', 'PS4', '2020-12-26 00:00:00');
 INSERT INTO `Game` VALUES ('丽兽', 'PC', '2020-04-11 00:00:00');
@@ -102,6 +103,7 @@ INSERT INTO `Game` VALUES ('劳拉和奥西里斯神庙', 'PS4', '2019-05-09 00:
 INSERT INTO `Game` VALUES ('勇者有点太嚣张G', 'PSV', '2014-08-24 00:00:00');
 INSERT INTO `Game` VALUES ('卒业旅行', 'PC', '2008-10-20 00:00:00');
 INSERT INTO `Game` VALUES ('古墓丽影：暗影', 'PS4', '2021-01-10 00:00:00');
+INSERT INTO `Game` VALUES ('古惑狼4：时机已到', 'PS4', '2022-08-21 00:00:00');
 INSERT INTO `Game` VALUES ('合金弹头', 'WII', '2009-01-18 00:00:00');
 INSERT INTO `Game` VALUES ('合金弹头2', 'WII', '2009-01-27 00:00:00');
 INSERT INTO `Game` VALUES ('合金弹头3', 'WII', '2009-02-03 00:00:00');
@@ -151,6 +153,7 @@ INSERT INTO `Game` VALUES ('实况足球2008', 'PS2', '2008-05-22 00:00:00');
 INSERT INTO `Game` VALUES ('审判之眼：死神的遗言', 'PS4', '2022-04-05 00:00:00');
 INSERT INTO `Game` VALUES ('富甲天下', 'PC', '2007-11-30 00:00:00');
 INSERT INTO `Game` VALUES ('富甲天下2', 'PC', '2013-08-10 00:00:00');
+INSERT INTO `Game` VALUES ('对马岛之魂', 'PS4', '2022-08-05 00:00:00');
 INSERT INTO `Game` VALUES ('封闭的噩梦', 'PS4', '2019-10-24 00:00:00');
 INSERT INTO `Game` VALUES ('小小大星球', 'PSV', '2014-10-05 00:00:00');
 INSERT INTO `Game` VALUES ('小缇娜强袭龙堡：奇幻之地大冒险', 'PS4', '2022-02-20 00:00:00');
@@ -253,6 +256,7 @@ INSERT INTO `Game` VALUES ('泰坦之旅', 'PC', '2009-09-26 00:00:00');
 INSERT INTO `Game` VALUES ('泰坦攻击', 'PSV', '2015-02-09 00:00:00');
 INSERT INTO `Game` VALUES ('深夜迴', 'PS4', '2022-04-21 00:00:00');
 INSERT INTO `Game` VALUES ('混沌军团', 'PC', '2011-12-05 00:00:00');
+INSERT INTO `Game` VALUES ('漫威蜘蛛侠：迈尔斯莫拉莱斯', 'PS4', '2022-08-09 00:00:00');
 INSERT INTO `Game` VALUES ('火影忍者：木叶的忍者英雄们', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `Game` VALUES ('火影忍者：木叶的忍者英雄们2', 'PS2', '2008-05-28 00:00:00');
 INSERT INTO `Game` VALUES ('火焰纹章 无双', 'NS', '2020-12-03 00:00:00');
