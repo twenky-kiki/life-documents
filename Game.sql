@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 22/08/2022 10:30:24
+ Date: 10/10/2022 16:58:09
 */
 
 SET NAMES utf8mb4;
@@ -51,6 +51,7 @@ INSERT INTO `Game` VALUES ('NBA2K15', 'PS4', '2015-12-20 00:00:00');
 INSERT INTO `Game` VALUES ('NOX', 'PC', '2009-03-17 00:00:00');
 INSERT INTO `Game` VALUES ('simulacra', 'iOS', '2021-05-01 00:00:00');
 INSERT INTO `Game` VALUES ('solitairica', 'iOS', '2020-05-09 00:00:00');
+INSERT INTO `Game` VALUES ('Stray', 'PS4', '2022-09-19 00:00:00');
 INSERT INTO `Game` VALUES ('The Swapper', 'PS4', '2020-12-11 00:00:00');
 INSERT INTO `Game` VALUES ('Ultratron', 'PS4', '2020-11-01 00:00:00');
 INSERT INTO `Game` VALUES ('Velocity 2X', 'PSV', '2014-10-10 00:00:00');
@@ -74,7 +75,7 @@ INSERT INTO `Game` VALUES ('东方计划：幻想圆舞曲', 'PS4', '2021-08-29 
 INSERT INTO `Game` VALUES ('中土世界：战争之影', 'PS4', '2020-12-26 00:00:00');
 INSERT INTO `Game` VALUES ('丽兽', 'PC', '2020-04-11 00:00:00');
 INSERT INTO `Game` VALUES ('乐高DC超级反派', 'PS4', '2021-12-25 00:00:00');
-INSERT INTO `Game` VALUES ('人中之龙极', 'PS4', '2020-03-15 00:00:00');
+INSERT INTO `Game` VALUES ('人中之龙 极', 'PS4', '2020-03-15 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传', 'iOS', '2021-06-30 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传2', 'PC', '2008-08-03 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传3', 'PC', '2008-11-13 00:00:00');
@@ -102,6 +103,7 @@ INSERT INTO `Game` VALUES ('剑侠情缘外传：月影传说', 'PC', '2009-02-0
 INSERT INTO `Game` VALUES ('劳拉和奥西里斯神庙', 'PS4', '2019-05-09 00:00:00');
 INSERT INTO `Game` VALUES ('勇者有点太嚣张G', 'PSV', '2014-08-24 00:00:00');
 INSERT INTO `Game` VALUES ('卒业旅行', 'PC', '2008-10-20 00:00:00');
+INSERT INTO `Game` VALUES ('危机之翼', 'PS4', '2022-10-10 00:00:00');
 INSERT INTO `Game` VALUES ('古墓丽影：暗影', 'PS4', '2021-01-10 00:00:00');
 INSERT INTO `Game` VALUES ('古惑狼4：时机已到', 'PS4', '2022-08-21 00:00:00');
 INSERT INTO `Game` VALUES ('合金弹头', 'WII', '2009-01-18 00:00:00');
@@ -148,6 +150,7 @@ INSERT INTO `Game` VALUES ('女神异闻录4G', 'PSV', '2014-04-13 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录4通宵热舞', 'PSV', '2020-07-10 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录5R', 'PS4', '2022-05-29 00:00:00');
 INSERT INTO `Game` VALUES ('女神异闻录5乱战：魅影攻手', 'PS4', '2022-06-22 00:00:00');
+INSERT INTO `Game` VALUES ('妖怪手表JAM 妖怪学园Y：自由欢乐学园生活', 'PS4', '2022-09-19 00:00:00');
 INSERT INTO `Game` VALUES ('宏伟王国', 'PS4', '2020-12-20 00:00:00');
 INSERT INTO `Game` VALUES ('实况足球2008', 'PS2', '2008-05-22 00:00:00');
 INSERT INTO `Game` VALUES ('审判之眼：死神的遗言', 'PS4', '2022-04-05 00:00:00');
