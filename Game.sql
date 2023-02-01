@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 21/12/2022 14:26:00
+ Date: 01/02/2023 11:54:45
 */
 
 SET NAMES utf8mb4;
@@ -63,7 +63,7 @@ INSERT INTO `Game` VALUES ('万智牌：旅法师的对决', 'PC', '2011-08-21 0
 INSERT INTO `Game` VALUES ('万里长城之麒麟传说', 'PC', '2020-04-05 00:00:00');
 INSERT INTO `Game` VALUES ('三位一体', 'PS4', '2022-02-01 00:00:00');
 INSERT INTO `Game` VALUES ('三位一体2', 'PS4', '2022-05-14 00:00:00');
-INSERT INTO `Game` VALUES ('三位一体3：权利圣器', 'PS4', '2022-12-03 00:00:00');
+INSERT INTO `Game` VALUES ('三位一体3：权力圣器', 'PS4', '2022-12-03 00:00:00');
 INSERT INTO `Game` VALUES ('三国志14', 'PS4', '2021-11-20 00:00:00');
 INSERT INTO `Game` VALUES ('三国群侠传：豪侠篇', 'PC', '2011-09-30 00:00:00');
 INSERT INTO `Game` VALUES ('三国群英传', 'PC', '2008-12-11 00:00:00');
@@ -78,6 +78,7 @@ INSERT INTO `Game` VALUES ('丽兽', 'PC', '2020-04-11 00:00:00');
 INSERT INTO `Game` VALUES ('乐高DC超级反派', 'PS4', '2021-12-25 00:00:00');
 INSERT INTO `Game` VALUES ('人中之龙 极', 'PS4', '2020-03-15 00:00:00');
 INSERT INTO `Game` VALUES ('人中之龙 极2', 'PS4', '2022-10-24 00:00:00');
+INSERT INTO `Game` VALUES ('人中之龙3', 'PS4', '2023-01-02 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传', 'iOS', '2021-06-30 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传2', 'PC', '2008-08-03 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传3', 'PC', '2008-11-13 00:00:00');
@@ -212,6 +213,7 @@ INSERT INTO `Game` VALUES ('新剑侠情缘', 'PC', '2009-03-25 00:00:00');
 INSERT INTO `Game` VALUES ('新圣魔大战', 'PC', '2009-06-26 00:00:00');
 INSERT INTO `Game` VALUES ('新枪弹辩驳V3：大家互相残杀的新学期', 'PS4', '2017-10-07 00:00:00');
 INSERT INTO `Game` VALUES ('新樱花大战', 'PS4', '2021-06-20 00:00:00');
+INSERT INTO `Game` VALUES ('新次元游戏战机少女VII', 'PS4', '2022-12-22 00:00:00');
 INSERT INTO `Game` VALUES ('新神雕侠侣', 'PC', '2008-12-29 00:00:00');
 INSERT INTO `Game` VALUES ('新纪幻想：圣魔之魂2', 'PS2', '2009-04-11 00:00:00');
 INSERT INTO `Game` VALUES ('新豪血寺一族：烦恼解放', 'PS2', '2008-03-27 00:00:00');
