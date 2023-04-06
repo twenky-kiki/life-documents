@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 01/02/2023 11:54:45
+ Date: 06/04/2023 10:00:26
 */
 
 SET NAMES utf8mb4;
@@ -79,6 +79,7 @@ INSERT INTO `Game` VALUES ('乐高DC超级反派', 'PS4', '2021-12-25 00:00:00')
 INSERT INTO `Game` VALUES ('人中之龙 极', 'PS4', '2020-03-15 00:00:00');
 INSERT INTO `Game` VALUES ('人中之龙 极2', 'PS4', '2022-10-24 00:00:00');
 INSERT INTO `Game` VALUES ('人中之龙3', 'PS4', '2023-01-02 00:00:00');
+INSERT INTO `Game` VALUES ('人中之龙4：继承传说者', 'PS4', '2023-03-18 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传', 'iOS', '2021-06-30 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传2', 'PC', '2008-08-03 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传3', 'PC', '2008-11-13 00:00:00');
@@ -104,6 +105,7 @@ INSERT INTO `Game` VALUES ('初音未来：歌姬计划F2', 'PSV', '2014-05-09 0
 INSERT INTO `Game` VALUES ('剑侠情缘2白金版', 'PC', '2020-06-28 00:00:00');
 INSERT INTO `Game` VALUES ('剑侠情缘外传：月影传说', 'PC', '2009-02-06 00:00:00');
 INSERT INTO `Game` VALUES ('劳拉和奥西里斯神庙', 'PS4', '2019-05-09 00:00:00');
+INSERT INTO `Game` VALUES ('勇者斗恶龙XIS：寻觅逝去的时光', 'PS4', '2023-03-29 00:00:00');
 INSERT INTO `Game` VALUES ('勇者有点太嚣张G', 'PSV', '2014-08-24 00:00:00');
 INSERT INTO `Game` VALUES ('卒业旅行', 'PC', '2008-10-20 00:00:00');
 INSERT INTO `Game` VALUES ('危机之翼', 'PS4', '2022-10-10 00:00:00');
