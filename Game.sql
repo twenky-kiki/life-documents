@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 06/04/2023 10:00:26
+ Date: 06/07/2023 18:44:10
 */
 
 SET NAMES utf8mb4;
@@ -86,6 +86,7 @@ INSERT INTO `Game` VALUES ('仙剑奇侠传3', 'PC', '2008-11-13 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传4', 'PC', '2008-12-03 00:00:00');
 INSERT INTO `Game` VALUES ('仙剑奇侠传6', 'PS4', '2021-08-25 00:00:00');
 INSERT INTO `Game` VALUES ('以撒的结合：重生', 'PSV', '2020-11-03 00:00:00');
+INSERT INTO `Game` VALUES ('伊苏VIII：丹娜的陨涕日', 'PS4', '2023-04-29 00:00:00');
 INSERT INTO `Game` VALUES ('伊苏：塞尔塞塔的树海', 'PSV', '2020-06-27 00:00:00');
 INSERT INTO `Game` VALUES ('伊苏：起源', 'PC', '2007-08-03 00:00:00');
 INSERT INTO `Game` VALUES ('众神之怒', 'iOS', '2012-09-10 00:00:00');
@@ -361,6 +362,7 @@ INSERT INTO `Game` VALUES ('重力异想世界2：完结篇', 'PS4', '2021-09-18
 INSERT INTO `Game` VALUES ('金庸快打', 'PC', '2007-09-04 00:00:00');
 INSERT INTO `Game` VALUES ('金庸群侠传', 'PC', '2007-09-06 00:00:00');
 INSERT INTO `Game` VALUES ('钢之炼金术士：无法飞翔的天使', 'PS2', '2008-10-24 00:00:00');
+INSERT INTO `Game` VALUES ('钢铁之尾', 'PS4', '2023-05-03 00:00:00');
 INSERT INTO `Game` VALUES ('铁拳5', 'PS2', '2009-04-12 00:00:00');
 INSERT INTO `Game` VALUES ('铁拳7', 'PS4', '2022-02-27 00:00:00');
 INSERT INTO `Game` VALUES ('银白钢铁X', 'PS4', '2022-11-25 00:00:00');
