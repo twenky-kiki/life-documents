@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 07/09/2023 11:12:56
+ Date: 08/10/2023 19:13:06
 */
 
 SET NAMES utf8mb4;
@@ -111,6 +111,7 @@ INSERT INTO `game` VALUES ('勇者斗恶龙XIS：寻觅逝去的时光', 'PS4', 
 INSERT INTO `game` VALUES ('勇者有点太嚣张G', 'PSV', '2014-08-24 00:00:00');
 INSERT INTO `game` VALUES ('卒业旅行', 'PC', '2008-10-20 00:00:00');
 INSERT INTO `game` VALUES ('危机之翼', 'PS4', '2022-10-10 00:00:00');
+INSERT INTO `game` VALUES ('双人成行', 'PS4', '2023-09-29 19:12:21');
 INSERT INTO `game` VALUES ('古墓丽影：暗影', 'PS4', '2021-01-10 00:00:00');
 INSERT INTO `game` VALUES ('古惑狼4：时机已到', 'PS4', '2022-08-21 00:00:00');
 INSERT INTO `game` VALUES ('合金弹头', 'WII', '2009-01-18 00:00:00');
@@ -243,6 +244,7 @@ INSERT INTO `game` VALUES ('最后生还者', 'PS4', '2021-06-06 00:00:00');
 INSERT INTO `game` VALUES ('最终幻想7重制版', 'PS4', '2021-03-13 00:00:00');
 INSERT INTO `game` VALUES ('最终幻想X', 'PS2', '2009-05-23 00:00:00');
 INSERT INTO `game` VALUES ('月圆之夜', 'iOS', '2018-12-11 00:00:00');
+INSERT INTO `game` VALUES ('月姬格斗TYPE LUMINA', 'PS4', '2023-09-22 19:11:55');
 INSERT INTO `game` VALUES ('机甲格斗2097', 'PC', '2020-04-19 00:00:00');
 INSERT INTO `game` VALUES ('杀戮地带：雇佣兵', 'PSV', '2014-03-31 00:00:00');
 INSERT INTO `game` VALUES ('杀手2', 'PS4', '2021-09-15 00:00:00');
@@ -277,6 +279,7 @@ INSERT INTO `game` VALUES ('火焰纹章 无双', 'NS', '2020-12-03 00:00:00');
 INSERT INTO `game` VALUES ('炎龙骑士团2：黄金城之谜', 'PC', '2008-06-06 00:00:00');
 INSERT INTO `game` VALUES ('炎龙骑士团外传：风之纹章', 'PC', '2009-04-22 00:00:00');
 INSERT INTO `game` VALUES ('炎龙骑士团：邪神之封印', 'PC', '2008-05-25 00:00:00');
+INSERT INTO `game` VALUES ('牧场物语：橄榄镇与希望的大地special', 'PS4', '2023-09-22 19:10:57');
 INSERT INTO `game` VALUES ('狂龙传', 'PC', '2020-05-04 00:00:00');
 INSERT INTO `game` VALUES ('猫娘乐园1', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `game` VALUES ('王国保卫战：复仇', 'iOS', '2021-05-12 00:00:00');
