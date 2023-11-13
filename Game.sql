@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 08/10/2023 19:13:06
+ Date: 13/11/2023 16:01:53
 */
 
 SET NAMES utf8mb4;
@@ -171,6 +171,7 @@ INSERT INTO `game` VALUES ('小小梦魇', 'PS4', '2022-11-05 00:00:00');
 INSERT INTO `game` VALUES ('小缇娜强袭龙堡：奇幻之地大冒险', 'PS4', '2022-02-20 00:00:00');
 INSERT INTO `game` VALUES ('少年街霸3', 'PSV', '2014-01-28 00:00:00');
 INSERT INTO `game` VALUES ('巫师3：狂猎', 'PS4', '2019-05-01 00:00:00');
+INSERT INTO `game` VALUES ('席德梅尔的文明6', 'PS4', '2023-10-25 00:00:00');
 INSERT INTO `game` VALUES ('幸运枪手', 'PS4', '2022-02-27 00:00:00');
 INSERT INTO `game` VALUES ('幽游白书：暗黑武斗会', 'PS2', '2008-04-29 00:00:00');
 INSERT INTO `game` VALUES ('幽灵小队', 'WII', '2009-01-23 00:00:00');
@@ -286,6 +287,7 @@ INSERT INTO `game` VALUES ('王国保卫战：复仇', 'iOS', '2021-05-12 00:00:
 INSERT INTO `game` VALUES ('生化危机：启示录2', 'PS4', '2015-09-20 00:00:00');
 INSERT INTO `game` VALUES ('百花物语：镜花缘', 'PC', '2008-10-24 00:00:00');
 INSERT INTO `game` VALUES ('盗贼遗产', 'PSV', '2016-10-07 00:00:00');
+INSERT INTO `game` VALUES ('盗贼遗产2', 'PS4', '2023-10-09 00:00:00');
 INSERT INTO `game` VALUES ('直到黎明', 'PS4', '2022-11-28 00:00:00');
 INSERT INTO `game` VALUES ('真三国无双4', 'PS2', '2008-05-21 00:00:00');
 INSERT INTO `game` VALUES ('真三国无双NEXT', 'PSV', '2014-04-27 00:00:00');
@@ -349,6 +351,7 @@ INSERT INTO `game` VALUES ('赌神：至尊之战', 'PC', '2007-07-19 00:00:00')
 INSERT INTO `game` VALUES ('赤壁之战', 'PC', '2013-06-21 00:00:00');
 INSERT INTO `game` VALUES ('超凡双生', 'PS4', '2021-09-22 00:00:00');
 INSERT INTO `game` VALUES ('超级枪弹辩驳2：再见了绝望学园', 'PSV', '2014-05-12 00:00:00');
+INSERT INTO `game` VALUES ('超级马力欧派对', 'NS', '2023-10-14 00:00:00');
 INSERT INTO `game` VALUES ('超级魂斗罗', 'FC', '2019-05-31 00:00:00');
 INSERT INTO `game` VALUES ('轩辕剑2', 'PC', '2020-04-04 00:00:00');
 INSERT INTO `game` VALUES ('轩辕剑3外传：天之痕', 'iOS', '2020-08-03 00:00:00');
