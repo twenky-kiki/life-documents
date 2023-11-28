@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 13/11/2023 16:01:53
+ Date: 28/11/2023 10:00:24
 */
 
 SET NAMES utf8mb4;
@@ -399,6 +399,7 @@ INSERT INTO `game` VALUES ('麻雀幻想曲3', 'PC', '2007-07-25 00:00:00');
 INSERT INTO `game` VALUES ('黑暗史诗', 'PC', '2008-11-29 00:00:00');
 INSERT INTO `game` VALUES ('黑暗史诗：未探索的国度', 'PC', '2008-12-04 00:00:00');
 INSERT INTO `game` VALUES ('黑相集：棉兰号', 'PS4', '2019-10-20 00:00:00');
+INSERT INTO `game` VALUES ('黑相集：灰冥界', 'PS4', '2023-11-25 09:59:40');
 INSERT INTO `game` VALUES ('黑相集：稀望镇', 'PS4', '2022-07-16 00:00:00');
 INSERT INTO `game` VALUES ('龙与地下城：暗黑秘影', 'Arcade', '2016-08-04 00:00:00');
 INSERT INTO `game` VALUES ('龙之子 VS CAPCOM：乱世英雄', 'WII', '2009-01-18 00:00:00');
