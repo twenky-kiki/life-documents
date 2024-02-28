@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 29/12/2023 11:10:19
+ Date: 28/02/2024 22:26:01
 */
 
 SET NAMES utf8mb4;
@@ -110,6 +110,7 @@ INSERT INTO `game` VALUES ('剑侠情缘外传：月影传说', 'PC', '2009-02-0
 INSERT INTO `game` VALUES ('劳拉和奥西里斯神庙', 'PS4', '2019-05-09 00:00:00');
 INSERT INTO `game` VALUES ('勇者斗恶龙XIS：寻觅逝去的时光', 'PS4', '2023-03-29 00:00:00');
 INSERT INTO `game` VALUES ('勇者有点太嚣张G', 'PSV', '2014-08-24 00:00:00');
+INSERT INTO `game` VALUES ('十三机兵防卫圈', 'PS4', '2024-01-16 00:00:00');
 INSERT INTO `game` VALUES ('卒业旅行', 'PC', '2008-10-20 00:00:00');
 INSERT INTO `game` VALUES ('危机之翼', 'PS4', '2022-10-10 00:00:00');
 INSERT INTO `game` VALUES ('双人成行', 'PS4', '2023-09-29 19:12:21');
@@ -131,6 +132,7 @@ INSERT INTO `game` VALUES ('吸血鬼', 'PS4', '2020-11-23 00:00:00');
 INSERT INTO `game` VALUES ('命运石之门', 'PC', '2014-09-13 00:00:00');
 INSERT INTO `game` VALUES ('嘿咻魔法娘', 'PC', '2008-12-30 00:00:00');
 INSERT INTO `game` VALUES ('噬神者2', 'PSV', '2015-02-27 00:00:00');
+INSERT INTO `game` VALUES ('四海兄弟2：最终版', 'PS4', '2024-01-06 00:00:00');
 INSERT INTO `game` VALUES ('回音战机', 'PS2', '2008-05-30 00:00:00');
 INSERT INTO `game` VALUES ('圆桌骑士', 'PS2', '2008-07-16 00:00:00');
 INSERT INTO `game` VALUES ('圣少女战队', 'PC', '2020-03-28 00:00:00');
@@ -149,6 +151,7 @@ INSERT INTO `game` VALUES ('大富翁环游世界', 'PC', '2019-05-11 00:00:00')
 INSERT INTO `game` VALUES ('天使帝国', 'PC', '2008-11-04 00:00:00');
 INSERT INTO `game` VALUES ('天使帝国4', 'iOS', '2018-10-14 00:00:00');
 INSERT INTO `game` VALUES ('天使帝国III', 'PC', '2008-11-09 00:00:00');
+INSERT INTO `game` VALUES ('天堂的陌生人：最终幻想起源', 'PS4', '2024-02-21 00:00:00');
 INSERT INTO `game` VALUES ('天诛：红', 'PS2', '2008-12-15 00:00:00');
 INSERT INTO `game` VALUES ('天龙八部', 'PC', '2007-09-09 00:00:00');
 INSERT INTO `game` VALUES ('太鼓达人', 'PS2', '2008-05-25 00:00:00');
@@ -318,6 +321,7 @@ INSERT INTO `game` VALUES ('美女快打', 'PC', '2011-08-22 00:00:00');
 INSERT INTO `game` VALUES ('美女终结者', 'PC', '2007-09-05 00:00:00');
 INSERT INTO `game` VALUES ('聚爆', 'iOS', '2015-06-13 00:00:00');
 INSERT INTO `game` VALUES ('肥肥公主大作战', 'PS4', '2022-05-11 00:00:00');
+INSERT INTO `game` VALUES ('胡闹搬家2', 'PS4', '2024-01-13 00:00:00');
 INSERT INTO `game` VALUES ('胧村正', 'PSV', '2014-10-01 00:00:00');
 INSERT INTO `game` VALUES ('脱衣黑杰克', 'PC', '2020-05-04 00:00:00');
 INSERT INTO `game` VALUES ('致命躯壳', 'PS4', '2021-12-30 00:00:00');
