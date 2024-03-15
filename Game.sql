@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 28/02/2024 22:26:01
+ Date: 15/03/2024 18:16:38
 */
 
 SET NAMES utf8mb4;
@@ -50,6 +50,7 @@ INSERT INTO `game` VALUES ('InkSplosion', 'PSV', '2022-03-01 00:00:00');
 INSERT INTO `game` VALUES ('inscryption', 'PS4', '2023-07-14 11:11:47');
 INSERT INTO `game` VALUES ('NBA2K15', 'PS4', '2015-12-20 00:00:00');
 INSERT INTO `game` VALUES ('NOX', 'PC', '2009-03-17 00:00:00');
+INSERT INTO `game` VALUES ('patapon', 'PS4', '2024-03-09 00:00:00');
 INSERT INTO `game` VALUES ('simulacra', 'iOS', '2021-05-01 00:00:00');
 INSERT INTO `game` VALUES ('solitairica', 'iOS', '2020-05-09 00:00:00');
 INSERT INTO `game` VALUES ('Stray', 'PS4', '2022-09-19 00:00:00');
@@ -95,6 +96,7 @@ INSERT INTO `game` VALUES ('众神之怒', 'iOS', '2012-09-10 00:00:00');
 INSERT INTO `game` VALUES ('传颂之物：给逝者的摇篮曲', 'PS4', '2022-02-17 00:00:00');
 INSERT INTO `game` VALUES ('侠客风云传', 'iOS', '2019-04-05 00:00:00');
 INSERT INTO `game` VALUES ('侠盗猎车手5', 'PS4', '2019-10-17 00:00:00');
+INSERT INTO `game` VALUES ('侦探神宫寺三狼前传 代达罗斯：黄金爵士乐的觉醒', 'PS4', '2024-03-14 00:00:00');
 INSERT INTO `game` VALUES ('修道院：破碎瓷器', 'PS4', '2021-10-07 00:00:00');
 INSERT INTO `game` VALUES ('俺尸2：跨过俺的尸体前进吧', 'PSV', '2014-12-14 00:00:00');
 INSERT INTO `game` VALUES ('兄弟：双子传说', 'PS4', '2022-03-27 00:00:00');
@@ -130,6 +132,7 @@ INSERT INTO `game` VALUES ('名将', 'PS2', '2008-05-30 00:00:00');
 INSERT INTO `game` VALUES ('吞食天地2：赤壁之战', 'PS4', '2021-05-17 00:00:00');
 INSERT INTO `game` VALUES ('吸血鬼', 'PS4', '2020-11-23 00:00:00');
 INSERT INTO `game` VALUES ('命运石之门', 'PC', '2014-09-13 00:00:00');
+INSERT INTO `game` VALUES ('嗜血代码', 'PS4', '2024-03-04 00:00:00');
 INSERT INTO `game` VALUES ('嘿咻魔法娘', 'PC', '2008-12-30 00:00:00');
 INSERT INTO `game` VALUES ('噬神者2', 'PSV', '2015-02-27 00:00:00');
 INSERT INTO `game` VALUES ('四海兄弟2：最终版', 'PS4', '2024-01-06 00:00:00');
