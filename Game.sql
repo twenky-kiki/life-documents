@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 15/03/2024 18:16:38
+ Date: 21/03/2024 14:03:09
 */
 
 SET NAMES utf8mb4;
@@ -250,6 +250,7 @@ INSERT INTO `game` VALUES ('暗黑破坏神3', 'PC', '2013-05-12 00:00:00');
 INSERT INTO `game` VALUES ('暴力街区', 'iOS', '2021-05-16 00:00:00');
 INSERT INTO `game` VALUES ('暴力街区2', 'iOS', '2018-11-18 00:00:00');
 INSERT INTO `game` VALUES ('暴雨', 'PS4', '2020-12-29 00:00:00');
+INSERT INTO `game` VALUES ('曲途', 'PS4', '2024-03-21 00:00:00');
 INSERT INTO `game` VALUES ('最后生还者', 'PS4', '2021-06-06 00:00:00');
 INSERT INTO `game` VALUES ('最终幻想7重制版', 'PS4', '2021-03-13 00:00:00');
 INSERT INTO `game` VALUES ('最终幻想X', 'PS2', '2009-05-23 00:00:00');
@@ -347,9 +348,15 @@ INSERT INTO `game` VALUES ('血污2：月之诅咒', 'PS4', '2021-09-02 00:00:00
 INSERT INTO `game` VALUES ('血污：夜之仪式', 'PS4', '2021-03-01 00:00:00');
 INSERT INTO `game` VALUES ('血源诅咒：老猎人版', 'PS4', '2021-05-10 00:00:00');
 INSERT INTO `game` VALUES ('街头霸王', 'PS2', '2008-05-29 00:00:00');
+INSERT INTO `game` VALUES ('街头霸王2：四大天王', 'PS4', '2024-03-18 00:00:00');
+INSERT INTO `game` VALUES ('街头霸王3：二度冲击 巨型打击', 'PS4', '2024-03-18 00:00:00');
+INSERT INTO `game` VALUES ('街头霸王3：新纪元', 'PS4', '2024-03-18 00:00:00');
 INSERT INTO `game` VALUES ('街头霸王3：第三次冲击', 'PS2', '2008-05-04 00:00:00');
 INSERT INTO `game` VALUES ('街头霸王4', 'PC', '2009-07-23 00:00:00');
 INSERT INTO `game` VALUES ('街头霸王5', 'PS4', '2016-06-20 00:00:00');
+INSERT INTO `game` VALUES ('街头霸王alpha', 'PS4', '2024-03-15 00:00:00');
+INSERT INTO `game` VALUES ('街头霸王alpha2', 'PS4', '2024-03-15 00:00:00');
+INSERT INTO `game` VALUES ('街头霸王alpha3', 'PS4', '2024-03-18 00:00:00');
 INSERT INTO `game` VALUES ('街头霸王X铁拳', 'PC', '2013-06-02 00:00:00');
 INSERT INTO `game` VALUES ('袋鼠创天关2', 'PS2', '2009-03-23 00:00:00');
 INSERT INTO `game` VALUES ('西游记', 'PC', '2007-07-05 00:00:00');
@@ -361,6 +368,7 @@ INSERT INTO `game` VALUES ('赌神：至尊之战', 'PC', '2007-07-19 00:00:00')
 INSERT INTO `game` VALUES ('赤壁之战', 'PC', '2013-06-21 00:00:00');
 INSERT INTO `game` VALUES ('超凡双生', 'PS4', '2021-09-22 00:00:00');
 INSERT INTO `game` VALUES ('超级枪弹辩驳2：再见了绝望学园', 'PSV', '2014-05-12 00:00:00');
+INSERT INTO `game` VALUES ('超级街头霸王2：新的挑战者', 'PS4', '2024-03-19 00:00:00');
 INSERT INTO `game` VALUES ('超级马力欧派对', 'NS', '2023-10-14 00:00:00');
 INSERT INTO `game` VALUES ('超级魂斗罗', 'FC', '2019-05-31 00:00:00');
 INSERT INTO `game` VALUES ('轩辕剑2', 'PC', '2020-04-04 00:00:00');
