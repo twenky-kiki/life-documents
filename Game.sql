@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 21/03/2024 14:03:09
+ Date: 25/03/2024 09:50:10
 */
 
 SET NAMES utf8mb4;
@@ -263,6 +263,7 @@ INSERT INTO `game` VALUES ('松鼠大作战', 'FC', '2019-05-26 00:00:00');
 INSERT INTO `game` VALUES ('松鼠大作战2', 'FC', '2019-06-01 00:00:00');
 INSERT INTO `game` VALUES ('极品飞车：复仇', 'PS4', '2020-11-14 00:00:00');
 INSERT INTO `game` VALUES ('枪弹辩驳：希望学院与绝望高中生', 'PSV', '2014-04-20 00:00:00');
+INSERT INTO `game` VALUES ('格斗领域EX', 'PS4', '2024-03-25 00:00:00');
 INSERT INTO `game` VALUES ('植物大战僵尸', 'PC', '2011-01-16 00:00:00');
 INSERT INTO `game` VALUES ('植物大战僵尸：和睦小镇保卫战', 'PS4', '2021-08-06 00:00:00');
 INSERT INTO `game` VALUES ('樱花大战', 'PC', '2007-07-18 00:00:00');
@@ -407,6 +408,7 @@ INSERT INTO `game` VALUES ('魂斗罗', 'FC', '2019-05-30 00:00:00');
 INSERT INTO `game` VALUES ('魂斗罗：流氓军团', 'PS4', '2021-12-02 00:00:00');
 INSERT INTO `game` VALUES ('魔兽争霸3：冰封王座', 'PC', '2012-01-07 00:00:00');
 INSERT INTO `game` VALUES ('魔兽争霸3：混乱之治', 'PC', '2009-06-03 00:00:00');
+INSERT INTO `game` VALUES ('魔域之书', 'PS4', '2024-03-22 00:00:00');
 INSERT INTO `game` VALUES ('魔法门之英雄无敌5', 'PC', '2009-08-03 00:00:00');
 INSERT INTO `game` VALUES ('魔法门之英雄无敌5：东方部落', 'PC', '2012-05-21 00:00:00');
 INSERT INTO `game` VALUES ('魔法门之英雄无敌5：命运之锤', 'PC', '2012-05-07 00:00:00');
