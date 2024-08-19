@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 05/01/2019 08:05:37
+ Date: 19/08/2024 18:37:10
 */
 
 SET NAMES utf8mb4;
@@ -136,6 +136,7 @@ INSERT INTO `game` VALUES ('名将', 'PS2', '2008-05-30 00:00:00');
 INSERT INTO `game` VALUES ('吞食天地2：赤壁之战', 'PS4', '2021-05-17 00:00:00');
 INSERT INTO `game` VALUES ('吸血鬼', 'PS4', '2020-11-23 00:00:00');
 INSERT INTO `game` VALUES ('命运石之门', 'PC', '2014-09-13 00:00:00');
+INSERT INTO `game` VALUES ('咒语力量3：燃烧之血', 'PS5', '2024-08-18 00:00:00');
 INSERT INTO `game` VALUES ('嗜血代码', 'PS4', '2024-03-04 00:00:00');
 INSERT INTO `game` VALUES ('嘿咻魔法娘', 'PC', '2008-12-30 00:00:00');
 INSERT INTO `game` VALUES ('噬神者2', 'PSV', '2015-02-27 00:00:00');
@@ -431,6 +432,7 @@ INSERT INTO `game` VALUES ('魔法门之英雄无敌5：命运之锤', 'PC', '20
 INSERT INTO `game` VALUES ('魔法门之英雄无敌6', 'PC', '2013-03-03 00:00:00');
 INSERT INTO `game` VALUES ('麻将情趣屋', 'PC', '2007-09-04 00:00:00');
 INSERT INTO `game` VALUES ('麻将情趣屋II', 'PC', '2008-05-23 00:00:00');
+INSERT INTO `game` VALUES ('麻布仔大冒险', 'PS4', '2024-08-18 00:00:00');
 INSERT INTO `game` VALUES ('麻雀幻想曲2', 'PC', '2007-07-20 00:00:00');
 INSERT INTO `game` VALUES ('麻雀幻想曲3', 'PC', '2007-07-25 00:00:00');
 INSERT INTO `game` VALUES ('黑暗史诗', 'PC', '2008-11-29 00:00:00');
