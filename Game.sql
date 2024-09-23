@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 06/09/2024 11:03:15
+ Date: 23/09/2024 17:01:23
 */
 
 SET NAMES utf8mb4;
@@ -103,6 +103,7 @@ INSERT INTO `game` VALUES ('侦探神宫寺三狼前传 代达罗斯：黄金爵
 INSERT INTO `game` VALUES ('信使', 'PS4', '2024-05-20 00:00:00');
 INSERT INTO `game` VALUES ('修道院：破碎瓷器', 'PS4', '2021-10-07 00:00:00');
 INSERT INTO `game` VALUES ('俺尸2：跨过俺的尸体前进吧', 'PSV', '2014-12-14 00:00:00');
+INSERT INTO `game` VALUES ('僵尸来了', 'Other', '2024-09-15 00:00:00');
 INSERT INTO `game` VALUES ('兄弟：双子传说', 'PS4', '2022-03-27 00:00:00');
 INSERT INTO `game` VALUES ('光之子', 'PSV', '2015-01-28 00:00:00');
 INSERT INTO `game` VALUES ('克鲁苏的召唤', 'PS4', '2021-06-09 00:00:00');
@@ -175,6 +176,7 @@ INSERT INTO `game` VALUES ('女神异闻录5R', 'PS4', '2022-05-29 00:00:00');
 INSERT INTO `game` VALUES ('女神异闻录5乱战：魅影攻手', 'PS4', '2022-06-22 00:00:00');
 INSERT INTO `game` VALUES ('女鬼桥：开魂路', 'PS4', '2023-12-03 00:00:00');
 INSERT INTO `game` VALUES ('妖怪手表JAM 妖怪学园Y：自由欢乐学园生活', 'PS4', '2022-09-19 00:00:00');
+INSERT INTO `game` VALUES ('宇宙机器人无线控制器使用指南', 'PS5', '2024-09-14 00:00:00');
 INSERT INTO `game` VALUES ('宏伟王国', 'PS4', '2020-12-20 00:00:00');
 INSERT INTO `game` VALUES ('实况足球2008', 'PS2', '2008-05-22 00:00:00');
 INSERT INTO `game` VALUES ('审判之眼：死神的遗言', 'PS4', '2022-04-05 00:00:00');
