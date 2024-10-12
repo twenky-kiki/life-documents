@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 23/09/2024 17:01:23
+ Date: 12/10/2024 18:33:43
 */
 
 SET NAMES utf8mb4;
@@ -53,6 +53,7 @@ INSERT INTO `game` VALUES ('inscryption', 'PS4', '2023-07-14 11:11:47');
 INSERT INTO `game` VALUES ('NBA2K15', 'PS4', '2015-12-20 00:00:00');
 INSERT INTO `game` VALUES ('NOX', 'PC', '2009-03-17 00:00:00');
 INSERT INTO `game` VALUES ('patapon', 'PS4', '2024-03-09 00:00:00');
+INSERT INTO `game` VALUES ('patapon2', 'PS5', '2024-10-11 00:00:00');
 INSERT INTO `game` VALUES ('simulacra', 'iOS', '2021-05-01 00:00:00');
 INSERT INTO `game` VALUES ('solitairica', 'iOS', '2020-05-09 00:00:00');
 INSERT INTO `game` VALUES ('Stray', 'PS4', '2022-09-19 00:00:00');
