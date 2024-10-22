@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 12/10/2024 18:33:43
+ Date: 22/10/2024 10:50:40
 */
 
 SET NAMES utf8mb4;
@@ -181,6 +181,7 @@ INSERT INTO `game` VALUES ('宇宙机器人无线控制器使用指南', 'PS5', 
 INSERT INTO `game` VALUES ('宏伟王国', 'PS4', '2020-12-20 00:00:00');
 INSERT INTO `game` VALUES ('实况足球2008', 'PS2', '2008-05-22 00:00:00');
 INSERT INTO `game` VALUES ('审判之眼：死神的遗言', 'PS4', '2022-04-05 00:00:00');
+INSERT INTO `game` VALUES ('寂静岭：短信', 'PS5', '2024-10-19 00:00:00');
 INSERT INTO `game` VALUES ('富甲天下', 'PC', '2007-11-30 00:00:00');
 INSERT INTO `game` VALUES ('富甲天下2', 'PC', '2013-08-10 00:00:00');
 INSERT INTO `game` VALUES ('对马岛之魂', 'PS4', '2022-08-05 00:00:00');
@@ -422,6 +423,7 @@ INSERT INTO `game` VALUES ('雨血前传：蜃楼', 'PC', '2013-05-26 00:00:00')
 INSERT INTO `game` VALUES ('零：濡鸦之巫女', 'PS4', '2022-04-10 00:00:00');
 INSERT INTO `game` VALUES ('霹雳奇侠传：清香白莲素还真', 'PC', '2008-05-09 00:00:00');
 INSERT INTO `game` VALUES ('非洲探险', 'PC', '2019-05-12 00:00:00');
+INSERT INTO `game` VALUES ('飞向月球', 'PS5', '2024-10-13 00:00:00');
 INSERT INTO `game` VALUES ('鬼武者', 'PS2', '2009-07-22 00:00:00');
 INSERT INTO `game` VALUES ('鬼泣5', 'PS4', '2023-12-28 00:00:00');
 INSERT INTO `game` VALUES ('魂斗罗', 'FC', '2019-05-30 00:00:00');
