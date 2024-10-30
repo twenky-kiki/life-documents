@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 22/10/2024 10:50:40
+ Date: 30/10/2024 18:51:22
 */
 
 SET NAMES utf8mb4;
@@ -313,8 +313,10 @@ INSERT INTO `game` VALUES ('牧场物语：橄榄镇与希望的大地special', 
 INSERT INTO `game` VALUES ('狂龙传', 'PC', '2020-05-04 00:00:00');
 INSERT INTO `game` VALUES ('猫娘乐园1', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `game` VALUES ('王国保卫战：复仇', 'iOS', '2021-05-12 00:00:00');
+INSERT INTO `game` VALUES ('瑞奇与叮当：时空跳转', 'PS5', '2024-10-23 00:00:00');
 INSERT INTO `game` VALUES ('生化危机：启示录2', 'PS4', '2015-09-20 00:00:00');
 INSERT INTO `game` VALUES ('百花物语：镜花缘', 'PC', '2008-10-24 00:00:00');
+INSERT INTO `game` VALUES ('百英雄传：崛起', 'PS5', '2024-10-29 00:00:00');
 INSERT INTO `game` VALUES ('盗贼遗产', 'PSV', '2016-10-07 00:00:00');
 INSERT INTO `game` VALUES ('盗贼遗产2', 'PS4', '2023-10-09 00:00:00');
 INSERT INTO `game` VALUES ('直到黎明', 'PS4', '2022-11-28 00:00:00');
