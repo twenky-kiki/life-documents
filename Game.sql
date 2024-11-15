@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 30/10/2024 18:51:22
+ Date: 15/11/2024 19:50:41
 */
 
 SET NAMES utf8mb4;
@@ -314,6 +314,7 @@ INSERT INTO `game` VALUES ('狂龙传', 'PC', '2020-05-04 00:00:00');
 INSERT INTO `game` VALUES ('猫娘乐园1', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `game` VALUES ('王国保卫战：复仇', 'iOS', '2021-05-12 00:00:00');
 INSERT INTO `game` VALUES ('瑞奇与叮当：时空跳转', 'PS5', '2024-10-23 00:00:00');
+INSERT INTO `game` VALUES ('生化危机2', 'PS5', '2024-11-13 00:00:00');
 INSERT INTO `game` VALUES ('生化危机：启示录2', 'PS4', '2015-09-20 00:00:00');
 INSERT INTO `game` VALUES ('百花物语：镜花缘', 'PC', '2008-10-24 00:00:00');
 INSERT INTO `game` VALUES ('百英雄传：崛起', 'PS5', '2024-10-29 00:00:00');
@@ -331,6 +332,7 @@ INSERT INTO `game` VALUES ('真人快打：死亡联盟', 'PS2', '2009-04-12 00:
 INSERT INTO `game` VALUES ('碧蓝幻想Versus', 'PS4', '2022-10-30 00:00:00');
 INSERT INTO `game` VALUES ('碧雪情天', 'PC', '2008-04-12 00:00:00');
 INSERT INTO `game` VALUES ('碰龙美战士', 'PC', '2007-07-31 00:00:00');
+INSERT INTO `game` VALUES ('神之亵渎', 'PS5', '2024-11-09 00:00:00');
 INSERT INTO `game` VALUES ('神偷', 'PS4', '2020-12-14 00:00:00');
 INSERT INTO `game` VALUES ('神秘海域4：盗贼末路', 'PS4', '2021-09-05 00:00:00');
 INSERT INTO `game` VALUES ('空洞骑士', 'PS4', '2021-01-09 00:00:00');
@@ -350,6 +352,7 @@ INSERT INTO `game` VALUES ('胡闹搬家2', 'PS4', '2024-01-13 00:00:00');
 INSERT INTO `game` VALUES ('胧村正', 'PSV', '2014-10-01 00:00:00');
 INSERT INTO `game` VALUES ('脱衣黑杰克', 'PC', '2020-05-04 00:00:00');
 INSERT INTO `game` VALUES ('致命躯壳', 'PS4', '2021-12-30 00:00:00');
+INSERT INTO `game` VALUES ('艾迪芬奇的记忆', 'PS5', '2024-11-10 00:00:00');
 INSERT INTO `game` VALUES ('苍翼默示录：神观之梦', 'PS4', '2019-04-05 00:00:00');
 INSERT INTO `game` VALUES ('苏菲的炼金工房～不可思议书的炼金术士～', 'PS4', '2021-07-30 00:00:00');
 INSERT INTO `game` VALUES ('英雄传说4：朱红的泪', 'PC', '2011-11-16 00:00:00');
@@ -425,6 +428,8 @@ INSERT INTO `game` VALUES ('雨血前传：蜃楼', 'PC', '2013-05-26 00:00:00')
 INSERT INTO `game` VALUES ('零：濡鸦之巫女', 'PS4', '2022-04-10 00:00:00');
 INSERT INTO `game` VALUES ('霹雳奇侠传：清香白莲素还真', 'PC', '2008-05-09 00:00:00');
 INSERT INTO `game` VALUES ('非洲探险', 'PC', '2019-05-12 00:00:00');
+INSERT INTO `game` VALUES ('风之少年克罗诺亚', 'PS5', '2024-11-01 00:00:00');
+INSERT INTO `game` VALUES ('风之少年克罗诺亚2', 'PS5', '2024-11-04 00:00:00');
 INSERT INTO `game` VALUES ('飞向月球', 'PS5', '2024-10-13 00:00:00');
 INSERT INTO `game` VALUES ('鬼武者', 'PS2', '2009-07-22 00:00:00');
 INSERT INTO `game` VALUES ('鬼泣5', 'PS4', '2023-12-28 00:00:00');
