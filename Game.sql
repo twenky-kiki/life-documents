@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 22/02/2025 18:35:30
+ Date: 28/02/2025 17:35:30
 */
 
 SET NAMES utf8mb4;
@@ -50,11 +50,13 @@ INSERT INTO `game` VALUES ('flower', 'PSV', '2015-02-14 00:00:00');
 INSERT INTO `game` VALUES ('Heroes Trials', 'PS4', '2022-03-13 00:00:00');
 INSERT INTO `game` VALUES ('InkSplosion', 'PSV', '2022-03-01 00:00:00');
 INSERT INTO `game` VALUES ('inscryption', 'PS4', '2023-07-14 11:11:47');
+INSERT INTO `game` VALUES ('JoJo的奇妙冒险：群星之战', 'PS5', '2025-02-24 00:00:00');
 INSERT INTO `game` VALUES ('NBA2K15', 'PS4', '2015-12-20 00:00:00');
 INSERT INTO `game` VALUES ('NOX', 'PC', '2009-03-17 00:00:00');
 INSERT INTO `game` VALUES ('patapon', 'PS4', '2024-03-09 00:00:00');
 INSERT INTO `game` VALUES ('patapon2', 'PS5', '2024-10-11 00:00:00');
 INSERT INTO `game` VALUES ('simulacra', 'iOS', '2021-05-01 00:00:00');
+INSERT INTO `game` VALUES ('sol cresta', 'PS5', '2025-02-23 00:00:00');
 INSERT INTO `game` VALUES ('solitairica', 'iOS', '2020-05-09 00:00:00');
 INSERT INTO `game` VALUES ('Stray', 'PS4', '2022-09-19 00:00:00');
 INSERT INTO `game` VALUES ('The Swapper', 'PS4', '2020-12-11 00:00:00');
@@ -317,6 +319,7 @@ INSERT INTO `game` VALUES ('炎龙骑士团外传：风之纹章', 'PC', '2009-0
 INSERT INTO `game` VALUES ('炎龙骑士团：邪神之封印', 'PC', '2008-05-25 00:00:00');
 INSERT INTO `game` VALUES ('牧场物语：橄榄镇与希望的大地special', 'PS4', '2023-09-22 19:10:57');
 INSERT INTO `game` VALUES ('狂龙传', 'PC', '2020-05-04 00:00:00');
+INSERT INTO `game` VALUES ('猫咪斗恶龙', 'PS5', '2025-02-27 00:00:00');
 INSERT INTO `game` VALUES ('猫娘乐园1', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `game` VALUES ('王国保卫战：复仇', 'iOS', '2021-05-12 00:00:00');
 INSERT INTO `game` VALUES ('瑞奇与叮当：时空跳转', 'PS5', '2024-10-23 00:00:00');
