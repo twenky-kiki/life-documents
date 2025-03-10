@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 28/02/2025 17:35:30
+ Date: 10/03/2025 10:52:58
 */
 
 SET NAMES utf8mb4;
@@ -128,6 +128,7 @@ INSERT INTO `game` VALUES ('危机之翼', 'PS4', '2022-10-10 00:00:00');
 INSERT INTO `game` VALUES ('双人成行', 'PS4', '2023-09-29 19:12:21');
 INSERT INTO `game` VALUES ('古墓丽影：暗影', 'PS4', '2021-01-10 00:00:00');
 INSERT INTO `game` VALUES ('古惑狼4：时机已到', 'PS4', '2022-08-21 00:00:00');
+INSERT INTO `game` VALUES ('吃豆人：吃遍世界', 'PS5', '2025-03-06 00:00:00');
 INSERT INTO `game` VALUES ('合金弹头', 'WII', '2009-01-18 00:00:00');
 INSERT INTO `game` VALUES ('合金弹头2', 'WII', '2009-01-27 00:00:00');
 INSERT INTO `game` VALUES ('合金弹头3', 'WII', '2009-02-03 00:00:00');
@@ -204,6 +205,7 @@ INSERT INTO `game` VALUES ('幽灵小队', 'WII', '2009-01-23 00:00:00');
 INSERT INTO `game` VALUES ('底特律：变人', 'PS4', '2021-09-06 00:00:00');
 INSERT INTO `game` VALUES ('式神之城3', 'PC', '2007-07-07 00:00:00');
 INSERT INTO `game` VALUES ('心灵诡宅', 'PS4', '2021-11-14 00:00:00');
+INSERT INTO `game` VALUES ('忍者神龟：大脚帮陨落', 'PS5', '2025-03-09 00:00:00');
 INSERT INTO `game` VALUES ('忍者龙剑传Σ+', 'PSV', '2015-07-04 00:00:00');
 INSERT INTO `game` VALUES ('忍者龙剑传Σ2+', 'PSV', '2014-05-04 00:00:00');
 INSERT INTO `game` VALUES ('忘却之声', 'iOS', '2017-05-14 00:00:00');
@@ -353,7 +355,6 @@ INSERT INTO `game` VALUES ('索尼克团队赛车', 'PS4', '2022-03-29 00:00:00'
 INSERT INTO `game` VALUES ('索尼全明星大乱斗', 'PSV', '2014-08-14 00:00:00');
 INSERT INTO `game` VALUES ('红楼梦之十二金钗', 'PC', '2008-12-20 00:00:00');
 INSERT INTO `game` VALUES ('纪念碑谷', 'iOS', '2015-12-18 00:00:00');
-INSERT INTO `game` VALUES ('纳克大冒险2', 'PS4', '2021-03-08 00:00:00');
 INSERT INTO `game` VALUES ('绝对绝望少女：枪弹辩驳Another Episode', 'PSV', '2019-05-14 00:00:00');
 INSERT INTO `game` VALUES ('绯红结系', 'PS4', '2025-01-30 00:00:00');
 INSERT INTO `game` VALUES ('罪恶装备 Xrd Rev2', 'PS4', '2020-11-24 00:00:00');
@@ -425,6 +426,8 @@ INSERT INTO `game` VALUES ('逆转裁判：复苏的逆转', 'PS4', '2021-11-21 
 INSERT INTO `game` VALUES ('重力异想世界2：完结篇', 'PS4', '2021-09-18 00:00:00');
 INSERT INTO `game` VALUES ('金庸快打', 'PC', '2007-09-04 00:00:00');
 INSERT INTO `game` VALUES ('金庸群侠传', 'PC', '2007-09-06 00:00:00');
+INSERT INTO `game` VALUES ('钠克大冒险', 'PS5', '2025-03-07 00:00:00');
+INSERT INTO `game` VALUES ('钠克大冒险2', 'PS4', '2021-03-08 00:00:00');
 INSERT INTO `game` VALUES ('钢之炼金术士：无法飞翔的天使', 'PS2', '2008-10-24 00:00:00');
 INSERT INTO `game` VALUES ('钢铁之尾', 'PS4', '2023-05-03 00:00:00');
 INSERT INTO `game` VALUES ('铁拳2', 'PS5', '2024-08-02 00:00:00');
