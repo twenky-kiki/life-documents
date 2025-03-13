@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 10/03/2025 10:52:58
+ Date: 13/03/2025 17:37:57
 */
 
 SET NAMES utf8mb4;
@@ -205,7 +205,16 @@ INSERT INTO `game` VALUES ('幽灵小队', 'WII', '2009-01-23 00:00:00');
 INSERT INTO `game` VALUES ('底特律：变人', 'PS4', '2021-09-06 00:00:00');
 INSERT INTO `game` VALUES ('式神之城3', 'PC', '2007-07-07 00:00:00');
 INSERT INTO `game` VALUES ('心灵诡宅', 'PS4', '2021-11-14 00:00:00');
+INSERT INTO `game` VALUES ('忍者神龟2：下水道归来', 'PS5', '2025-03-10 00:00:00');
+INSERT INTO `game` VALUES ('忍者神龟3：曼哈顿计划', 'PS5', '2025-03-13 00:00:00');
+INSERT INTO `game` VALUES ('忍者神龟3：紧急营救', 'PS5', '2025-03-12 00:00:00');
+INSERT INTO `game` VALUES ('忍者神龟4：时空武士', 'PS5', '2025-03-12 00:00:00');
+INSERT INTO `game` VALUES ('忍者神龟（街机）', 'PS5', '2025-03-10 00:00:00');
 INSERT INTO `game` VALUES ('忍者神龟：大脚帮陨落', 'PS5', '2025-03-09 00:00:00');
+INSERT INTO `game` VALUES ('忍者神龟：战士锦标赛（FC）', 'PS5', '2025-03-10 00:00:00');
+INSERT INTO `game` VALUES ('忍者神龟：战士锦标赛（MD）', 'PS5', '2025-03-13 00:00:00');
+INSERT INTO `game` VALUES ('忍者神龟：战士锦标赛（SFC）', 'PS5', '2025-03-10 00:00:00');
+INSERT INTO `game` VALUES ('忍者神龟：超能石劫案', 'PS5', '2025-03-13 00:00:00');
 INSERT INTO `game` VALUES ('忍者龙剑传Σ+', 'PSV', '2015-07-04 00:00:00');
 INSERT INTO `game` VALUES ('忍者龙剑传Σ2+', 'PSV', '2014-05-04 00:00:00');
 INSERT INTO `game` VALUES ('忘却之声', 'iOS', '2017-05-14 00:00:00');
