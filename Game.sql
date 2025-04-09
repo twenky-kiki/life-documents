@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 13/03/2025 17:37:57
+ Date: 09/04/2025 10:57:12
 */
 
 SET NAMES utf8mb4;
@@ -32,6 +32,7 @@ CREATE TABLE `game` (
 -- Records of game
 -- ----------------------------
 BEGIN;
+INSERT INTO `game` VALUES ('96号公路', 'PS5', '2025-03-19 00:00:00');
 INSERT INTO `game` VALUES ('ABZU', 'PS4', '2024-05-06 00:00:00');
 INSERT INTO `game` VALUES ('armored warriors', 'PS4', '2021-05-16 00:00:00');
 INSERT INTO `game` VALUES ('battleheart', 'Android', '2011-10-23 00:00:00');
@@ -126,6 +127,7 @@ INSERT INTO `game` VALUES ('十三机兵防卫圈', 'PS4', '2024-01-16 00:00:00'
 INSERT INTO `game` VALUES ('卒业旅行', 'PC', '2008-10-20 00:00:00');
 INSERT INTO `game` VALUES ('危机之翼', 'PS4', '2022-10-10 00:00:00');
 INSERT INTO `game` VALUES ('双人成行', 'PS4', '2023-09-29 19:12:21');
+INSERT INTO `game` VALUES ('古墓丽影最终版', 'PS5', '2025-03-17 00:00:00');
 INSERT INTO `game` VALUES ('古墓丽影：暗影', 'PS4', '2021-01-10 00:00:00');
 INSERT INTO `game` VALUES ('古惑狼4：时机已到', 'PS4', '2022-08-21 00:00:00');
 INSERT INTO `game` VALUES ('吃豆人：吃遍世界', 'PS5', '2025-03-06 00:00:00');
@@ -236,6 +238,7 @@ INSERT INTO `game` VALUES ('战神', 'PSV', '2014-08-16 00:00:00');
 INSERT INTO `game` VALUES ('战神(新)', 'PS4', '2021-10-31 00:00:00');
 INSERT INTO `game` VALUES ('战神2', 'PSV', '2019-06-13 00:00:00');
 INSERT INTO `game` VALUES ('战神3', 'PS4', '2021-05-26 00:00:00');
+INSERT INTO `game` VALUES ('战锤：混沌祸根', 'PS5', '2025-03-17 00:00:00');
 INSERT INTO `game` VALUES ('拳皇15', 'PS4', '2022-02-23 00:00:00');
 INSERT INTO `game` VALUES ('拳皇2000', 'PS2', '2008-03-12 00:00:00');
 INSERT INTO `game` VALUES ('拳皇2001', 'PS2', '2008-03-12 00:00:00');
@@ -372,6 +375,7 @@ INSERT INTO `game` VALUES ('美女快打', 'PC', '2011-08-22 00:00:00');
 INSERT INTO `game` VALUES ('美女终结者', 'PC', '2007-09-05 00:00:00');
 INSERT INTO `game` VALUES ('聚爆', 'iOS', '2015-06-13 00:00:00');
 INSERT INTO `game` VALUES ('肥肥公主大作战', 'PS4', '2022-05-11 00:00:00');
+INSERT INTO `game` VALUES ('肯泽拉传说：扎乌', 'PS5', '2025-03-27 00:00:00');
 INSERT INTO `game` VALUES ('胡闹搬家2', 'PS4', '2024-01-13 00:00:00');
 INSERT INTO `game` VALUES ('胧村正', 'PSV', '2014-10-01 00:00:00');
 INSERT INTO `game` VALUES ('脱衣黑杰克', 'PC', '2020-05-04 00:00:00');
@@ -426,6 +430,7 @@ INSERT INTO `game` VALUES ('轩辕剑4：黑龙舞兮云飞扬', 'PC', '2011-12-
 INSERT INTO `game` VALUES ('轩辕剑外传：汉之云', 'PC', '2011-06-28 00:00:00');
 INSERT INTO `game` VALUES ('轩辕剑外传：苍之涛', 'PC', '2007-07-24 00:00:00');
 INSERT INTO `game` VALUES ('迷人的残酷', 'PS4', '2021-11-09 00:00:00');
+INSERT INTO `game` VALUES ('迷瘴纪事', 'PS5', '2025-04-02 00:00:00');
 INSERT INTO `game` VALUES ('逃生', 'PS4', '2021-08-08 00:00:00');
 INSERT INTO `game` VALUES ('逃生2', 'PS4', '2022-02-01 00:00:00');
 INSERT INTO `game` VALUES ('逃生：告密者', 'PS4', '2021-08-14 00:00:00');
