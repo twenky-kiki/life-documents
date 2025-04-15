@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 09/04/2025 10:57:12
+ Date: 15/04/2025 15:29:40
 */
 
 SET NAMES utf8mb4;
@@ -130,6 +130,7 @@ INSERT INTO `game` VALUES ('双人成行', 'PS4', '2023-09-29 19:12:21');
 INSERT INTO `game` VALUES ('古墓丽影最终版', 'PS5', '2025-03-17 00:00:00');
 INSERT INTO `game` VALUES ('古墓丽影：暗影', 'PS4', '2021-01-10 00:00:00');
 INSERT INTO `game` VALUES ('古惑狼4：时机已到', 'PS4', '2022-08-21 00:00:00');
+INSERT INTO `game` VALUES ('只只大冒险', 'PS5', '2025-04-13 00:00:00');
 INSERT INTO `game` VALUES ('吃豆人：吃遍世界', 'PS5', '2025-03-06 00:00:00');
 INSERT INTO `game` VALUES ('合金弹头', 'WII', '2009-01-18 00:00:00');
 INSERT INTO `game` VALUES ('合金弹头2', 'WII', '2009-01-27 00:00:00');
@@ -222,6 +223,7 @@ INSERT INTO `game` VALUES ('忍者龙剑传Σ2+', 'PSV', '2014-05-04 00:00:00');
 INSERT INTO `game` VALUES ('忘却之声', 'iOS', '2017-05-14 00:00:00');
 INSERT INTO `game` VALUES ('快打旋风', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `game` VALUES ('恶名昭彰：次子', 'PS4', '2021-09-30 00:00:00');
+INSERT INTO `game` VALUES ('恶魔之魂重制版', 'PS5', '2025-04-14 00:00:00');
 INSERT INTO `game` VALUES ('恶魔城XX', 'PS4', '2021-11-17 00:00:00');
 INSERT INTO `game` VALUES ('恶魔城X：月下夜想曲', 'PS4', '2021-10-10 00:00:00');
 INSERT INTO `game` VALUES ('恶魔城X：血之轮回', 'PS4', '2021-10-08 00:00:00');
@@ -340,6 +342,7 @@ INSERT INTO `game` VALUES ('瑞奇与叮当：时空跳转', 'PS5', '2024-10-23 
 INSERT INTO `game` VALUES ('生化危机2重制版', 'PS5', '2024-11-13 00:00:00');
 INSERT INTO `game` VALUES ('生化危机3重制版', 'PS5', '2025-02-21 00:00:00');
 INSERT INTO `game` VALUES ('生化危机：启示录2', 'PS4', '2015-09-20 00:00:00');
+INSERT INTO `game` VALUES ('疯狂兔子：奇遇派对', 'PS5', '2025-04-13 00:00:00');
 INSERT INTO `game` VALUES ('百花物语：镜花缘', 'PC', '2008-10-24 00:00:00');
 INSERT INTO `game` VALUES ('百英雄传：崛起', 'PS5', '2024-10-29 00:00:00');
 INSERT INTO `game` VALUES ('盗贼遗产', 'PSV', '2016-10-07 00:00:00');
@@ -430,6 +433,7 @@ INSERT INTO `game` VALUES ('轩辕剑4：黑龙舞兮云飞扬', 'PC', '2011-12-
 INSERT INTO `game` VALUES ('轩辕剑外传：汉之云', 'PC', '2011-06-28 00:00:00');
 INSERT INTO `game` VALUES ('轩辕剑外传：苍之涛', 'PC', '2007-07-24 00:00:00');
 INSERT INTO `game` VALUES ('迷人的残酷', 'PS4', '2021-11-09 00:00:00');
+INSERT INTO `game` VALUES ('迷失之刃', 'PS5', '2025-04-10 00:00:00');
 INSERT INTO `game` VALUES ('迷瘴纪事', 'PS5', '2025-04-02 00:00:00');
 INSERT INTO `game` VALUES ('逃生', 'PS4', '2021-08-08 00:00:00');
 INSERT INTO `game` VALUES ('逃生2', 'PS4', '2022-02-01 00:00:00');
