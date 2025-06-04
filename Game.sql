@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 30/04/2025 15:52:09
+ Date: 04/06/2025 15:40:19
 */
 
 SET NAMES utf8mb4;
@@ -90,6 +90,7 @@ INSERT INTO `game` VALUES ('人中之龙3', 'PS4', '2023-01-02 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙4：继承传说者', 'PS4', '2023-03-18 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙5：实现梦想者', 'PS4', '2023-09-05 11:12:18');
 INSERT INTO `game` VALUES ('人中之龙6：生命诗篇', 'PS5', '2025-01-04 00:00:00');
+INSERT INTO `game` VALUES ('人中之龙7外传：无名之龙', 'PS5', '2025-05-19 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙7：光与暗的去向', 'PS5', '2025-04-28 00:00:00');
 INSERT INTO `game` VALUES ('仁王2', 'PS4', '2024-06-28 00:00:00');
 INSERT INTO `game` VALUES ('仙剑奇侠传', 'iOS', '2021-06-30 00:00:00');
@@ -209,6 +210,7 @@ INSERT INTO `game` VALUES ('幽灵小队', 'WII', '2009-01-23 00:00:00');
 INSERT INTO `game` VALUES ('底特律：变人', 'PS4', '2021-09-06 00:00:00');
 INSERT INTO `game` VALUES ('式神之城3', 'PC', '2007-07-07 00:00:00');
 INSERT INTO `game` VALUES ('心灵诡宅', 'PS4', '2021-11-14 00:00:00');
+INSERT INTO `game` VALUES ('心跳文学部Plus', 'PS5', '2025-05-29 00:00:00');
 INSERT INTO `game` VALUES ('忍者神龟2：下水道归来', 'PS5', '2025-03-10 00:00:00');
 INSERT INTO `game` VALUES ('忍者神龟3：曼哈顿计划', 'PS5', '2025-03-13 00:00:00');
 INSERT INTO `game` VALUES ('忍者神龟3：紧急营救', 'PS5', '2025-03-12 00:00:00');
@@ -308,6 +310,7 @@ INSERT INTO `game` VALUES ('樱花大战3：巴黎在燃烧吗', 'PC', '2007-08-
 INSERT INTO `game` VALUES ('樱花大战4：恋爱吧少女', 'PC', '2007-08-04 00:00:00');
 INSERT INTO `game` VALUES ('樱花大战5前编：荒野的少女武士', 'PS2', '2008-04-22 00:00:00');
 INSERT INTO `game` VALUES ('欲望格斗', 'PC', '2008-04-10 00:00:00');
+INSERT INTO `game` VALUES ('欺诈领主', 'PS5', '2025-05-02 00:00:00');
 INSERT INTO `game` VALUES ('武林群侠传', 'PC', '2009-06-16 00:00:00');
 INSERT INTO `game` VALUES ('死亡终局 轮回试炼', 'PS4', '2022-11-06 00:00:00');
 INSERT INTO `game` VALUES ('死亡终局 轮回试炼2', 'PS4', '2022-11-23 00:00:00');
