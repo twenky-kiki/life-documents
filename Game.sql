@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 04/06/2025 15:40:19
+ Date: 03/07/2025 10:31:39
 */
 
 SET NAMES utf8mb4;
@@ -330,6 +330,7 @@ INSERT INTO `game` VALUES ('洛克人3', 'PS5', '2024-12-16 00:00:00');
 INSERT INTO `game` VALUES ('深夜迴', 'PS4', '2022-04-21 00:00:00');
 INSERT INTO `game` VALUES ('混沌军团', 'PC', '2011-12-05 00:00:00');
 INSERT INTO `game` VALUES ('漫威蜘蛛侠：迈尔斯莫拉莱斯', 'PS4', '2022-08-09 00:00:00');
+INSERT INTO `game` VALUES ('潜水员戴夫', 'PS5', '2025-06-08 00:00:00');
 INSERT INTO `game` VALUES ('火影忍者：木叶的忍者英雄们', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `game` VALUES ('火影忍者：木叶的忍者英雄们2', 'PS2', '2008-05-28 00:00:00');
 INSERT INTO `game` VALUES ('火焰纹章 无双', 'NS', '2020-12-03 00:00:00');
@@ -383,6 +384,7 @@ INSERT INTO `game` VALUES ('美女终结者', 'PC', '2007-09-05 00:00:00');
 INSERT INTO `game` VALUES ('聚爆', 'iOS', '2015-06-13 00:00:00');
 INSERT INTO `game` VALUES ('肥肥公主大作战', 'PS4', '2022-05-11 00:00:00');
 INSERT INTO `game` VALUES ('肯泽拉传说：扎乌', 'PS5', '2025-03-27 00:00:00');
+INSERT INTO `game` VALUES ('胡闹厨房', 'PS5', '2025-06-08 00:00:00');
 INSERT INTO `game` VALUES ('胡闹搬家2', 'PS4', '2024-01-13 00:00:00');
 INSERT INTO `game` VALUES ('胧村正', 'PSV', '2014-10-01 00:00:00');
 INSERT INTO `game` VALUES ('脱衣黑杰克', 'PC', '2020-05-04 00:00:00');
