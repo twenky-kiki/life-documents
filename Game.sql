@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 03/07/2025 10:31:39
+ Date: 08/07/2025 14:04:20
 */
 
 SET NAMES utf8mb4;
@@ -200,6 +200,7 @@ INSERT INTO `game` VALUES ('对马岛之魂', 'PS4', '2022-08-05 00:00:00');
 INSERT INTO `game` VALUES ('封闭的噩梦', 'PS4', '2019-10-24 00:00:00');
 INSERT INTO `game` VALUES ('小小大星球', 'PSV', '2014-10-05 00:00:00');
 INSERT INTO `game` VALUES ('小小梦魇', 'PS4', '2022-11-05 00:00:00');
+INSERT INTO `game` VALUES ('小小梦魇2', 'NS', '2025-07-06 00:00:00');
 INSERT INTO `game` VALUES ('小缇娜强袭龙堡：奇幻之地大冒险', 'PS4', '2022-02-20 00:00:00');
 INSERT INTO `game` VALUES ('少年街霸3', 'PSV', '2014-01-28 00:00:00');
 INSERT INTO `game` VALUES ('巫师3：狂猎', 'PS4', '2019-05-01 00:00:00');
@@ -483,6 +484,7 @@ INSERT INTO `game` VALUES ('魔法门之英雄无敌5', 'PC', '2009-08-03 00:00:
 INSERT INTO `game` VALUES ('魔法门之英雄无敌5：东方部落', 'PC', '2012-05-21 00:00:00');
 INSERT INTO `game` VALUES ('魔法门之英雄无敌5：命运之锤', 'PC', '2012-05-07 00:00:00');
 INSERT INTO `game` VALUES ('魔法门之英雄无敌6', 'PC', '2013-03-03 00:00:00');
+INSERT INTO `game` VALUES ('魔能2', 'PS5', '2025-07-06 00:00:00');
 INSERT INTO `game` VALUES ('麻将情趣屋', 'PC', '2007-09-04 00:00:00');
 INSERT INTO `game` VALUES ('麻将情趣屋II', 'PC', '2008-05-23 00:00:00');
 INSERT INTO `game` VALUES ('麻布仔大冒险', 'PS4', '2024-08-18 00:00:00');
