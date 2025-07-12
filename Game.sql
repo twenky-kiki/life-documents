@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 08/07/2025 14:04:20
+ Date: 12/07/2025 16:49:21
 */
 
 SET NAMES utf8mb4;
@@ -293,6 +293,7 @@ INSERT INTO `game` VALUES ('曲途', 'PS4', '2024-03-21 00:00:00');
 INSERT INTO `game` VALUES ('最后生还者', 'PS4', '2021-06-06 00:00:00');
 INSERT INTO `game` VALUES ('最终幻想12：黄道年代', 'PS4', '2024-05-16 00:00:00');
 INSERT INTO `game` VALUES ('最终幻想7重制版', 'PS4', '2021-03-13 00:00:00');
+INSERT INTO `game` VALUES ('最终幻想7：核心危机 重聚', 'PS5', '2025-07-11 00:00:00');
 INSERT INTO `game` VALUES ('最终幻想X', 'PS2', '2009-05-23 00:00:00');
 INSERT INTO `game` VALUES ('月圆之夜', 'iOS', '2018-12-11 00:00:00');
 INSERT INTO `game` VALUES ('月姬格斗TYPE LUMINA', 'PS4', '2023-09-22 19:11:55');
