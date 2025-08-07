@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 12/07/2025 16:49:21
+ Date: 07/08/2025 16:55:24
 */
 
 SET NAMES utf8mb4;
@@ -56,6 +56,7 @@ INSERT INTO `game` VALUES ('NBA2K15', 'PS4', '2015-12-20 00:00:00');
 INSERT INTO `game` VALUES ('NOX', 'PC', '2009-03-17 00:00:00');
 INSERT INTO `game` VALUES ('patapon', 'PS4', '2024-03-09 00:00:00');
 INSERT INTO `game` VALUES ('patapon2', 'PS5', '2024-10-11 00:00:00');
+INSERT INTO `game` VALUES ('Piece Out：Avatarland', 'PS5', '2025-07-23 00:00:00');
 INSERT INTO `game` VALUES ('simulacra', 'iOS', '2021-05-01 00:00:00');
 INSERT INTO `game` VALUES ('sol cresta', 'PS5', '2025-02-23 00:00:00');
 INSERT INTO `game` VALUES ('solitairica', 'iOS', '2020-05-09 00:00:00');
@@ -261,6 +262,7 @@ INSERT INTO `game` VALUES ('拳皇XI', 'PS2', '2008-03-21 00:00:00');
 INSERT INTO `game` VALUES ('拳皇XIII', 'PC', '2013-03-03 00:00:00');
 INSERT INTO `game` VALUES ('拳皇XIV', 'PS4', '2018-05-01 00:00:00');
 INSERT INTO `game` VALUES ('捉猴啦3', 'PS2', '2009-04-03 00:00:00');
+INSERT INTO `game` VALUES ('撕纸小邮差：拆封', 'PS5', '2025-07-14 00:00:00');
 INSERT INTO `game` VALUES ('教父', 'PS2', '2009-03-15 00:00:00');
 INSERT INTO `game` VALUES ('新剑侠情缘', 'PC', '2009-03-25 00:00:00');
 INSERT INTO `game` VALUES ('新圣魔大战', 'PC', '2009-06-26 00:00:00');
@@ -275,6 +277,7 @@ INSERT INTO `game` VALUES ('无双大蛇：魔王再临', 'PS2', '2008-05-15 00:
 INSERT INTO `game` VALUES ('无名指的教科书', 'PC', '2007-09-30 00:00:00');
 INSERT INTO `game` VALUES ('无敌9号', 'PS4', '2020-12-27 00:00:00');
 INSERT INTO `game` VALUES ('无间冥寺', 'PS4', '2022-05-14 00:00:00');
+INSERT INTO `game` VALUES ('星球大战 绝地：幸存者', 'PS5', '2025-08-04 00:00:00');
 INSERT INTO `game` VALUES ('星际争霸', 'PC', '2008-12-08 00:00:00');
 INSERT INTO `game` VALUES ('星际争霸2：自由之翼', 'PC', '2011-06-19 00:00:00');
 INSERT INTO `game` VALUES ('星际争霸2：虚空之遗', 'PC', '2020-02-18 00:00:00');
