@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 07/08/2025 16:55:24
+ Date: 18/08/2025 18:49:55
 */
 
 SET NAMES utf8mb4;
@@ -239,6 +239,7 @@ INSERT INTO `game` VALUES ('恶魔城：月之轮回', 'PS4', '2021-12-25 00:00:
 INSERT INTO `game` VALUES ('恶魔城：白夜协奏曲', 'PS4', '2022-04-11 00:00:00');
 INSERT INTO `game` VALUES ('悲恋湖杀人事件', 'PC', '2019-05-12 00:00:00');
 INSERT INTO `game` VALUES ('我的朋友佩德罗', 'PS4', '2024-05-07 00:00:00');
+INSERT INTO `game` VALUES ('战国无双5', 'PS5', '2025-08-16 00:00:00');
 INSERT INTO `game` VALUES ('战斗回路', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `game` VALUES ('战略娘2', 'PC', '2020-04-19 00:00:00');
 INSERT INTO `game` VALUES ('战神', 'PSV', '2014-08-16 00:00:00');
@@ -302,6 +303,7 @@ INSERT INTO `game` VALUES ('月圆之夜', 'iOS', '2018-12-11 00:00:00');
 INSERT INTO `game` VALUES ('月姬格斗TYPE LUMINA', 'PS4', '2023-09-22 19:11:55');
 INSERT INTO `game` VALUES ('机甲格斗2097', 'PC', '2020-04-19 00:00:00');
 INSERT INTO `game` VALUES ('杀戮地带：雇佣兵', 'PSV', '2014-03-31 00:00:00');
+INSERT INTO `game` VALUES ('杀戮尖塔', 'iOS', '2025-08-10 00:00:00');
 INSERT INTO `game` VALUES ('杀手2', 'PS4', '2021-09-15 00:00:00');
 INSERT INTO `game` VALUES ('松鼠大作战', 'FC', '2019-05-26 00:00:00');
 INSERT INTO `game` VALUES ('松鼠大作战2', 'FC', '2019-06-01 00:00:00');
@@ -477,6 +479,7 @@ INSERT INTO `game` VALUES ('非洲探险', 'PC', '2019-05-12 00:00:00');
 INSERT INTO `game` VALUES ('风之少年克罗诺亚', 'PS5', '2024-11-01 00:00:00');
 INSERT INTO `game` VALUES ('风之少年克罗诺亚2', 'PS5', '2024-11-04 00:00:00');
 INSERT INTO `game` VALUES ('飞向月球', 'PS5', '2024-10-13 00:00:00');
+INSERT INTO `game` VALUES ('鬼屋魔影重制版', 'PS5', '2025-08-15 00:00:00');
 INSERT INTO `game` VALUES ('鬼武者', 'PS2', '2009-07-22 00:00:00');
 INSERT INTO `game` VALUES ('鬼泣5', 'PS4', '2023-12-28 00:00:00');
 INSERT INTO `game` VALUES ('魂斗罗', 'FC', '2019-05-30 00:00:00');
