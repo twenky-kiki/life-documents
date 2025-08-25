@@ -11,7 +11,7 @@
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 18/08/2025 18:49:55
+ Date: 25/08/2025 10:17:05
 */
 
 SET NAMES utf8mb4;
@@ -130,6 +130,7 @@ INSERT INTO `game` VALUES ('十三机兵防卫圈', 'PS4', '2024-01-16 00:00:00'
 INSERT INTO `game` VALUES ('卒业旅行', 'PC', '2008-10-20 00:00:00');
 INSERT INTO `game` VALUES ('危机之翼', 'PS4', '2022-10-10 00:00:00');
 INSERT INTO `game` VALUES ('双人成行', 'PS4', '2023-09-29 19:12:21');
+INSERT INTO `game` VALUES ('双影奇境', 'PS5', '2025-08-24 00:00:00');
 INSERT INTO `game` VALUES ('古墓丽影最终版', 'PS5', '2025-03-17 00:00:00');
 INSERT INTO `game` VALUES ('古墓丽影：暗影', 'PS4', '2021-01-10 00:00:00');
 INSERT INTO `game` VALUES ('古惑狼4：时机已到', 'PS4', '2022-08-21 00:00:00');
@@ -392,6 +393,7 @@ INSERT INTO `game` VALUES ('聚爆', 'iOS', '2015-06-13 00:00:00');
 INSERT INTO `game` VALUES ('肥肥公主大作战', 'PS4', '2022-05-11 00:00:00');
 INSERT INTO `game` VALUES ('肯泽拉传说：扎乌', 'PS5', '2025-03-27 00:00:00');
 INSERT INTO `game` VALUES ('胡闹厨房', 'PS5', '2025-06-08 00:00:00');
+INSERT INTO `game` VALUES ('胡闹厨房2', 'PS5', '2025-08-22 00:00:00');
 INSERT INTO `game` VALUES ('胡闹搬家2', 'PS4', '2024-01-13 00:00:00');
 INSERT INTO `game` VALUES ('胧村正', 'PSV', '2014-10-01 00:00:00');
 INSERT INTO `game` VALUES ('脱衣黑杰克', 'PC', '2020-05-04 00:00:00');
@@ -431,6 +433,7 @@ INSERT INTO `game` VALUES ('西游记', 'PC', '2007-07-05 00:00:00');
 INSERT INTO `game` VALUES ('西游记世界', 'FC', '2019-05-29 00:00:00');
 INSERT INTO `game` VALUES ('要塞', 'PC', '2008-11-09 00:00:00');
 INSERT INTO `game` VALUES ('讨鬼传', 'PSV', '2019-06-20 00:00:00');
+INSERT INTO `game` VALUES ('记忆边境', 'PS5', '2025-08-21 00:00:00');
 INSERT INTO `game` VALUES ('贪婪之秋', 'PS4', '2021-01-13 00:00:00');
 INSERT INTO `game` VALUES ('赌神：至尊之战', 'PC', '2007-07-19 00:00:00');
 INSERT INTO `game` VALUES ('赤壁之战', 'PC', '2013-06-21 00:00:00');
