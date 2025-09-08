@@ -1,17 +1,17 @@
 /*
  Navicat Premium Data Transfer
 
- Source Server         : mysql
+ Source Server         : kiki
  Source Server Type    : MySQL
- Source Server Version : 80016
+ Source Server Version : 80034
  Source Host           : localhost:3306
  Source Schema         : kiki
 
  Target Server Type    : MySQL
- Target Server Version : 80016
+ Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 25/08/2025 10:17:05
+ Date: 08/09/2025 14:36:50
 */
 
 SET NAMES utf8mb4;
@@ -21,17 +21,16 @@ SET FOREIGN_KEY_CHECKS = 0;
 -- Table structure for game
 -- ----------------------------
 DROP TABLE IF EXISTS `game`;
-CREATE TABLE `game` (
-  `name` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL DEFAULT '',
-  `host` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT 'PC',
-  `date` datetime DEFAULT NULL,
+CREATE TABLE `game`  (
+  `name` varchar(255) CHARACTER SET utf8mb3 COLLATE utf8mb3_general_ci NOT NULL DEFAULT '',
+  `host` varchar(255) CHARACTER SET utf8mb3 COLLATE utf8mb3_general_ci NULL DEFAULT 'PC',
+  `date` datetime(0) NULL DEFAULT NULL,
   PRIMARY KEY (`name`) USING BTREE
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC;
+) ENGINE = InnoDB CHARACTER SET = utf8mb3 COLLATE = utf8mb3_general_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
 -- Records of game
 -- ----------------------------
-BEGIN;
 INSERT INTO `game` VALUES ('96号公路', 'PS5', '2025-03-19 00:00:00');
 INSERT INTO `game` VALUES ('ABZU', 'PS4', '2024-05-06 00:00:00');
 INSERT INTO `game` VALUES ('armored warriors', 'PS4', '2021-05-16 00:00:00');
@@ -85,6 +84,7 @@ INSERT INTO `game` VALUES ('东方计划：幻想圆舞曲', 'PS4', '2021-08-29 
 INSERT INTO `game` VALUES ('中土世界：战争之影', 'PS4', '2020-12-26 00:00:00');
 INSERT INTO `game` VALUES ('丽兽', 'PC', '2020-04-11 00:00:00');
 INSERT INTO `game` VALUES ('乐高DC超级反派', 'PS4', '2021-12-25 00:00:00');
+INSERT INTO `game` VALUES ('九张羊皮纸', 'PS5', '2025-09-05 14:36:20');
 INSERT INTO `game` VALUES ('人中之龙 极', 'PS4', '2020-03-15 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙 极2', 'PS4', '2022-10-24 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙3', 'PS4', '2023-01-02 00:00:00');
@@ -511,6 +511,5 @@ INSERT INTO `game` VALUES ('龙与地下城：暗黑秘影', 'Arcade', '2016-08-
 INSERT INTO `game` VALUES ('龙之子 VS CAPCOM：乱世英雄', 'WII', '2009-01-18 00:00:00');
 INSERT INTO `game` VALUES ('龙之王冠', 'PSV', '2014-07-16 00:00:00');
 INSERT INTO `game` VALUES ('龙王', 'PS2', '2008-07-12 00:00:00');
-COMMIT;
 
 SET FOREIGN_KEY_CHECKS = 1;
