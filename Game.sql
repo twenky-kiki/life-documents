@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 08/09/2025 14:36:50
+ Date: 10/09/2025 19:59:55
 */
 
 SET NAMES utf8mb4;
@@ -93,6 +93,7 @@ INSERT INTO `game` VALUES ('人中之龙5：实现梦想者', 'PS4', '2023-09-05
 INSERT INTO `game` VALUES ('人中之龙6：生命诗篇', 'PS5', '2025-01-04 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙7外传：无名之龙', 'PS5', '2025-05-19 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙7：光与暗的去向', 'PS5', '2025-04-28 00:00:00');
+INSERT INTO `game` VALUES ('人中之龙：维新！极', 'PS5', '2025-09-09 19:59:04');
 INSERT INTO `game` VALUES ('仁王2', 'PS4', '2024-06-28 00:00:00');
 INSERT INTO `game` VALUES ('仙剑奇侠传', 'iOS', '2021-06-30 00:00:00');
 INSERT INTO `game` VALUES ('仙剑奇侠传2', 'PC', '2008-08-03 00:00:00');
