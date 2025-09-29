@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 10/09/2025 19:59:55
+ Date: 29/09/2025 19:14:10
 */
 
 SET NAMES utf8mb4;
@@ -56,6 +56,7 @@ INSERT INTO `game` VALUES ('NOX', 'PC', '2009-03-17 00:00:00');
 INSERT INTO `game` VALUES ('patapon', 'PS4', '2024-03-09 00:00:00');
 INSERT INTO `game` VALUES ('patapon2', 'PS5', '2024-10-11 00:00:00');
 INSERT INTO `game` VALUES ('Piece Out：Avatarland', 'PS5', '2025-07-23 00:00:00');
+INSERT INTO `game` VALUES ('Pinball Heroes', 'PS5', '2025-09-10 19:11:48');
 INSERT INTO `game` VALUES ('simulacra', 'iOS', '2021-05-01 00:00:00');
 INSERT INTO `game` VALUES ('sol cresta', 'PS5', '2025-02-23 00:00:00');
 INSERT INTO `game` VALUES ('solitairica', 'iOS', '2020-05-09 00:00:00');
@@ -177,6 +178,7 @@ INSERT INTO `game` VALUES ('天使帝国', 'PC', '2008-11-04 00:00:00');
 INSERT INTO `game` VALUES ('天使帝国4', 'iOS', '2018-10-14 00:00:00');
 INSERT INTO `game` VALUES ('天使帝国III', 'PC', '2008-11-09 00:00:00');
 INSERT INTO `game` VALUES ('天堂的陌生人：最终幻想起源', 'PS4', '2024-02-21 00:00:00');
+INSERT INTO `game` VALUES ('天穗之咲稻姬', 'PS5', '2025-09-29 19:13:39');
 INSERT INTO `game` VALUES ('天诛：红', 'PS2', '2008-12-15 00:00:00');
 INSERT INTO `game` VALUES ('天龙八部', 'PC', '2007-09-09 00:00:00');
 INSERT INTO `game` VALUES ('太鼓达人', 'PS2', '2008-05-25 00:00:00');
@@ -343,6 +345,7 @@ INSERT INTO `game` VALUES ('潜水员戴夫', 'PS5', '2025-06-08 00:00:00');
 INSERT INTO `game` VALUES ('火影忍者：木叶的忍者英雄们', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `game` VALUES ('火影忍者：木叶的忍者英雄们2', 'PS2', '2008-05-28 00:00:00');
 INSERT INTO `game` VALUES ('火焰纹章 无双', 'NS', '2020-12-03 00:00:00');
+INSERT INTO `game` VALUES ('火线迈阿密', 'PS5', '2025-09-11 19:12:17');
 INSERT INTO `game` VALUES ('灵魂能力6', 'PS4', '2024-03-25 00:00:00');
 INSERT INTO `game` VALUES ('炎龙骑士团2：黄金城之谜', 'PC', '2008-06-06 00:00:00');
 INSERT INTO `game` VALUES ('炎龙骑士团外传：风之纹章', 'PC', '2009-04-22 00:00:00');
