@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 27/10/2025 18:02:04
+ Date: 10/11/2025 18:43:19
 */
 
 SET NAMES utf8mb4;
@@ -31,6 +31,7 @@ CREATE TABLE `game`  (
 -- ----------------------------
 -- Records of game
 -- ----------------------------
+INSERT INTO `game` VALUES ('', 'PC', NULL);
 INSERT INTO `game` VALUES ('96号公路', 'PS5', '2025-03-19 00:00:00');
 INSERT INTO `game` VALUES ('ABZU', 'PS4', '2024-05-06 00:00:00');
 INSERT INTO `game` VALUES ('armored warriors', 'PS4', '2021-05-16 00:00:00');
@@ -205,6 +206,7 @@ INSERT INTO `game` VALUES ('富甲天下', 'PC', '2007-11-30 00:00:00');
 INSERT INTO `game` VALUES ('富甲天下2', 'PC', '2013-08-10 00:00:00');
 INSERT INTO `game` VALUES ('对马岛之魂', 'PS4', '2022-08-05 00:00:00');
 INSERT INTO `game` VALUES ('封闭的噩梦', 'PS4', '2019-10-24 00:00:00');
+INSERT INTO `game` VALUES ('小丑牌', 'PS5', '2025-11-03 18:30:59');
 INSERT INTO `game` VALUES ('小小大星球', 'PSV', '2014-10-05 00:00:00');
 INSERT INTO `game` VALUES ('小小梦魇', 'PS4', '2022-11-05 00:00:00');
 INSERT INTO `game` VALUES ('小小梦魇2', 'NS', '2025-07-06 00:00:00');
@@ -355,6 +357,7 @@ INSERT INTO `game` VALUES ('炎龙骑士团2：黄金城之谜', 'PC', '2008-06-
 INSERT INTO `game` VALUES ('炎龙骑士团外传：风之纹章', 'PC', '2009-04-22 00:00:00');
 INSERT INTO `game` VALUES ('炎龙骑士团：邪神之封印', 'PC', '2008-05-25 00:00:00');
 INSERT INTO `game` VALUES ('牧场物语：橄榄镇与希望的大地special', 'PS4', '2023-09-22 19:10:57');
+INSERT INTO `game` VALUES ('特拉维斯再度出击：英雄不再', 'PS5', '2025-10-30 17:41:11');
 INSERT INTO `game` VALUES ('狂龙传', 'PC', '2020-05-04 00:00:00');
 INSERT INTO `game` VALUES ('猫咪斗恶龙', 'PS5', '2025-02-27 00:00:00');
 INSERT INTO `game` VALUES ('猫咪斗恶龙2', 'PS5', '2025-10-19 17:59:45');
@@ -392,6 +395,7 @@ INSERT INTO `game` VALUES ('索尼克团队赛车', 'PS4', '2022-03-29 00:00:00'
 INSERT INTO `game` VALUES ('索尼全明星大乱斗', 'PSV', '2014-08-14 00:00:00');
 INSERT INTO `game` VALUES ('红楼梦之十二金钗', 'PC', '2008-12-20 00:00:00');
 INSERT INTO `game` VALUES ('纪念碑谷', 'iOS', '2015-12-18 00:00:00');
+INSERT INTO `game` VALUES ('纸人2', 'PS5', '2025-11-06 18:31:19');
 INSERT INTO `game` VALUES ('绝对绝望少女：枪弹辩驳Another Episode', 'PSV', '2019-05-14 00:00:00');
 INSERT INTO `game` VALUES ('绯红结系', 'PS4', '2025-01-30 00:00:00');
 INSERT INTO `game` VALUES ('罪恶装备 Xrd Rev2', 'PS4', '2020-11-24 00:00:00');
@@ -474,6 +478,7 @@ INSERT INTO `game` VALUES ('钠克大冒险2', 'PS4', '2021-03-08 00:00:00');
 INSERT INTO `game` VALUES ('钢之炼金术士：无法飞翔的天使', 'PS2', '2008-10-24 00:00:00');
 INSERT INTO `game` VALUES ('钢铁之尾', 'PS4', '2023-05-03 00:00:00');
 INSERT INTO `game` VALUES ('铁拳2', 'PS5', '2024-08-02 00:00:00');
+INSERT INTO `game` VALUES ('铁拳3', 'PS5', '2025-10-30 18:30:34');
 INSERT INTO `game` VALUES ('铁拳5', 'PS2', '2009-04-12 00:00:00');
 INSERT INTO `game` VALUES ('铁拳6', 'PS4', '2024-07-05 00:00:00');
 INSERT INTO `game` VALUES ('铁拳7', 'PS4', '2022-02-27 00:00:00');
