@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 10/11/2025 18:43:19
+ Date: 09/12/2025 17:49:15
 */
 
 SET NAMES utf8mb4;
@@ -31,7 +31,6 @@ CREATE TABLE `game`  (
 -- ----------------------------
 -- Records of game
 -- ----------------------------
-INSERT INTO `game` VALUES ('', 'PC', NULL);
 INSERT INTO `game` VALUES ('96号公路', 'PS5', '2025-03-19 00:00:00');
 INSERT INTO `game` VALUES ('ABZU', 'PS4', '2024-05-06 00:00:00');
 INSERT INTO `game` VALUES ('armored warriors', 'PS4', '2021-05-16 00:00:00');
@@ -110,6 +109,7 @@ INSERT INTO `game` VALUES ('伊苏：起源', 'PC', '2007-08-03 00:00:00');
 INSERT INTO `game` VALUES ('众神之怒', 'iOS', '2012-09-10 00:00:00');
 INSERT INTO `game` VALUES ('传颂之物：给逝者的摇篮曲', 'PS4', '2022-02-17 00:00:00');
 INSERT INTO `game` VALUES ('侠客风云传', 'iOS', '2019-04-05 00:00:00');
+INSERT INTO `game` VALUES ('侠盗猎车手3', 'PS5', '2025-11-27 17:47:58');
 INSERT INTO `game` VALUES ('侠盗猎车手5', 'PS4', '2019-10-17 00:00:00');
 INSERT INTO `game` VALUES ('侦探神宫寺三狼前传 代达罗斯：黄金爵士乐的觉醒', 'PS4', '2024-03-14 00:00:00');
 INSERT INTO `game` VALUES ('信使', 'PS4', '2024-05-20 00:00:00');
@@ -369,6 +369,7 @@ INSERT INTO `game` VALUES ('生化危机3重制版', 'PS5', '2025-02-21 00:00:00
 INSERT INTO `game` VALUES ('生化危机：启示录2', 'PS4', '2015-09-20 00:00:00');
 INSERT INTO `game` VALUES ('疯狂兔子：奇遇派对', 'PS5', '2025-04-13 00:00:00');
 INSERT INTO `game` VALUES ('百花物语：镜花缘', 'PC', '2008-10-24 00:00:00');
+INSERT INTO `game` VALUES ('百英雄传', 'PS5', '2025-12-08 17:48:45');
 INSERT INTO `game` VALUES ('百英雄传：崛起', 'PS5', '2024-10-29 00:00:00');
 INSERT INTO `game` VALUES ('盗贼遗产', 'PSV', '2016-10-07 00:00:00');
 INSERT INTO `game` VALUES ('盗贼遗产2', 'PS4', '2023-10-09 00:00:00');
@@ -392,6 +393,8 @@ INSERT INTO `game` VALUES ('神偷', 'PS4', '2020-12-14 00:00:00');
 INSERT INTO `game` VALUES ('神秘海域4：盗贼末路', 'PS4', '2021-09-05 00:00:00');
 INSERT INTO `game` VALUES ('空洞骑士', 'PS4', '2021-01-09 00:00:00');
 INSERT INTO `game` VALUES ('索尼克团队赛车', 'PS4', '2022-03-29 00:00:00');
+INSERT INTO `game` VALUES ('索尼克：未知边境', 'PS5', '2025-12-04 17:48:24');
+INSERT INTO `game` VALUES ('索尼克：超级巨星', 'PS5', '2025-11-11 17:46:07');
 INSERT INTO `game` VALUES ('索尼全明星大乱斗', 'PSV', '2014-08-14 00:00:00');
 INSERT INTO `game` VALUES ('红楼梦之十二金钗', 'PC', '2008-12-20 00:00:00');
 INSERT INTO `game` VALUES ('纪念碑谷', 'iOS', '2015-12-18 00:00:00');
