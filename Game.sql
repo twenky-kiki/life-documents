@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 09/12/2025 17:49:15
+ Date: 18/12/2025 10:16:51
 */
 
 SET NAMES utf8mb4;
@@ -120,11 +120,13 @@ INSERT INTO `game` VALUES ('兄弟：双子传说', 'PS4', '2022-03-27 00:00:00'
 INSERT INTO `game` VALUES ('光之子', 'PSV', '2015-01-28 00:00:00');
 INSERT INTO `game` VALUES ('克鲁苏的召唤', 'PS4', '2021-06-09 00:00:00');
 INSERT INTO `game` VALUES ('兽人必须死3', 'PS5', '2025-02-03 00:00:00');
+INSERT INTO `game` VALUES ('再见狂野之心', 'PS5', '2025-12-17 10:16:10');
 INSERT INTO `game` VALUES ('写真天蚕变', 'PC', '2007-09-04 00:00:00');
 INSERT INTO `game` VALUES ('决战俄罗斯', 'PC', '2020-04-04 00:00:00');
 INSERT INTO `game` VALUES ('刀剑封魔录', 'PC', '2008-12-13 00:00:00');
 INSERT INTO `game` VALUES ('刀剑封魔录外传：上古传说', 'PC', '2008-12-19 00:00:00');
 INSERT INTO `game` VALUES ('初音未来：歌姬计划F2', 'PSV', '2014-05-09 00:00:00');
+INSERT INTO `game` VALUES ('刺客信条编年史：中国', 'PS5', '2025-12-13 10:14:47');
 INSERT INTO `game` VALUES ('剑侠情缘2白金版', 'PC', '2020-06-28 00:00:00');
 INSERT INTO `game` VALUES ('剑侠情缘外传：月影传说', 'PC', '2009-02-06 00:00:00');
 INSERT INTO `game` VALUES ('劳拉和奥西里斯神庙', 'PS4', '2019-05-09 00:00:00');
@@ -283,6 +285,7 @@ INSERT INTO `game` VALUES ('新神雕侠侣', 'PC', '2008-12-29 00:00:00');
 INSERT INTO `game` VALUES ('新纪幻想：圣魔之魂2', 'PS2', '2009-04-11 00:00:00');
 INSERT INTO `game` VALUES ('新豪血寺一族：烦恼解放', 'PS2', '2008-03-27 00:00:00');
 INSERT INTO `game` VALUES ('方根书简', 'PS4', '2022-05-15 00:00:00');
+INSERT INTO `game` VALUES ('无主之地3', 'PS5', '2025-12-13 10:15:08');
 INSERT INTO `game` VALUES ('无双大蛇：魔王再临', 'PS2', '2008-05-15 00:00:00');
 INSERT INTO `game` VALUES ('无名指的教科书', 'PC', '2007-09-30 00:00:00');
 INSERT INTO `game` VALUES ('无敌9号', 'PS4', '2020-12-27 00:00:00');
@@ -352,6 +355,8 @@ INSERT INTO `game` VALUES ('火影忍者：木叶的忍者英雄们', 'PS2', '20
 INSERT INTO `game` VALUES ('火影忍者：木叶的忍者英雄们2', 'PS2', '2008-05-28 00:00:00');
 INSERT INTO `game` VALUES ('火焰纹章 无双', 'NS', '2020-12-03 00:00:00');
 INSERT INTO `game` VALUES ('火线迈阿密', 'PS5', '2025-09-11 19:12:17');
+INSERT INTO `game` VALUES ('火线迈阿密2：空号', 'PS5', '2025-12-16 10:15:32');
+INSERT INTO `game` VALUES ('灵魂能力3', 'PS5', '2025-12-16 10:15:48');
 INSERT INTO `game` VALUES ('灵魂能力6', 'PS4', '2024-03-25 00:00:00');
 INSERT INTO `game` VALUES ('炎龙骑士团2：黄金城之谜', 'PC', '2008-06-06 00:00:00');
 INSERT INTO `game` VALUES ('炎龙骑士团外传：风之纹章', 'PC', '2009-04-22 00:00:00');
