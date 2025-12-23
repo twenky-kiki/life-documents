@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 18/12/2025 10:16:51
+ Date: 23/12/2025 17:08:59
 */
 
 SET NAMES utf8mb4;
@@ -216,6 +216,7 @@ INSERT INTO `game` VALUES ('小缇娜强袭龙堡：奇幻之地大冒险', 'PS4
 INSERT INTO `game` VALUES ('小骨：英雄杀手', 'PS5', '2025-10-01 17:59:18');
 INSERT INTO `game` VALUES ('少年街霸3', 'PSV', '2014-01-28 00:00:00');
 INSERT INTO `game` VALUES ('巫师3：狂猎', 'PS4', '2019-05-01 00:00:00');
+INSERT INTO `game` VALUES ('师父', 'PS5', '2025-12-18 17:08:06');
 INSERT INTO `game` VALUES ('席德梅尔的文明6', 'PS4', '2023-10-25 00:00:00');
 INSERT INTO `game` VALUES ('幸运枪手', 'PS4', '2022-02-27 00:00:00');
 INSERT INTO `game` VALUES ('幽游白书：暗黑武斗会', 'PS2', '2008-04-29 00:00:00');
@@ -466,6 +467,7 @@ INSERT INTO `game` VALUES ('超级魂斗罗', 'FC', '2019-05-31 00:00:00');
 INSERT INTO `game` VALUES ('躲避球学院', 'PS4', '2024-06-07 00:00:00');
 INSERT INTO `game` VALUES ('轩辕剑2', 'PC', '2020-04-04 00:00:00');
 INSERT INTO `game` VALUES ('轩辕剑3外传：天之痕', 'iOS', '2020-08-03 00:00:00');
+INSERT INTO `game` VALUES ('轩辕剑3：云和山的彼端', 'iOS', '2025-12-21 17:08:36');
 INSERT INTO `game` VALUES ('轩辕剑4：黑龙舞兮云飞扬', 'PC', '2011-12-28 00:00:00');
 INSERT INTO `game` VALUES ('轩辕剑外传：汉之云', 'PC', '2011-06-28 00:00:00');
 INSERT INTO `game` VALUES ('轩辕剑外传：苍之涛', 'PC', '2007-07-24 00:00:00');
