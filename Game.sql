@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 23/12/2025 17:08:59
+ Date: 02/02/2026 17:05:19
 */
 
 SET NAMES utf8mb4;
@@ -31,6 +31,7 @@ CREATE TABLE `game`  (
 -- ----------------------------
 -- Records of game
 -- ----------------------------
+INSERT INTO `game` VALUES ('8号出口', 'PS5', '2026-01-31 17:04:24');
 INSERT INTO `game` VALUES ('96号公路', 'PS5', '2025-03-19 00:00:00');
 INSERT INTO `game` VALUES ('ABZU', 'PS4', '2024-05-06 00:00:00');
 INSERT INTO `game` VALUES ('armored warriors', 'PS4', '2021-05-16 00:00:00');
@@ -80,6 +81,7 @@ INSERT INTO `game` VALUES ('三国群英传', 'PC', '2008-12-11 00:00:00');
 INSERT INTO `game` VALUES ('三国群英传3', 'PC', '2011-11-28 00:00:00');
 INSERT INTO `game` VALUES ('三国群英传II', 'PC', '2008-10-19 00:00:00');
 INSERT INTO `game` VALUES ('三国群英传VII', 'PC', '2008-05-28 00:00:00');
+INSERT INTO `game` VALUES ('上行战场', 'PS5', '2026-01-24 17:04:06');
 INSERT INTO `game` VALUES ('不义联盟', 'PS4', '2020-06-23 00:00:00');
 INSERT INTO `game` VALUES ('不义联盟2', 'PS4', '2022-07-19 00:00:00');
 INSERT INTO `game` VALUES ('东方计划：幻想圆舞曲', 'PS4', '2021-08-29 00:00:00');
@@ -165,6 +167,7 @@ INSERT INTO `game` VALUES ('噬神者2', 'PSV', '2015-02-27 00:00:00');
 INSERT INTO `game` VALUES ('四海兄弟2：最终版', 'PS4', '2024-01-06 00:00:00');
 INSERT INTO `game` VALUES ('回音战机', 'PS2', '2008-05-30 00:00:00');
 INSERT INTO `game` VALUES ('圆桌骑士', 'PS2', '2008-07-16 00:00:00');
+INSERT INTO `game` VALUES ('圣兽之王', 'PS5', '2026-01-19 17:03:44');
 INSERT INTO `game` VALUES ('圣剑传说：玛娜试炼', 'PS5', '2024-08-02 00:00:00');
 INSERT INTO `game` VALUES ('圣少女战队', 'PC', '2020-03-28 00:00:00');
 INSERT INTO `game` VALUES ('圣少女战队3', 'PC', '2007-07-24 00:00:00');
@@ -203,6 +206,7 @@ INSERT INTO `game` VALUES ('宇宙机器人无线控制器使用指南', 'PS5', 
 INSERT INTO `game` VALUES ('宏伟王国', 'PS4', '2020-12-20 00:00:00');
 INSERT INTO `game` VALUES ('实况足球2008', 'PS2', '2008-05-22 00:00:00');
 INSERT INTO `game` VALUES ('审判之眼：死神的遗言', 'PS4', '2022-04-05 00:00:00');
+INSERT INTO `game` VALUES ('寂静岭2重制版', 'PS5', '2026-01-08 17:02:56');
 INSERT INTO `game` VALUES ('寂静岭：短信', 'PS5', '2024-10-19 00:00:00');
 INSERT INTO `game` VALUES ('富甲天下', 'PC', '2007-11-30 00:00:00');
 INSERT INTO `game` VALUES ('富甲天下2', 'PC', '2013-08-10 00:00:00');
@@ -309,6 +313,7 @@ INSERT INTO `game` VALUES ('暴力街区2', 'iOS', '2018-11-18 00:00:00');
 INSERT INTO `game` VALUES ('暴雨', 'PS4', '2020-12-29 00:00:00');
 INSERT INTO `game` VALUES ('曲途', 'PS4', '2024-03-21 00:00:00');
 INSERT INTO `game` VALUES ('最后生还者', 'PS4', '2021-06-06 00:00:00');
+INSERT INTO `game` VALUES ('最后生还者2', 'PS5', '2026-01-13 17:03:20');
 INSERT INTO `game` VALUES ('最终幻想12：黄道年代', 'PS4', '2024-05-16 00:00:00');
 INSERT INTO `game` VALUES ('最终幻想7重制版', 'PS4', '2021-03-13 00:00:00');
 INSERT INTO `game` VALUES ('最终幻想7：核心危机 重聚', 'PS5', '2025-07-11 00:00:00');
@@ -506,6 +511,7 @@ INSERT INTO `game` VALUES ('非洲探险', 'PC', '2019-05-12 00:00:00');
 INSERT INTO `game` VALUES ('风之少年克罗诺亚', 'PS5', '2024-11-01 00:00:00');
 INSERT INTO `game` VALUES ('风之少年克罗诺亚2', 'PS5', '2024-11-04 00:00:00');
 INSERT INTO `game` VALUES ('飞向月球', 'PS5', '2024-10-13 00:00:00');
+INSERT INTO `game` VALUES ('高殿战记', 'PS5', '2026-02-02 17:04:45');
 INSERT INTO `game` VALUES ('鬼屋魔影重制版', 'PS5', '2025-08-15 00:00:00');
 INSERT INTO `game` VALUES ('鬼武者', 'PS2', '2009-07-22 00:00:00');
 INSERT INTO `game` VALUES ('鬼泣5', 'PS4', '2023-12-28 00:00:00');
