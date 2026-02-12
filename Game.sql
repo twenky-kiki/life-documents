@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 02/02/2026 17:05:19
+ Date: 12/02/2026 11:17:52
 */
 
 SET NAMES utf8mb4;
@@ -129,6 +129,7 @@ INSERT INTO `game` VALUES ('刀剑封魔录', 'PC', '2008-12-13 00:00:00');
 INSERT INTO `game` VALUES ('刀剑封魔录外传：上古传说', 'PC', '2008-12-19 00:00:00');
 INSERT INTO `game` VALUES ('初音未来：歌姬计划F2', 'PSV', '2014-05-09 00:00:00');
 INSERT INTO `game` VALUES ('刺客信条编年史：中国', 'PS5', '2025-12-13 10:14:47');
+INSERT INTO `game` VALUES ('刺客信条：幻景', 'PS5', '2026-02-10 11:14:53');
 INSERT INTO `game` VALUES ('剑侠情缘2白金版', 'PC', '2020-06-28 00:00:00');
 INSERT INTO `game` VALUES ('剑侠情缘外传：月影传说', 'PC', '2009-02-06 00:00:00');
 INSERT INTO `game` VALUES ('劳拉和奥西里斯神庙', 'PS4', '2019-05-09 00:00:00');
@@ -397,6 +398,7 @@ INSERT INTO `game` VALUES ('真人快打：欺骗', 'PS2', '2009-04-12 00:00:00'
 INSERT INTO `game` VALUES ('真人快打：死亡联盟', 'PS2', '2009-04-12 00:00:00');
 INSERT INTO `game` VALUES ('破晓传说', 'PS5', '2025-02-12 00:00:00');
 INSERT INTO `game` VALUES ('碧蓝幻想Versus', 'PS4', '2022-10-30 00:00:00');
+INSERT INTO `game` VALUES ('碧蓝幻想Versus：崛起', 'PS5', '2026-02-11 11:15:16');
 INSERT INTO `game` VALUES ('碧雪情天', 'PC', '2008-04-12 00:00:00');
 INSERT INTO `game` VALUES ('碰龙美战士', 'PC', '2007-07-31 00:00:00');
 INSERT INTO `game` VALUES ('神之亵渎', 'PS5', '2024-11-09 00:00:00');
