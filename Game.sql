@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 12/02/2026 11:17:52
+ Date: 26/02/2026 11:39:26
 */
 
 SET NAMES utf8mb4;
@@ -48,6 +48,7 @@ INSERT INTO `game` VALUES ('Erica', 'PS4', '2024-06-02 00:00:00');
 INSERT INTO `game` VALUES ('FEZ', 'PSV', '2015-01-31 00:00:00');
 INSERT INTO `game` VALUES ('FIFA22', 'PS4', '2022-05-11 00:00:00');
 INSERT INTO `game` VALUES ('flower', 'PSV', '2015-02-14 00:00:00');
+INSERT INTO `game` VALUES ('GRIS', 'PS5', '2026-02-25 11:38:59');
 INSERT INTO `game` VALUES ('Heroes Trials', 'PS4', '2022-03-13 00:00:00');
 INSERT INTO `game` VALUES ('InkSplosion', 'PSV', '2022-03-01 00:00:00');
 INSERT INTO `game` VALUES ('inscryption', 'PS4', '2023-07-14 11:11:47');
@@ -88,6 +89,7 @@ INSERT INTO `game` VALUES ('东方计划：幻想圆舞曲', 'PS4', '2021-08-29 
 INSERT INTO `game` VALUES ('中土世界：战争之影', 'PS4', '2020-12-26 00:00:00');
 INSERT INTO `game` VALUES ('丽兽', 'PC', '2020-04-11 00:00:00');
 INSERT INTO `game` VALUES ('乐高DC超级反派', 'PS4', '2021-12-25 00:00:00');
+INSERT INTO `game` VALUES ('乐高地平线', 'PS5', '2026-02-22 11:38:05');
 INSERT INTO `game` VALUES ('九张羊皮纸', 'PS5', '2025-09-05 14:36:20');
 INSERT INTO `game` VALUES ('人中之龙 极', 'PS4', '2020-03-15 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙 极2', 'PS4', '2022-10-24 00:00:00');
@@ -194,6 +196,7 @@ INSERT INTO `game` VALUES ('太鼓达人', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `game` VALUES ('太鼓达人：春天，我把曲子全变新了！', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `game` VALUES ('太鼓达人：热闹缤纷第三代', 'PS2', '2008-05-25 00:00:00');
 INSERT INTO `game` VALUES ('失落的记忆', 'iOS', '2021-04-28 00:00:00');
+INSERT INTO `game` VALUES ('奇唤士', 'PS5', '2026-02-24 11:38:43');
 INSERT INTO `game` VALUES ('奇妙逃亡', 'PS4', '2024-05-07 00:00:00');
 INSERT INTO `game` VALUES ('奇异人生：本色', 'PS5', '2025-02-05 00:00:00');
 INSERT INTO `game` VALUES ('奥丁领域', 'PS4', '2020-02-26 00:00:00');
