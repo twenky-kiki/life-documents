@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 26/02/2026 11:39:26
+ Date: 19/03/2026 09:43:35
 */
 
 SET NAMES utf8mb4;
@@ -266,6 +266,7 @@ INSERT INTO `game` VALUES ('战神', 'PSV', '2014-08-16 00:00:00');
 INSERT INTO `game` VALUES ('战神(新)', 'PS4', '2021-10-31 00:00:00');
 INSERT INTO `game` VALUES ('战神2', 'PSV', '2019-06-13 00:00:00');
 INSERT INTO `game` VALUES ('战神3', 'PS4', '2021-05-26 00:00:00');
+INSERT INTO `game` VALUES ('战锤40k：审判官 - 殉道者', 'PS5', '2026-03-18 09:43:09');
 INSERT INTO `game` VALUES ('战锤：混沌祸根', 'PS5', '2025-03-17 00:00:00');
 INSERT INTO `game` VALUES ('拳皇15', 'PS4', '2022-02-23 00:00:00');
 INSERT INTO `game` VALUES ('拳皇2000', 'PS2', '2008-03-12 00:00:00');
@@ -359,6 +360,7 @@ INSERT INTO `game` VALUES ('洛克人2', 'PS4', '2024-07-07 00:00:00');
 INSERT INTO `game` VALUES ('洛克人3', 'PS5', '2024-12-16 00:00:00');
 INSERT INTO `game` VALUES ('深夜迴', 'PS4', '2022-04-21 00:00:00');
 INSERT INTO `game` VALUES ('混沌军团', 'PC', '2011-12-05 00:00:00');
+INSERT INTO `game` VALUES ('漫威蜘蛛侠重制版', 'PS5', '2026-03-11 09:42:31');
 INSERT INTO `game` VALUES ('漫威蜘蛛侠：迈尔斯莫拉莱斯', 'PS4', '2022-08-09 00:00:00');
 INSERT INTO `game` VALUES ('潜水员戴夫', 'PS5', '2025-06-08 00:00:00');
 INSERT INTO `game` VALUES ('火影忍者：木叶的忍者英雄们', 'PS2', '2008-05-25 00:00:00');
@@ -382,6 +384,7 @@ INSERT INTO `game` VALUES ('瑞奇与叮当：时空跳转', 'PS5', '2024-10-23 
 INSERT INTO `game` VALUES ('生化危机2重制版', 'PS5', '2024-11-13 00:00:00');
 INSERT INTO `game` VALUES ('生化危机3重制版', 'PS5', '2025-02-21 00:00:00');
 INSERT INTO `game` VALUES ('生化危机：启示录2', 'PS4', '2015-09-20 00:00:00');
+INSERT INTO `game` VALUES ('生灵重塑', 'PS5', '2026-03-02 09:42:00');
 INSERT INTO `game` VALUES ('疯狂兔子：奇遇派对', 'PS5', '2025-04-13 00:00:00');
 INSERT INTO `game` VALUES ('百花物语：镜花缘', 'PC', '2008-10-24 00:00:00');
 INSERT INTO `game` VALUES ('百英雄传', 'PS5', '2025-12-08 17:48:45');
