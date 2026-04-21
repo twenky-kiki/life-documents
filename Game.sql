@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 19/03/2026 09:43:35
+ Date: 21/04/2026 16:29:59
 */
 
 SET NAMES utf8mb4;
@@ -67,6 +67,7 @@ INSERT INTO `game` VALUES ('Stray', 'PS4', '2022-09-19 00:00:00');
 INSERT INTO `game` VALUES ('The Swapper', 'PS4', '2020-12-11 00:00:00');
 INSERT INTO `game` VALUES ('Ultratron', 'PS4', '2020-11-01 00:00:00');
 INSERT INTO `game` VALUES ('Velocity 2X', 'PSV', '2014-10-10 00:00:00');
+INSERT INTO `game` VALUES ('Venba', 'PS5', '2026-04-06 16:28:57');
 INSERT INTO `game` VALUES ('VR战士5', 'PS4', '2021-06-06 00:00:00');
 INSERT INTO `game` VALUES ('VR特警2', 'PC', '2007-11-28 00:00:00');
 INSERT INTO `game` VALUES ('一夜情', 'PS4', '2021-08-02 00:00:00');
@@ -266,6 +267,7 @@ INSERT INTO `game` VALUES ('战神', 'PSV', '2014-08-16 00:00:00');
 INSERT INTO `game` VALUES ('战神(新)', 'PS4', '2021-10-31 00:00:00');
 INSERT INTO `game` VALUES ('战神2', 'PSV', '2019-06-13 00:00:00');
 INSERT INTO `game` VALUES ('战神3', 'PS4', '2021-05-26 00:00:00');
+INSERT INTO `game` VALUES ('战神：诸神黄昏', 'PS5', '2026-04-01 16:28:40');
 INSERT INTO `game` VALUES ('战锤40k：审判官 - 殉道者', 'PS5', '2026-03-18 09:43:09');
 INSERT INTO `game` VALUES ('战锤：混沌祸根', 'PS5', '2025-03-17 00:00:00');
 INSERT INTO `game` VALUES ('拳皇15', 'PS4', '2022-02-23 00:00:00');
@@ -395,6 +397,7 @@ INSERT INTO `game` VALUES ('直到黎明', 'PS4', '2022-11-28 00:00:00');
 INSERT INTO `game` VALUES ('真三国无双4', 'PS2', '2008-05-21 00:00:00');
 INSERT INTO `game` VALUES ('真三国无双NEXT', 'PSV', '2014-04-27 00:00:00');
 INSERT INTO `game` VALUES ('真人快打', 'PC', '2025-02-17 00:00:00');
+INSERT INTO `game` VALUES ('真人快打1', 'PS5', '2026-04-19 16:29:33');
 INSERT INTO `game` VALUES ('真人快打11', 'PS4', '2021-07-25 00:00:00');
 INSERT INTO `game` VALUES ('真人快打2', 'PC', '2025-02-18 00:00:00');
 INSERT INTO `game` VALUES ('真人快打X', 'PS4', '2017-10-17 00:00:00');
@@ -403,6 +406,7 @@ INSERT INTO `game` VALUES ('真人快打：末日战场', 'PS2', '2008-04-27 00:
 INSERT INTO `game` VALUES ('真人快打：欺骗', 'PS2', '2009-04-12 00:00:00');
 INSERT INTO `game` VALUES ('真人快打：死亡联盟', 'PS2', '2009-04-12 00:00:00');
 INSERT INTO `game` VALUES ('破晓传说', 'PS5', '2025-02-12 00:00:00');
+INSERT INTO `game` VALUES ('碧蓝幻想Relink', 'PS5', '2026-04-16 16:29:15');
 INSERT INTO `game` VALUES ('碧蓝幻想Versus', 'PS4', '2022-10-30 00:00:00');
 INSERT INTO `game` VALUES ('碧蓝幻想Versus：崛起', 'PS5', '2026-02-11 11:15:16');
 INSERT INTO `game` VALUES ('碧雪情天', 'PC', '2008-04-12 00:00:00');
