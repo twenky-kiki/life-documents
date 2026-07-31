@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 06/07/2026 19:08:47
+ Date: 31/07/2026 11:05:13
 */
 
 SET NAMES utf8mb4;
@@ -101,6 +101,7 @@ INSERT INTO `game` VALUES ('人中之龙5：实现梦想者', 'PS4', '2023-09-05
 INSERT INTO `game` VALUES ('人中之龙6：生命诗篇', 'PS5', '2025-01-04 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙7外传：无名之龙', 'PS5', '2025-05-19 00:00:00');
 INSERT INTO `game` VALUES ('人中之龙7：光与暗的去向', 'PS5', '2025-04-28 00:00:00');
+INSERT INTO `game` VALUES ('人中之龙8', 'PS5', '2026-07-27 11:04:36');
 INSERT INTO `game` VALUES ('人中之龙：维新！极', 'PS5', '2025-09-09 19:59:04');
 INSERT INTO `game` VALUES ('仁王2', 'PS4', '2024-06-28 00:00:00');
 INSERT INTO `game` VALUES ('仙剑奇侠传', 'iOS', '2021-06-30 00:00:00');
@@ -459,6 +460,7 @@ INSERT INTO `game` VALUES ('英雄传说：闪之轨迹3', 'PS4', '2021-03-28 00
 INSERT INTO `game` VALUES ('英雄传说：闪之轨迹4', 'PS4', '2021-04-15 00:00:00');
 INSERT INTO `game` VALUES ('英雄传说：零之轨迹', 'PC', '2015-03-07 00:00:00');
 INSERT INTO `game` VALUES ('英雄纹章', 'iOS', '2018-12-07 00:00:00');
+INSERT INTO `game` VALUES ('荆棘：群山之王', 'PS5', '2026-07-09 11:03:45');
 INSERT INTO `game` VALUES ('荒野大镖客：救赎', 'PS5', '2026-06-05 19:07:07');
 INSERT INTO `game` VALUES ('荒野大镖客：救赎2', 'PS4', '2022-07-11 00:00:00');
 INSERT INTO `game` VALUES ('血污2：月之诅咒', 'PS4', '2021-09-02 00:00:00');
@@ -536,6 +538,7 @@ INSERT INTO `game` VALUES ('高殿战记', 'PS5', '2026-02-02 17:04:45');
 INSERT INTO `game` VALUES ('鬼屋魔影重制版', 'PS5', '2025-08-15 00:00:00');
 INSERT INTO `game` VALUES ('鬼武者', 'PS2', '2009-07-22 00:00:00');
 INSERT INTO `game` VALUES ('鬼泣5', 'PS4', '2023-12-28 00:00:00');
+INSERT INTO `game` VALUES ('鬼灭之刃：火之神血风谭2', 'PS5', '2026-07-13 11:04:17');
 INSERT INTO `game` VALUES ('魂斗罗', 'FC', '2019-05-30 00:00:00');
 INSERT INTO `game` VALUES ('魂斗罗：流氓军团', 'PS4', '2021-12-02 00:00:00');
 INSERT INTO `game` VALUES ('魔兽争霸3：冰封王座', 'PC', '2012-01-07 00:00:00');
