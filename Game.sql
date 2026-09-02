@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 31/07/2026 11:05:13
+ Date: 02/09/2026 09:26:28
 */
 
 SET NAMES utf8mb4;
@@ -261,6 +261,7 @@ INSERT INTO `game` VALUES ('恶魔城：暗黑诅咒', 'PS2', '2008-04-16 00:00:
 INSERT INTO `game` VALUES ('恶魔城：月之轮回', 'PS4', '2021-12-25 00:00:00');
 INSERT INTO `game` VALUES ('恶魔城：白夜协奏曲', 'PS4', '2022-04-11 00:00:00');
 INSERT INTO `game` VALUES ('悲恋湖杀人事件', 'PC', '2019-05-12 00:00:00');
+INSERT INTO `game` VALUES ('情感反诈模拟器', 'PS5', '2026-08-23 09:24:58');
 INSERT INTO `game` VALUES ('我的朋友佩德罗', 'PS4', '2024-05-07 00:00:00');
 INSERT INTO `game` VALUES ('战国无双5', 'PS5', '2025-08-16 00:00:00');
 INSERT INTO `game` VALUES ('战斗回路', 'PS4', '2021-05-18 00:00:00');
@@ -339,6 +340,7 @@ INSERT INTO `game` VALUES ('松鼠大作战', 'FC', '2019-05-26 00:00:00');
 INSERT INTO `game` VALUES ('松鼠大作战2', 'FC', '2019-06-01 00:00:00');
 INSERT INTO `game` VALUES ('极品飞车：复仇', 'PS4', '2020-11-14 00:00:00');
 INSERT INTO `game` VALUES ('枪弹辩驳：希望学院与绝望高中生', 'PSV', '2014-04-20 00:00:00');
+INSERT INTO `game` VALUES ('枪，血，黑手党2', 'PS5', '2026-08-30 09:25:43');
 INSERT INTO `game` VALUES ('格斗领域EX', 'PS4', '2024-03-25 00:00:00');
 INSERT INTO `game` VALUES ('植物大战僵尸', 'PC', '2011-01-16 00:00:00');
 INSERT INTO `game` VALUES ('植物大战僵尸：和睦小镇保卫战', 'PS4', '2021-08-06 00:00:00');
@@ -422,6 +424,7 @@ INSERT INTO `game` VALUES ('碰龙美战士', 'PC', '2007-07-31 00:00:00');
 INSERT INTO `game` VALUES ('神之亵渎', 'PS5', '2024-11-09 00:00:00');
 INSERT INTO `game` VALUES ('神偷', 'PS4', '2020-12-14 00:00:00');
 INSERT INTO `game` VALUES ('神秘海域4：盗贼末路', 'PS4', '2021-09-05 00:00:00');
+INSERT INTO `game` VALUES ('神秘海域：失落的遗产', 'PS5', '2026-08-05 09:24:37');
 INSERT INTO `game` VALUES ('空洞骑士', 'PS4', '2021-01-09 00:00:00');
 INSERT INTO `game` VALUES ('索尼克团队赛车', 'PS4', '2022-03-29 00:00:00');
 INSERT INTO `game` VALUES ('索尼克：未知边境', 'PS5', '2025-12-04 17:48:24');
@@ -527,6 +530,7 @@ INSERT INTO `game` VALUES ('雀美眉写真馆', 'PC', '2008-04-19 00:00:00');
 INSERT INTO `game` VALUES ('雨血1：死镇', 'PC', '2012-02-26 00:00:00');
 INSERT INTO `game` VALUES ('雨血2：烨城', 'PC', '2012-07-11 00:00:00');
 INSERT INTO `game` VALUES ('雨血前传：蜃楼', 'PC', '2013-05-26 00:00:00');
+INSERT INTO `game` VALUES ('雪人兄弟：仙境', 'PS5', '2026-08-29 09:25:19');
 INSERT INTO `game` VALUES ('零：濡鸦之巫女', 'PS4', '2022-04-10 00:00:00');
 INSERT INTO `game` VALUES ('霹雳奇侠传：清香白莲素还真', 'PC', '2008-05-09 00:00:00');
 INSERT INTO `game` VALUES ('非洲探险', 'PC', '2019-05-12 00:00:00');
