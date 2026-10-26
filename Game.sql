@@ -11,7 +11,7 @@
  Target Server Version : 80034
  File Encoding         : 65001
 
- Date: 02/09/2026 09:26:28
+ Date: 26/10/2026 09:59:20
 */
 
 SET NAMES utf8mb4;
@@ -114,6 +114,7 @@ INSERT INTO `game` VALUES ('伊苏VIII：丹娜的陨涕日', 'PS4', '2023-04-29
 INSERT INTO `game` VALUES ('伊苏：塞尔塞塔的树海', 'PSV', '2020-06-27 00:00:00');
 INSERT INTO `game` VALUES ('伊苏：起源', 'PC', '2007-08-03 00:00:00');
 INSERT INTO `game` VALUES ('众神之怒', 'iOS', '2012-09-10 00:00:00');
+INSERT INTO `game` VALUES ('传说法师', 'PS5', '2026-10-25 09:58:44');
 INSERT INTO `game` VALUES ('传颂之物：给逝者的摇篮曲', 'PS4', '2022-02-17 00:00:00');
 INSERT INTO `game` VALUES ('侠客风云传', 'iOS', '2019-04-05 00:00:00');
 INSERT INTO `game` VALUES ('侠盗猎车手3', 'PS5', '2025-11-27 17:47:58');
@@ -164,6 +165,7 @@ INSERT INTO `game` VALUES ('同级生2', 'PC', '2011-01-16 00:00:00');
 INSERT INTO `game` VALUES ('名将', 'PS2', '2008-05-30 00:00:00');
 INSERT INTO `game` VALUES ('吞食天地2：赤壁之战', 'PS4', '2021-05-17 00:00:00');
 INSERT INTO `game` VALUES ('吸血鬼', 'PS4', '2020-11-23 00:00:00');
+INSERT INTO `game` VALUES ('吸血鬼幸存者', 'PS5', '2026-10-11 09:58:02');
 INSERT INTO `game` VALUES ('命运石之门', 'PC', '2014-09-13 00:00:00');
 INSERT INTO `game` VALUES ('咒语力量3：燃烧之血', 'PS5', '2024-08-18 00:00:00');
 INSERT INTO `game` VALUES ('咩咩启示录', 'PS5', '2025-01-07 00:00:00');
@@ -207,6 +209,7 @@ INSERT INTO `game` VALUES ('女神异闻录4G', 'PSV', '2014-04-13 00:00:00');
 INSERT INTO `game` VALUES ('女神异闻录4通宵热舞', 'PSV', '2020-07-10 00:00:00');
 INSERT INTO `game` VALUES ('女神异闻录5R', 'PS4', '2022-05-29 00:00:00');
 INSERT INTO `game` VALUES ('女神异闻录5乱战：魅影攻手', 'PS4', '2022-06-22 00:00:00');
+INSERT INTO `game` VALUES ('女神异闻录5战略版', 'PS5', '2026-09-13 09:57:03');
 INSERT INTO `game` VALUES ('女鬼桥：开魂路', 'PS4', '2023-12-03 00:00:00');
 INSERT INTO `game` VALUES ('妖怪手表JAM 妖怪学园Y：自由欢乐学园生活', 'PS4', '2022-09-19 00:00:00');
 INSERT INTO `game` VALUES ('宇宙机器人无线控制器使用指南', 'PS5', '2024-09-14 00:00:00');
@@ -390,6 +393,7 @@ INSERT INTO `game` VALUES ('猫咪斗恶龙2', 'PS5', '2025-10-19 17:59:45');
 INSERT INTO `game` VALUES ('猫咪斗恶龙3', 'PS5', '2026-05-30 16:00:59');
 INSERT INTO `game` VALUES ('猫娘乐园1', 'PS4', '2021-05-18 00:00:00');
 INSERT INTO `game` VALUES ('王国保卫战：复仇', 'iOS', '2021-05-12 00:00:00');
+INSERT INTO `game` VALUES ('王国：两位君主', 'PS5', '2026-09-20 09:57:26');
 INSERT INTO `game` VALUES ('瑞奇与叮当：时空跳转', 'PS5', '2024-10-23 00:00:00');
 INSERT INTO `game` VALUES ('生化危机2重制版', 'PS5', '2024-11-13 00:00:00');
 INSERT INTO `game` VALUES ('生化危机3重制版', 'PS5', '2025-02-21 00:00:00');
@@ -422,6 +426,7 @@ INSERT INTO `game` VALUES ('碧蓝幻想Versus：崛起', 'PS5', '2026-02-11 11:
 INSERT INTO `game` VALUES ('碧雪情天', 'PC', '2008-04-12 00:00:00');
 INSERT INTO `game` VALUES ('碰龙美战士', 'PC', '2007-07-31 00:00:00');
 INSERT INTO `game` VALUES ('神之亵渎', 'PS5', '2024-11-09 00:00:00');
+INSERT INTO `game` VALUES ('神之亵渎2', 'PS5', '2026-10-17 09:58:26');
 INSERT INTO `game` VALUES ('神偷', 'PS4', '2020-12-14 00:00:00');
 INSERT INTO `game` VALUES ('神秘海域4：盗贼末路', 'PS4', '2021-09-05 00:00:00');
 INSERT INTO `game` VALUES ('神秘海域：失落的遗产', 'PS5', '2026-08-05 09:24:37');
@@ -488,6 +493,7 @@ INSERT INTO `game` VALUES ('讨鬼传', 'PSV', '2019-06-20 00:00:00');
 INSERT INTO `game` VALUES ('记忆边境', 'PS5', '2025-08-21 00:00:00');
 INSERT INTO `game` VALUES ('贪婪之秋', 'PS4', '2021-01-13 00:00:00');
 INSERT INTO `game` VALUES ('赌神：至尊之战', 'PC', '2007-07-19 00:00:00');
+INSERT INTO `game` VALUES ('赛博朋克2077', 'PS5', '2026-10-01 09:57:48');
 INSERT INTO `game` VALUES ('赤壁之战', 'PC', '2013-06-21 00:00:00');
 INSERT INTO `game` VALUES ('超凡双生', 'PS4', '2021-09-22 00:00:00');
 INSERT INTO `game` VALUES ('超级枪弹辩驳2：再见了绝望学园', 'PSV', '2014-05-12 00:00:00');
